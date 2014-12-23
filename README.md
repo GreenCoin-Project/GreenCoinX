@@ -1,0 +1,4 @@
+GreenCoinX
+==========
+
+GreenCoinX Website
