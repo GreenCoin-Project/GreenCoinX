@@ -6,11 +6,9 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="/">
-																 <i class="fa fa-play-circle"></i>  <span class="light">GreenCoin</span><span style="color:gray">X</span> 
-																	
+																 <i class="fa fa-play-circle"></i>  <span class="light">GreenCoin</span><span style="color:red">X</span> 
                 </a>
             </div>
-
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                 <ul class="nav navbar-nav">
@@ -44,6 +42,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
+																				<br>
                         <h1 class="brand-heading">Identified digital currency</h1>
                         <p class="intro-text">
 																								Identified over email and phone<br>
