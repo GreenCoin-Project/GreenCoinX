@@ -33,7 +33,7 @@ A. As at January 2015, approximately 120 million XGC have been mined of which Gr
 <blockquote>
 <p><strong>Q. How can I mine XGC?</strong></p>
 <p>
-A, Mining is performed by downloading the GreenCoinX software at <a href="/download">http://GreenCoinX.com/download</a> and then using the host computer to solve an algorithm which when solved is rewarded with XGC.</p>
+A, Mining is performed by downloading the GreenCoinX software at <a href="/greencoin/download">http://GreenCoinX.com/greencoin/download</a> and then using the host computer to solve an algorithm which when solved is rewarded with XGC.</p>
 </blockquote>
 
 <blockquote>
@@ -57,7 +57,7 @@ A. GreenCoinX identification is initially done when GreenCoinX software is downl
 <blockquote>
 <p><strong>Q. Is GreenCoinX an open source program?</strong></p>
 <p>
-A. Yes. GreenCoinX is an open source software program. It is available for download on http://GreenCoinX.com/download in both Windows and Linux platforms. Programmers can suggest changes and modifications to the code which can be accepted or rejected by GreenCoinX Inc. If changes are made to the software then an upgraded software version will be released by GreenCoinX Inc. To use GreenCoinX, registration is mandatory.</p>
+A. Yes. GreenCoinX is an open source software program. It is available for download on <a href="/greencoin/download">http://GreenCoinX.com/greencoin/download</a> in both Windows and Linux platforms. Programmers can suggest changes and modifications to the code which can be accepted or rejected by GreenCoinX Inc. If changes are made to the software then an upgraded software version will be released by GreenCoinX Inc. To use GreenCoinX, registration is mandatory.</p>
 </blockquote>
 
 <blockquote>
