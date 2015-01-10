@@ -1,4 +1,4 @@
-		<!-- Footer -->
+<!-- Footer -->
 <footer>
 	<div class="container text-center ">
 		<p>GreenCoinX is a registered name of <strong>GreenCoinX Inc, Canada</strong>

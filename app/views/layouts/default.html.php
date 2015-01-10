@@ -8,7 +8,8 @@
  */
  use lithium\storage\Session;
  use app\models\Pages;
- 
+	use app\models\Parameters;  
+	
  if(!isset($title)){
 		$page = Pages::find('first',array(
 			'conditions'=>array('pagename'=>'home')
@@ -17,7 +18,7 @@
 		$keywords = $page['keywords'];
 		$description = $page['description'];
  }
-
+$parameters = Parameters::find('first');
 	$mtime = microtime();
 	$mtime = explode(" ",$mtime);
 	$mtime = $mtime[1] + $mtime[0];
@@ -71,9 +72,7 @@
 	&& $this->_request->controller!='Admin'
 	&& $this->_request->controller!='API'
 	){?> onLoad="UpdateDetails();" <?php }?>>
-
-
-				<?php if($this->_request->controller=="Pages"){?>
+		<?php if($this->_request->controller=="Pages"){?>
 					<?php echo $this->_render('element', 'carousel');?>	
 					<?php echo $this->_render('element', 'feature');?>						
 				<?php }else{?>	
@@ -84,7 +83,7 @@
 					<?php echo $this->_render('element', 'admin');?>
 				<?php }?>
 					<?php if($parameters['server']==false){?>
-					<h1 class="alert alert-danger">Server is down for maintenance!</h1>
+					<h1 class="alert alert-danger">We are checking the servers!</h1>
 					<?php }?>
 					<?php echo $this->content(); ?>
 				</div>

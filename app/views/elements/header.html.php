@@ -15,7 +15,8 @@ use app\extensions\action\Functions;
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="/"><img src="/img/greencoin.png" alt="GreenCoinX"></a>
+					<a class="navbar-brand" href="/"><img src="/img/greencoin.png" alt="GreenCoinX">&nbsp;<sup style="color:red;font-weight:bold">XGC</sup></a>
+					
 				</div>
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
