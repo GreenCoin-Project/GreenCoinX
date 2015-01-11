@@ -14,7 +14,7 @@
 			<tr>
 				<td><?php
 					foreach ($res['_id']['country'] as $r){ ?>
-								<img src="/img/flags/<?=strtolower($r['ISO']);?>.gif" width="30px"> <?=$r['country'].'-'.$r['ISO'];?>
+								<img src="/img/Flags/<?=strtolower($r['ISO']);?>.gif" width="30px"> <?=$r['country'].'-'.$r['ISO'];?>
 								<br>
 					<?php }?></td>
 				<td style="text-align:right"><?=$res['count']?></td>
