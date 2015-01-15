@@ -157,7 +157,7 @@
 										</div>
           <div class="carousel-caption-dark" style="margin-top:10px">
             <h5>Identification Log</h5>
-            <p>Important: identification log file is important for you to access your info on web https://greencoinx.com</p>
+            <p>Important: identification log file is important for you to access your info on https://greencoinx.com</p>
           </div>
 								</div>
 								
@@ -174,11 +174,11 @@
       </a>
     </div>
   </div>
-<p>Enter any extra information in the Info: section, such as business name, government passport number, other means of contact, personal information, or any other information that you wish.</p>
+<p>Enter any extra information in the <strong>Info</strong>: section, such as business name, government passport number, other means of contact, personal information, or any other information that you wish.</p>
 
-<p>Well done, you now have an identified XGC address, when sending coins to someone for any reason you can always ask them to use an identified address. This will help to mitigate risk / uncertainty factors that you may have.<p>
+<p>Well done, you now have an identified XGC address. When sending coins to someone, an individual or a business, you can ask them to use an identified address. This provides consumer protection by mitigating risk associated with anonymous recipients.<p>
 
-<p>And you can in turn use your identified address to receive coins, showing your customers or clients that you can be trusted by giving them that extra bit of reassurance. <p>
+<p>And you can in turn use your identified address to receive coins. Providing your customers or clients with your verified identification information will help show that you can be trusted.<p>
 
 	</div>
 </div>
