@@ -29,10 +29,6 @@
 				<h4>Digital law enforcement</h4>
 				<p>Identified recipients are easy to trace via email, phone, or IP address. The ability to easily track financial crime through the XGC network will assist your law enforcement like nothing before.</p>
 			</blockquote>
-			<blockquote>
-				<h4>Make financial crimes a thing of the past</h4>
-				<p></p>
-			</blockquote>
 			</div>
 		</div>
 		<div class="col-md-6">
