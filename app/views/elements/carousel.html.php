@@ -126,21 +126,25 @@ sendtophone +19872631828 10</pre>
     <section id="signup" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-8 col-lg-offset-2">
-																<img src="/img/bitcoin_greencoin.jpg" style="max-width:100%"/>
-																<div class="col-lg-6 col-lg-offset-3" style="margin-top:-130px">
-																<p>JOIN THE REVOLUTION</p>
-																<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/><br><br>
-																<a href="/greencoin/download" class="btn btn-default btn-lg">Download</a>
-																<a href="/blockchain" class="btn btn-default btn-lg">BlockChain</a><br><br>
-                <ul class="list-inline banner-social-buttons">
-																	<li>
-																	<a href="https://github.com/GreenCoin-Project/GreenCoin-Core" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">OpenSource on Github</span></a>
-																	</li>
-                </ul>
-																
-																</div>
-                </div>
+														<div class="col-lg-8 col-lg-offset-2">
+														<img src="/img/bitcoin_greencoin.jpg" style="max-width:100%"/>
+														<div class="col-lg-6 col-lg-offset-3" style="margin-top:-130px">
+														<p>JOIN THE REVOLUTION</p>
+														<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/><br><br>
+														<a href="/greencoin/download" class="btn btn-default btn-lg"><i class="fa fa-download fa-fw"></i>Download</a><br><br>
+														<a href="/blockchain" class="btn btn-default btn-lg"><i class="fa fa-building fa-fw"></i>BlockChain</a><br><br>
+														<ul class="list-inline banner-social-buttons">
+															<li>
+															<a href="https://github.com/GreenCoin-Project/GreenCoin-Core" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">OpenSource on Github</span></a>
+															</li><br><br>
+															<li>
+															<a href="/greencoin/government" class="btn btn-default btn-lg"><i class="fa fa-flag fa-fw"></i> <span class="network-name">Governments Contact us</span></a>
+															</li>
+
+														</ul>
+														
+														</div>
+														</div>
             </div>
         </div>
     </section>

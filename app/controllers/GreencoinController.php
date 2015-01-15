@@ -74,6 +74,13 @@ class GreencoinController extends \lithium\action\Controller {
 	public function paytaxes(){}
 	public function install(){}
 	public function FAQ(){}
+	public function government(){
+		$countries = Countries::find('all',array(
+			'order'=>array('Country'=>1)
+		));
+		return compact('countries');
+		
+	}
 	
 	
 }
