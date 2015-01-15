@@ -68,6 +68,11 @@ class GreencoinController extends \lithium\action\Controller {
 	public function privacy(){}
 	public function terms(){}
 	public function how(){}
+	public function sendtoemail(){}
+	public function sendtophone(){}
+	public function newaddress(){}
+	public function paytaxes(){}
+	public function install(){}
 	public function FAQ(){}
 	
 	
