@@ -189,7 +189,23 @@ class Functions extends \lithium\action\Controller {
 		return $string;
 	}
 	
-	
+	function arrayCastRecursive($array)
+{
+    if (is_array($array)) {
+        foreach ($array as $key => $value) {
+            if (is_array($value)) {
+                $array[$key] = arrayCastRecursive($value);
+            }
+            if ($value instanceof stdClass) {
+                $array[$key] = arrayCastRecursive((array)$value);
+            }
+        }
+    }
+    if ($array instanceof stdClass) {
+        return $this->arrayCastRecursive((array)$array);
+    }
+    return $array;
+	}
 	public function objectToArray($d) {
 		if (is_object($d)) {
 			// Gets the properties of the given object

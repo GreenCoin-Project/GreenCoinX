@@ -2,6 +2,7 @@
 
 ?>
 <div style="margin:20px">
+<h4 class="alert alert-danger">Get 10 XGC with every identified wallet, ask friends to register, send to their email / phone</h4>
 <div class="row">
 	<div class="col-lg-6">
 		<h3>Registered Users</h3>
@@ -10,16 +11,22 @@
 				<th>Country</th>
 				<th>Users</th>
 			</tr>
-			<?php foreach($result['result'] as $res){?>
+			<?php foreach($users as $key=>$res){
+						foreach($res as $res1){
+							foreach($res1 as $res2){
+								
+				?>
 			<tr>
 				<td><?php
-					foreach ($res['_id']['country'] as $r){ ?>
-								<img src="/img/Flags/<?=strtolower($r['ISO']);?>.gif" width="30px"> <?=$r['country'].'-'.$r['ISO'];?>
+					
+						
+							foreach ($res2->_id->country as $r){ ;?>
+								<img src="/img/Flags/<?=strtolower($r->ISO);?>.gif" width="30px"> <?=$r->country.'-'.$r->ISO;?>
 								<br>
-					<?php }?></td>
-				<td style="text-align:right"><?=$res['count']?></td>
+						<?php }?></td>
+				<td style="text-align:right"><?=$res2->count?></td>
 			</tr>
-			<?php }?>
+			<?php }}}?>
 		</table>
 </div>
 	<div class="col-lg-6">

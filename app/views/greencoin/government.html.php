@@ -4,11 +4,6 @@
 	<div class="col-md-6">
 		<div style="background-color:white;padding:10px"><h3>Government Contact us</h3></div>
 			<div style="background-color:white;padding:10px">
-
-
-
-
-
 			<blockquote>
 				<h4>Register with us</h4>
 				<p>Register your department with XGC. Collect fees, payments, automated regular transactions. Your department will be verified and users will be able to send you transactions via your email, contact number, or through the standard long code.</p>
@@ -48,31 +43,26 @@
 					</select>
     </div>
 				<div class="form-group">
-Country
-Department
-Sub-department (if relevant)
-Physical address
+     <label for="department">Department</label>
+     <input type="text" class="form-control" id="department" name="department" placeholder="Department">
+    </div>
+				<div class="form-group">
+     <label for="subdepartment">Sub-Department (if relevant)</label>
+     <input type="text" class="form-control" id="subdepartment" name="subdepartment" placeholder="Sub Department">
+    </div>
+				<div class="form-group">
+     <label for="address">Address</label>
+     <input type="text" class="form-control" id="address" name="address" placeholder="Full address">
+    </div>
 
-Your name
-Your position
-Email address
-Phone number
-Appropriate contact day/time
-
-Your supervisor (if relevant)
-Supervisor name
-Supervisor position
-Supervisor email address
-Supervisor phone number
-Appropriate contact day/time
-
-Additional Information
+				<div class="form-group">
      <label for="name">Name</label>
      <input type="text" class="form-control" id="name" name="name" placeholder="Enter name">
     </div>
+
 				<div class="form-group">
-     <label for="designation">Designation</label>
-     <input type="text" class="form-control" id="designation" name="designation"  placeholder="Enter designation">
+     <label for="position">Your position</label>
+     <input type="text" class="form-control" id="position" name="position"  placeholder="Enter position">
     </div>
 
 				<div class="form-group">
@@ -84,15 +74,45 @@ Additional Information
      <input type="text" class="form-control" id="phone"  name="phone" placeholder="Enter phone">
     </div>
 				<div class="form-group">
-     <label for="time">Time to contact</label>
+     <label for="time">Appropriate contact day/time</label>
      <input type="text" class="form-control" id="time"  name="time" placeholder="time">
     </div>
+<hr>
+				<div class="form-group">
+     <label for="supdepartment">Your Superior Department (if relevant)</label>
+     <input type="text" class="form-control" id="supdepartment" name="supdepartment" placeholder="Sup Department">
+    </div>
+				<div class="form-group">
+     <label for="supname">Superior Name</label>
+     <input type="text" class="form-control" id="supname" name="supname" placeholder="Enter name">
+    </div>
+
+				<div class="form-group">
+     <label for="supposition">Superior position</label>
+     <input type="text" class="form-control" id="supposition" name="supposition"  placeholder="Enter position">
+    </div>
+
+				<div class="form-group">
+     <label for="supemail">Superior Email address</label>
+     <input type="text" class="form-control" id="supemail" name="supemail"  placeholder="Enter email">
+    </div>
+				<div class="form-group">
+     <label for="supphone">Superior Phone number</label>
+     <input type="text" class="form-control" id="supphone"  name="supphone" placeholder="Enter phone">
+    </div>
+				<div class="form-group">
+     <label for="suptime">Superior Appropriate contact day/time</label>
+     <input type="text" class="form-control" id="suptime"  name="suptime" placeholder="time">
+    </div>
+				
+				<hr>
+				
 				<div class="form-group">
      <label for="extra">Additional info</label>
      <textarea type="textarea" name="addinfo" id="addinfo"  class="form-control"></textarea>
     </div>
 				
-				<input type="submit" class="form-control" value="Submit">
+				<input type="submit" class="form-control btn btn-primary" value="Submit">
 				
 			</form>
 			</div>
