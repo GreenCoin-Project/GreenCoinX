@@ -62,8 +62,8 @@ class GreencoinController extends \lithium\action\Controller {
 				$from = array(NOREPLY => "noreply@".COMPANY_URL);
 				$email = $this->request->data['email'];
 				$attach = null;
-				//$function->sendEmailTo($email,$compact,'greencoin','inquiry',"Government Inquiry",$from,MAIL_1,MAIL_2,MAIL_3,$attach);
-				$function->sendEmailTo($email,$compact,'greencoin','inquiry',"Government Inquiry",$from,MAIL_1,'','',$attach);
+				$function->sendEmailTo($email,$compact,'greencoin','inquiry',"Government Inquiry",$from,MAIL_1,MAIL_2,MAIL_3,$attach);
+				//$function->sendEmailTo($email,$compact,'greencoin','inquiry',"Government Inquiry",$from,MAIL_1,'','',$attach);
 			/////////////////////////////////Email//////////////////////////////////////////////////				
 			$this->redirect('greencoin::inquiry');	
 		}
