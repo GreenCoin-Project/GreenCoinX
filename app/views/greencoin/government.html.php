@@ -29,7 +29,7 @@
 		<div class="col-md-6">
 			<div style="background-color:white;padding:10px"><h3>We will call you back</h3></div>
 			<div style="background-color:white;padding:10px">
-			<form class="form">
+				<?=$this->form->create(null,array('class'=>'form-group','id'=>'Government')); ?>
 				<div class="form-group">
      <label for="name">Country</label>
      <select class="form-control" name="country">
