@@ -76,6 +76,14 @@ class BlockchainController extends \lithium\action\Controller {
 		$title = "Transactions hash: ". $transactionhash;		
 		return compact('decoderawtransaction','listsinceblock','title');
 	}
+	
+	public function address($address){
+			$COINGREEN = new Greencoin('http://'.COINGREEN_WALLET_SERVER.':'.COINGREEN_WALLET_PORT,COINGREEN_WALLET_USERNAME,COINGREEN_WALLET_PASSWORD);
+
+		
+		return compact('transactions','address');
+
+	}
 
 }
 ?>

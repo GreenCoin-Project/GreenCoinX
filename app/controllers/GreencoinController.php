@@ -3,7 +3,8 @@ namespace app\controllers;
 	use app\models\Wallets;  
 	use app\models\Countries;  
 	use app\models\Inquries;  
-	
+	use MongoID;	
+	use lithium\util\String;
 	use lithium\data\Connections;
 	use app\extensions\action\Functions;
 	
@@ -72,6 +73,66 @@ class GreencoinController extends \lithium\action\Controller {
 		return compact('countries');
 	}
 	
-		public function identification(){}
+		public function identification(){
+			if($this->request->data){
+					$search = $this->request->data['search'];
+					switch ($search){
+						case 'searchEmail':
+							$data = Wallets::find('all',array(
+								'conditions'=>array(
+									'email'=>$this->request->data['email']
+								),
+								'order'=>array(
+									'DateTime'=>-1
+								)
+							));
+							break;
+						case 'searchPhone':
+						$data = Wallets::find('all',array(
+								'conditions'=>array(
+									'phone'=>$this->request->data['phone']
+								),
+								'order'=>array(
+									'DateTime'=>-1
+								)
+							));
+							break;
+						case 'searchAddress':
+						$data = Wallets::find('all',array(
+								'conditions'=>array(
+									'addresses'=>$this->request->data['address']
+								),
+								'order'=>array(
+									'DateTime'=>-1
+								)
+							));
+							break;
+					}
+				
+			}
+			
+			return compact('data');
+		}
+		public function addresses($stringID,$id){
+			$show = "No";
+			$secret = "NO";
+			if($this->request->data){
+				$secret = $this->request->data['secret'];
+			}
+			$data = Wallets::find('first', array(
+			'conditions' => array('_id' => new MongoID($id))
+			));
+			if(String::hash($data['_id'])==$stringID){
+				if($secret=="NO"){
+					return compact('data');
+				}else{
+					if($data['secret']==$secret){
+						$show = 'Yes';
+					}
+					return compact('data','show');
+				}
+				
+			}
+		}
 }
 ?>
