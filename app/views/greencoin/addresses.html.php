@@ -13,15 +13,15 @@
 				<th>Extra Info</th>
 			</tr>
 					<tr>
-					<td><?=$data['email']?></td>
-					<td><?=$data['phone']?></td>
-					<td>City: <?=$data['IPinfo']['city']?>, Country: <?=$data['IPinfo']['country']?>, Registered: <?=gmdate(DATE_RFC850,$data['DateTime']->sec)?>, IP: <?=$data['IPinfo']['ip']?></td>
-					<td><?=$data['extra']?></td>
+					<td><?=$data['users']->email?></td>
+					<td><?=$data['users']->phone?></td>
+					<td>City: <?=$data['users']->IPinfo->city?>, Country: <?=$data['users']->IPinfo->country?>, Registered: <?=gmdate(DATE_RFC850,$data['users']->DateTime)?>, IP: <?=$data['users']->IPinfo->ip?></td>
+					<td><?=$data['users']->extra?></td>
 				</tr>
 		</table>
 		
 		<?=$this->form->create(null,array('class'=>'form-group','id'=>'Code')); ?>
-		<h5>Enter identification code for the above information from your identification.log</h5>
+		<h4>Enter ##CODE## for the above information from your identification.log to view GreenCoinX addresses</h4>
 		<input type="text" class="form-control" id="secret" name="secret"  placeholder="Enter Code"><br>
 		<input type="submit" class="form-control btn btn-sm btn-primary" value="Submit Code">
 		</form>
@@ -33,7 +33,7 @@
 				<tr>
 					<th>Addresses</th>
 					<td>
-						<?php foreach($data['addresses'] as $a){?>
+						<?php foreach($data['users']->addresses as $a){?>
 								<code><a href="/blockchain/address/<?=$a?>"><?=$a?></a></code>
 						<?php }?>
 					</td>

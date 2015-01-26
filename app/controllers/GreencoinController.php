@@ -74,42 +74,32 @@ class GreencoinController extends \lithium\action\Controller {
 	}
 	
 		public function identification(){
+
 			if($this->request->data){
 					$search = $this->request->data['search'];
+					$opts = array(
+					'http'=> array(
+					'method'=> "GET",
+					'user_agent'=> "MozillaXYZ/1.0"));
+					$context = stream_context_create($opts);
+					$function = new Functions();
 					switch ($search){
 						case 'searchEmail':
-							$data = Wallets::find('all',array(
-								'conditions'=>array(
-									'email'=>$this->request->data['email']
-								),
-								'order'=>array(
-									'DateTime'=>-1
-								)
-							));
+							$json = file_get_contents('http://hitarth.org/search/user/email/'.$this->request->data['email'], false, $context);
 							break;
 						case 'searchPhone':
-						$data = Wallets::find('all',array(
-								'conditions'=>array(
-									'phone'=>$this->request->data['phone']
-								),
-								'order'=>array(
-									'DateTime'=>-1
-								)
-							));
-							break;
+						$json = file_get_contents('http://hitarth.org/search/user/phone/'.$this->request->data['phone'], false, $context);
+						break;
 						case 'searchAddress':
-						$data = Wallets::find('all',array(
-								'conditions'=>array(
-									'addresses'=>$this->request->data['address']
-								),
-								'order'=>array(
-									'DateTime'=>-1
-								)
-							));
-							break;
+						$json = file_get_contents('http://hitarth.org/search/user/address/'.$this->request->data['address'], false, $context);
+						break;
 					}
 				
 			}
+						
+			$jdec = (array)json_decode($json);			
+			$function = new Functions();
+			$data = $function->objectToArray($jdec);
 			
 			return compact('data');
 		}
@@ -119,14 +109,22 @@ class GreencoinController extends \lithium\action\Controller {
 			if($this->request->data){
 				$secret = $this->request->data['secret'];
 			}
-			$data = Wallets::find('first', array(
-			'conditions' => array('_id' => new MongoID($id))
-			));
-			if(String::hash($data['_id'])==$stringID){
+
+			$opts = array(
+			'http'=> array(
+			'method'=> "GET",
+			'user_agent'=> "MozillaXYZ/1.0"));
+			$context = stream_context_create($opts);
+			$function = new Functions();
+
+			$json = file_get_contents('http://hitarth.org/search/user/id/'.$id, false, $context);
+			$jdec = (array)json_decode($json);			
+			$data = $function->objectToArray($jdec);
+			if(String::hash($data['users']->_id)==$stringID){
 				if($secret=="NO"){
 					return compact('data');
 				}else{
-					if($data['secret']==$secret){
+					if($data['users']->secret==$secret){
 						$show = 'Yes';
 					}
 					return compact('data','show');

@@ -72,16 +72,19 @@
 				<th>Extra Info</th>
 				<th>GreenCoinX</th>
 			</tr>
-	<?php foreach($data as $d){?>
+	<?php foreach($data as $user){
+		foreach($user as $d){
+		?>
 				<tr>
-					<td><?=$d['email']?></td>
-					<td><?=$d['phone']?></td>
-					<td>City: <?=$d['IPinfo']['city']?>, Country: <?=$d['IPinfo']['country']?>, Registered: <?=gmdate(DATE_RFC850,$d['DateTime']->sec)?>, IP: <?=$d['IPinfo']['ip']?></td>
+					<td><?=$d->email?></td>
+					<td><?=$d->phone?></td>
+					<td>City: <?=$d->IPinfo->city?>, Country: <?=$d->IPinfo->country?>, Registered: <?=gmdate(DATE_RFC850,$d->DateTime)?>, IP: <?=$d->IPinfo->ip?></td>
 					
-					<td><?=$d['extra']?></td>
-					<td><a href="/greencoin/addresses/<?=String::hash($d['_id'])?>/<?=$d['_id']?>">Addresses</a></td>
+					<td><?=$d->extra?></td>
+					<td><a href="/greencoin/addresses/<?=String::hash($d->_id)?>/<?=$d->_id?>">Addresses</a></td>
 				</tr>
-	<?php }	?>	
+		<?php }
+		}	?>	
 			
 		</table>
 		</div>
