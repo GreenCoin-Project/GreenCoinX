@@ -9,7 +9,8 @@
 				<table class="table table-condensed">
 					<tr>
 						<td>
-						<input type="text" class="form-control" id="email" name="email"  placeholder="Enter email" alt="">
+						<input type="text" class="form-control" id="email" name="email"  placeholder="yourname@domain.com" alt="">
+						<small>Your email address</small>
 						</td>
 						<td>
 						<input type="submit" class="form-control btn btn-sm btn-primary" value="Email">
@@ -28,7 +29,8 @@
 				<table class="table table-condensed">
 					<tr>
 						<td>
-						<input type="text" class="form-control" id="phone" name="phone"  placeholder="Enter phone">
+						<input type="text" class="form-control" id="phone" name="phone"  placeholder="+998887776666">
+						<small>Include +[Country Code] +998887776666</small>
 						</td>
 						<td>
 						<input type="submit" class="form-control btn btn-sm btn-primary" value="Phone">
@@ -47,7 +49,8 @@
 				<table class="table table-condensed">
 					<tr>
 						<td>
-						<input type="text" class="form-control" id="address" name="address"  placeholder="Enter Address">
+						<input type="text" class="form-control" id="address" name="address"  placeholder="15m7bCWwadgAJPh5PaxTLyngaQzrjNxMQK">
+						<small>Your GreenCoinX address</small>
 						</td>
 						<td>
 						<input type="submit" class="form-control btn btn-sm btn-primary" value="GreenCoin Address">

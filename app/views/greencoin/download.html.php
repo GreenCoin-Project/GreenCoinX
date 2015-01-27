@@ -2,7 +2,7 @@
 
 ?>
 <div style="margin:20px">
-<h4 class="alert alert-danger">Get 10 XGC with every identified wallet, ask friends to register, send to their email / phone</h4>
+<h4 class="alert alert-danger" style="color:black">Get 10 XGC with every identified wallet, ask friends to register, send to their email / phone</h4>
 <div class="row">
 	<div class="col-lg-6">
 		<h3>Registered Users</h3>
@@ -14,12 +14,9 @@
 			<?php foreach($users as $key=>$res){
 						foreach($res as $res1){
 							foreach($res1 as $res2){
-								
 				?>
 			<tr>
 				<td><?php
-					
-						
 							foreach ($res2->_id->country as $r){ ;?>
 								<img src="/img/Flags/<?=strtolower($r->ISO);?>.gif" width="30px"> <?=$r->country.'-'.$r->ISO;?>
 								<br>

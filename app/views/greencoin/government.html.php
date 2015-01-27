@@ -79,7 +79,7 @@
     </div>
 <hr>
 				<div class="form-group">
-     <label for="supdepartment">Your Superior Department (if relevant)</label>
+     <label for="supdepartment">Your Superiors Department (if relevant)</label>
      <input type="text" class="form-control" id="supdepartment" name="supdepartment" placeholder="Sup Department">
     </div>
 				<div class="form-group">
