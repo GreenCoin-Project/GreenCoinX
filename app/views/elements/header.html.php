@@ -27,7 +27,7 @@ use app\extensions\action\Functions;
 						<li><a href="/greencoin/government">government</a></li>
 					</ul>
 					<ul class="nav navbar-nav pull-right">
-						<li><a href="/greencoin/identification"><strong>Identification</strong></a></li>
+						<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
 					</ul>
 				</div>
 			</div>
