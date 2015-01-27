@@ -3,7 +3,14 @@
 <div class="row">
 	<div class="col-md-6">
 		<div style="background-color:white;padding:10px"><h3>Government Contact us</h3></div>
+			
 			<div style="background-color:white;padding:10px">
+			<blockquote>
+				<h4>GreenCoinX - Government</h4>
+				<p>GreenCoinX Inc is ready, willing and able to co-operate with all government entities in any jurisdiction worldwide to smoothly facilitate the collections of taxes related to transactions that use GreenCoinX. </p>
+				<p>GreenCoinX is flexible and modifiable such that each government can decide what identification rules they require for a GreenCoinX transaction and what country specific taxes should be attached to each transaction. Additional parameters can be added on an as needed basis depending on the requirements of each country.</p>
+				<p>We encourage all governments to contact us so that we can facilitate your parameters, by completing the following form.</p>
+			</blockquote>
 			<blockquote>
 				<h4>Register with us</h4>
 				<p>Register your department with XGC. Collect fees, payments, automated regular transactions. Your department will be verified and users will be able to send you transactions via your email, contact number, or through the standard long code.</p>
