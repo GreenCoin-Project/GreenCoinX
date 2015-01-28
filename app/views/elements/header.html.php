@@ -1,9 +1,8 @@
 <?php
 use lithium\storage\Session;
 use app\extensions\action\Functions;
-
+$user = Session::read('member');
 ?>
-<?php $user = Session::read('member'); ?>
 <div class="navbar-wrapper">
 	<div class="">
 		<div class="navbar navbar-inverse navbar-static-top" role="navigation">
