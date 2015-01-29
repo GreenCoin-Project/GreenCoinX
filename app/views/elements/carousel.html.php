@@ -149,4 +149,25 @@ sendtophone +19872631828 10</pre>
         </div>
     </section>
     <!-- Map Section -->
-    <div id="map"></div>
+    <div id="map">
+				
+				<div style="font-size:12px;background-color:#333333;color:white;padding:5px;border-bottom:3px solid green;text-align:center " class="footer">
+					<p>GreenCoinX is a registered name of <strong>GreenCoinX Inc., Canada</strong></p>
+	
+				<ul class="nav navbar-nav" style="font-family:Verdana; font-size:13px">
+					<li><a href="/greencoin/contact">Contact</a></li>		
+					<li><a href="/greencoin/aboutus">About</a></li>	
+					<li><a href="/greencoin/risk">Risk</a></li>				
+					<li><a href="/greencoin/privacy">Privacy</a></li>		
+					<li><a href="/greencoin/terms">Terms</a></li>				
+					<li><a href="/greencoin/how">How it works?</a></li>		
+					<li><a href="/greencoin/FAQ">FAQ</a></li>				
+					<li><a href="/blockchain">blockchain</a></li>
+					<li><a href="/greencoin/download">download</a></li>
+					<li><a href="/greencoin/government">government</a></li>
+					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
+				</ul>
+</div>
+
+				
+				</div>

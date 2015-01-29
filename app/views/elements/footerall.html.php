@@ -8,7 +8,6 @@
 		<li><a href="/greencoin/aboutus">About</a></li>	
 		<li><a href="/greencoin/risk">Risk</a></li>				
 		<li><a href="/greencoin/privacy">Privacy</a></li>		
-		<li><a href="/greencoin/terms">Terms</a></li>				
 		<li><a href="/greencoin/how">How it works?</a></li>		
 		<li><a href="/greencoin/FAQ">FAQ</a></li>				
 		<li><a href="/API">API</a></li>								
