@@ -40,43 +40,28 @@
 			<td>
 			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/64/Setup-GreenCoin-QT-64.exe/download">GreenCoinX Setup - 64 bit</a><br>
 			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/32/Setup-GreenCoin-QT-32.exe/download">GreenCoinX Setup - 32 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/64/greencoin-qt.exe/download">GreenCoinX QT - 64 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/32/greencoin-qt.exe/download">GreenCoinX QT - 32 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/64/greencoind.exe/download">GreenCoinX daemon - 64 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/32/greencoind.exe/download">GreenCoinX daemon - 32 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/64/greencoin-cli.exe/download">GreenCoinX cli - 64 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/32/greencoin-cli.exe/download">GreenCoinX cli - 32 bit</a><br>
 			</td>
 		</tr>
 
 		<tr>
 			<td><img src="/img/Ubuntu-icon.png" width="60px"><br>
-			Ubuntu 64 and 32 bit
+			Ubuntu 64 bit
 			</td>
 			<td>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Ubuntu/64/greencoin-qt/download">GreenCoinX QT - 64 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Ubuntu/32/greencoin-qt/download">GreenCoinX QT - 32 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Ubuntu/64/greencoind/download">GreenCoinX daemon - 64 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Ubuntu/32/greencoind/download">GreenCoinX daemon - 32 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Ubuntu/64/greencoin-cli/download">GreenCoinX cli - 64 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Ubuntu/32/greencoin-cli/download">GreenCoinX cli - 32 bit</a><br>
+			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Ubuntu/64/greencoin-ubuntu-64.tar.gz/download">GreenCoinX QT - 64 bit</a><br>
 			</td>
-		</tr>
-<!--
-		<tr>
 			<td><img src="/img/Linux-icon.png" width="60px"><br>
-			Linux 64 and 32 bit
-			</td>
-			<td>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/64/greencoin-qt/download">GreenCoinX QT - 64 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/32/greencoin-qt/download">GreenCoinX QT - 32 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/64/greencoind/download">GreenCoinX daemon - 64 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/32/greencoind/download">GreenCoinX daemon - 32 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/64/greencoin-cli/download">GreenCoinX cli - 64 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/32/greencoin-cli/download">GreenCoinX cli - 32 bit</a><br>
+			Linux 
 			</td>
 		</tr>
--->		
+
+		<tr>
+			<td>
+			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/greencoin-0.9.3-linux.tar.gz/download">GreenCoinX 64/32 bit & source</a><br>
+			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/greencoin-0.9.3-linux.zip/download">GreenCoinX 64/32 bit Zip</a><br>
+			</td>
+		</tr>
+
 	<tr>
 		<td><img src="/img/Github-icon.png" width="60px"><br>
 		Source</td>
