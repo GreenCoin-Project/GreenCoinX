@@ -50,12 +50,12 @@
 			<td>
 			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Ubuntu/64/greencoin-ubuntu-64.tar.gz/download">GreenCoinX QT - 64 bit</a><br>
 			</td>
-			<td><img src="/img/Linux-icon.png" width="60px"><br>
-			Linux 
-			</td>
 		</tr>
 
 		<tr>
+			<td><img src="/img/Linux-icon.png" width="60px"><br>
+			Linux 
+			</td>
 			<td>
 			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/greencoin-0.9.3-linux.tar.gz/download">GreenCoinX 64/32 bit & source</a><br>
 			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/greencoin-0.9.3-linux.zip/download">GreenCoinX 64/32 bit Zip</a><br>
