@@ -5,7 +5,7 @@
 	<div style=";background-color:#efe;height:50px;margin-top:5px">
 	<ul class="nav navbar-nav" style="font-size:11px">
 		<li><a href="/greencoin/contact">Contact</a></li>		
-		<li><a href="/greencoin/aboutus">About</a></li>	
+		<li><a href="/greencoin/aboutus">About us</a></li>	
 		<li><a href="/greencoin/risk">Risk</a></li>				
 		<li><a href="/greencoin/privacy">Privacy</a></li>		
 		<li><a href="/greencoin/how">How it works?</a></li>		

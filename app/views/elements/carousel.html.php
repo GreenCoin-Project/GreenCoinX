@@ -64,7 +64,7 @@
 																		<div class="col-md-12" style="text-align:centre;background-color:#efe;margin-top:5px">
 																				<ul class="nav navbar-nav" style="font-family:Verdana; font-size:13px">
 																					<li><a href="/greencoin/contact">Contact</a></li>		
-																					<li><a href="/greencoin/aboutus">About</a></li>	
+																					<li><a href="/greencoin/aboutus">About us</a></li>	
 																					<li><a href="/greencoin/risk">Risk</a></li>				
 																					<li><a href="/greencoin/privacy">Privacy</a></li>		
 
