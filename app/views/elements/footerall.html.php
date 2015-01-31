@@ -2,7 +2,7 @@
 	<p>GreenCoinX is a registered name of <strong>GreenCoinX Inc., Canada</strong>
 	<small><span class="pull-right"><?php 	echo number_format($pagetotaltime*1000,2);  ?> ms</span></small>
 	</p>
-	
+	<div style=";background-color:#efe;height:50px;margin-top:5px">
 	<ul class="nav navbar-nav" style="font-size:11px">
 		<li><a href="/greencoin/contact">Contact</a></li>		
 		<li><a href="/greencoin/aboutus">About</a></li>	
@@ -12,4 +12,7 @@
 		<li><a href="/greencoin/FAQ">FAQ</a></li>				
 		<li><a href="/API">API</a></li>								
 	</ul>
+	</div>
+	
 </div>
+<p>&nbsp;</p>

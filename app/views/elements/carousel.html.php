@@ -50,7 +50,7 @@
 													<div class="row">
 														<div class="col-lg-6 col-lg-offset-3">
 															<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/>
-															version 0.9.3 64/32 bit for Windows / Ubuntu
+															version 0.9.3 64/32 bit for Windows / Linux / Ubuntu
 														</div>
 													</div>
 																								</p>
@@ -73,15 +73,16 @@
 															<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/>
 														</div>
 													</div>
-													
-													<p style="text-align:justify;font-size:16px;color:black;margin-top:10px">A unique Cryptocurrency featuring digital identification that addresses the "<strong>trust based concerns</strong>" and identification is required before initiating a transaction, storing XGC, or mining XGC.</p>
-												<p style="text-align:justify;font-size:16px;color:black;margin-top:-15px">GreenCoinX identifies users and facilitates the collection of user defined optional taxes by worldwide governments, thereby removing the two biggest barriers to widespread adoption of Cryptocurrencies.  In a <a href="http://www.bloomberg.com/video/bill-gates-bitcoin-is-exciting-because-it-s-cheap-dQ4qHV4~TLSnUIuIRfZBVA.html" target="_blank">Bloomberg TV interview</a> in October, 2014 Bill Gates, the founder of Microsoft, when asked about bitcoin stated;
-													<blockquote style="text-align:justify;padding-left:20px;">"The customers we’re talking about aren’t trying to be anonymous, they’re willing to be known, so bitcoin technology is key and you can add to it or you could build a similar technology where there’s enough attribution where people feel comfortable that this is nothing to do with terrorism or any type of money laundering." 
+													<p style="text-align:center;font-size:16px;color:white;margin-top:10px">Unique Cryptocurrency addressing risk factors associated with identification.</p>
+													<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px">A unique Cryptocurrency featuring digital identification that addresses the "<strong>trust based concerns</strong>" and identification is required before initiating a transaction, storing XGC, or mining XGC.</p>
+												<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px">GreenCoinX identifies users and facilitates the collection of user defined optional taxes by worldwide governments, thereby removing the two biggest barriers to widespread adoption of Cryptocurrencies.  In a <a href="http://www.bloomberg.com/video/bill-gates-bitcoin-is-exciting-because-it-s-cheap-dQ4qHV4~TLSnUIuIRfZBVA.html" target="_blank">Bloomberg TV interview</a> in October, 2014 Bill Gates, the founder of Microsoft, when asked about bitcoin stated;
+													<blockquote style="text-align:justify;padding-left:20px;margin-top:-20px">"The customers we’re talking about aren’t trying to be anonymous, they’re willing to be known, so bitcoin technology is key and you can add to it or you could build a similar technology where there’s enough attribution where people feel comfortable that this is nothing to do with terrorism or any type of money laundering." 
 													<footer style="padding:0px;margin:0px"><a href="http://www.bloomberg.com/video/bill-gates-bitcoin-is-exciting-because-it-s-cheap-dQ4qHV4~TLSnUIuIRfZBVA.html" target="_blank">Bill Gates, Bloomberg TV</a></footer>
 													</blockquote>
 												</p>
-												<p style="text-align:justify;font-size:16px;color:black;margin-top:-15px">XGC addresses these concerns by providing the attribution of identification that is missing from bitcoin and other Cryptocurrencies. By providing the facility of basic verified identification, XGC offers significant risk factor mitigation for users on a global scale.
+												<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px">XGC addresses these concerns by providing the attribution of identification that is missing from bitcoin and other Cryptocurrencies. By providing the facility of basic verified identification, XGC offers significant risk factor mitigation for users on a global scale.
 												</p>
+												<p style="text-align:center;font-size:16px;color:white;margin-top:-20px">GreenCoinX (XGC) allows users to identify themselves and facilitates automated user defined optional taxes by worldwide governments.</p>
 																<a href="#features" class="btn btn-circle page-scroll">
                  <i class="fa fa-angle-double-down animated"></i>
                 </a>
@@ -112,7 +113,7 @@ sendtophone +19872631828 10</pre>
 																<p style="color:black"><strong style="color:white">Allow</strong> identified transactions to obey international criteria<br>
 																User defined <strong style="color:white">tax</strong> inclusion<br>
 																</p>
-                <p style="color:black">CRYPTO CURRENCY IS THE MONETARY WAVE OF THE FUTURE!!!<br>JOIN THE REVOLUTION&nbsp;</p>
+                <p style="color:black">CRYPTO CURRENCY IS THE MONETARY WAVE OF THE FUTURE!</p>
 																
 																
 																<a href="#signup" class="btn btn-circle page-scroll">
