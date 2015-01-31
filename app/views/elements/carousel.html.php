@@ -32,8 +32,10 @@
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
+												
         </div>
         <!-- /.container -->
+
     </nav>
 
     <!-- Intro Header -->
@@ -41,6 +43,7 @@
         <div class="intro-body">
             <div class="container">
                 <div class="row">
+																			
                     <div class="col-md-8 col-md-offset-2">
 																				<br>
                         <h1 class="brand-heading">Identifiable digital currency</h1>
@@ -54,11 +57,25 @@
 														</div>
 													</div>
 																								</p>
-																								
                         <a href="#about" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
                     </div>
+																		<div class="col-md-12" style="text-align:centre;background-color:#efe;margin-top:5px">
+																				<ul class="nav navbar-nav" style="font-family:Verdana; font-size:13px">
+																					<li><a href="/greencoin/contact">Contact</a></li>		
+																					<li><a href="/greencoin/aboutus">About</a></li>	
+																					<li><a href="/greencoin/risk">Risk</a></li>				
+																					<li><a href="/greencoin/privacy">Privacy</a></li>		
+
+																					<li><a href="/greencoin/how">How it works?</a></li>		
+																					<li><a href="/greencoin/FAQ">FAQ</a></li>				
+																					<li><a href="/blockchain">blockchain</a></li>
+																					<li><a href="/greencoin/download">download</a></li>
+																					<li><a href="/greencoin/government">government</a></li>
+																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
+																				</ul>
+																				</div>
                 </div>
             </div>
         </div>
@@ -155,19 +172,6 @@ sendtophone +19872631828 10</pre>
 				<div style="font-size:12px;background-color:#333333;color:white;padding:5px;border-bottom:3px solid green;text-align:center " class="footer">
 					<p>GreenCoinX is a registered name of <strong>GreenCoinX Inc., Canada</strong></p>
 	
-				<ul class="nav navbar-nav" style="font-family:Verdana; font-size:13px">
-					<li><a href="/greencoin/contact">Contact</a></li>		
-					<li><a href="/greencoin/aboutus">About</a></li>	
-					<li><a href="/greencoin/risk">Risk</a></li>				
-					<li><a href="/greencoin/privacy">Privacy</a></li>		
-					<li><a href="/greencoin/terms">Terms</a></li>				
-					<li><a href="/greencoin/how">How it works?</a></li>		
-					<li><a href="/greencoin/FAQ">FAQ</a></li>				
-					<li><a href="/blockchain">blockchain</a></li>
-					<li><a href="/greencoin/download">download</a></li>
-					<li><a href="/greencoin/government">government</a></li>
-					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
-				</ul>
 </div>
 
 				
