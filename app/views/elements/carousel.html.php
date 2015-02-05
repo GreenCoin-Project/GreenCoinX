@@ -43,24 +43,19 @@
         <div class="intro-body">
             <div class="container">
                 <div class="row">
+																				<div class="col-lg-6 col-lg-offset-3">
+																				<p>&nbsp;</p>
+																					<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/>
+																					version 0.9.3 64/32 bit for Windows / Linux / Ubuntu
+																				</div>
 																			
                     <div class="col-md-8 col-md-offset-2">
-																				<br>
                         <h1 class="brand-heading">Identifiable digital currency</h1>
                         <p class="intro-text">
 																								Verified with email & mobile/phone<br>
 																								IP identified with verification<br>
-													<div class="row">
-														<div class="col-lg-6 col-lg-offset-3">
-															<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/>
-															version 0.9.3 64/32 bit for Windows / Linux / Ubuntu
-														</div>
-													</div>
 																								</p>
-                        <a href="#about" class="btn btn-circle page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
-                        </a>
-                    </div>
+																			</div>
 																		<div class="col-md-12" style="text-align:centre;background-color:#efe;margin-top:5px">
 																				<ul class="nav navbar-nav" style="font-family:Verdana; font-size:13px">
 																					<li><a href="/greencoin/contact">Contact</a></li>		
@@ -76,6 +71,11 @@
 																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
 																				</ul>
 																				</div>
+																				<div class="col-md-8 col-md-offset-2">
+																				 <a href="#about" class="btn btn-circle page-scroll">
+                         <i class="fa fa-angle-double-down animated"></i>
+                        </a>
+</div>
                 </div>
             </div>
         </div>

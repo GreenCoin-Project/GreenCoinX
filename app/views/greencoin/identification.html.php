@@ -53,7 +53,7 @@
 						<small>Your GreenCoinX address</small>
 						</td>
 						<td>
-						<input type="submit" class="form-control btn btn-sm btn-primary" value="GreenCoin Address">
+						<input type="submit" class="form-control btn btn-sm btn-primary" value="GreenCoinX Address">
 						</td>
 					</tr>
 					<tr>
