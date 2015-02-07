@@ -3,6 +3,7 @@ namespace app\controllers;
 	use app\models\Wallets;  
 	use app\models\Countries;  
 	use app\models\Inquries;  
+	use app\models\Pages;
 	use MongoID;	
 	use lithium\util\String;
 	use lithium\data\Connections;
@@ -10,6 +11,14 @@ namespace app\controllers;
 	
 class GreencoinController extends \lithium\action\Controller {
 	public function index(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+
 				$opts = array(
 			  'http'=> array(
 					'method'=> "GET",
@@ -19,9 +28,16 @@ class GreencoinController extends \lithium\action\Controller {
 			$json = file_get_contents('http://hitarth.org/search/users', false, $context);
 			$jdec = (array)json_decode($json);			
 			$users = $function->objectToArray($jdec);
-			return compact('users');	
+			return compact('users','title','keywords','description');	
 	}
 	public function download(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
 		$opts = array(
 			  'http'=> array(
 					'method'=> "GET",
@@ -31,22 +47,148 @@ class GreencoinController extends \lithium\action\Controller {
 			$json = file_get_contents('http://hitarth.org/search/users', false, $context);
 			$jdec = (array)json_decode($json);			
 			$users = $function->objectToArray($jdec);
-			return compact('users');	
+			return compact('users','title','keywords','description');	
 	}
-	public function contact(){}
-	public function aboutus(){}
-	public function risk(){}
-	public function privacy(){}
-	public function terms(){}
-	public function how(){}
-	public function sendtoemail(){}
-	public function sendtophone(){}
-	public function newaddress(){}
-	public function paytaxes(){}
-	public function install(){}
-	public function FAQ(){}
-	public function inquiry(){}
+	public function contact(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
+	public function aboutus(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
+	public function risk(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
+	public function privacy(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
+	public function terms(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
+	public function how(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');	
+		
+	}
+	public function sendtoemail(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');	
+	}
+	public function sendtophone(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
+	public function newaddress(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
+	public function paytaxes(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
+	public function install(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
+	public function FAQ(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');	
+	}
+	public function inquiry(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
 	public function government(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		
 		if($this->request->data){
 			$data = array(
 				'data'=>$this->request->data,
@@ -70,11 +212,18 @@ class GreencoinController extends \lithium\action\Controller {
 		$countries = Countries::find('all',array(
 			'order'=>array('Country'=>1)
 		));
-		return compact('countries');
+		return compact('countries','title','keywords','description');
 	}
 	
 		public function identification(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
 
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		
 			if($this->request->data){
 					$search = $this->request->data['search'];
 					$opts = array(
@@ -101,9 +250,17 @@ class GreencoinController extends \lithium\action\Controller {
 			$function = new Functions();
 			$data = $function->objectToArray($jdec);
 			
-			return compact('data');
+			return compact('data','title','keywords','description');
 		}
 		public function addresses($stringID,$id){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		
 			$show = "No";
 			$secret = "NO";
 			if($this->request->data){
@@ -122,12 +279,12 @@ class GreencoinController extends \lithium\action\Controller {
 			$data = $function->objectToArray($jdec);
 			if(String::hash($data['users']->_id)==$stringID){
 				if($secret=="NO"){
-					return compact('data');
+					return compact('data','title','keywords','description');
 				}else{
 					if($data['users']->secret==$secret){
 						$show = 'Yes';
 					}
-					return compact('data','show');
+					return compact('data','show','title','keywords','description');
 				}
 				
 			}

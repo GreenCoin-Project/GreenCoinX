@@ -62,6 +62,14 @@
 			</td>
 		</tr>
 
+		<tr>
+			<td><img src="/img/OSX-icon.png" width="60px"><br>
+			OSX
+			</td>
+			<td>
+			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/OSX/greencoin-0.9.3-osx.tar.gz/download">GreenCoinX 64/32 bit</a>
+			</td>
+		</tr>
 	<tr>
 		<td><img src="/img/Github-icon.png" width="60px"><br>
 		Source</td>
