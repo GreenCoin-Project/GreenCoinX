@@ -38,8 +38,8 @@
 			Windows 64 and 32 bit
 			</td>
 			<td>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/64/Setup-GreenCoin-QT-64.exe/download">GreenCoinX Setup - 64 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/32/Setup-GreenCoin-QT-32.exe/download">GreenCoinX Setup - 32 bit</a><br>
+			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/64/Setup-GreenCoinX-win-64.exe/download">GreenCoinX Setup - 64 bit</a><br>
+			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/32/Setup-GreenCoinX-win-32.exe/download">GreenCoinX Setup - 32 bit</a><br>
 			</td>
 		</tr>
 
@@ -67,7 +67,7 @@
 			OSX
 			</td>
 			<td>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/OSX/greencoin-0.9.3-osx.tar.gz/download">GreenCoinX 64/32 bit</a>
+			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/OSX/GreenCoin-Qt.dmg/download">GreenCoinX 64/32 bit</a>
 			</td>
 		</tr>
 	<tr>

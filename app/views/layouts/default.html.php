@@ -54,8 +54,8 @@ $parameters = Parameters::find('first');
 	<link href="/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="/bootstrap/js/bootstrap-datepicker.js"></script>	
+	<script src="/js/jquery.js"></script>
+ <script src="/bootstrap/js/bootstrap-datepicker.js"></script>	
 	<?php
 	$this->scripts('<script src="/js/main.js?v='.rand(1,100000000).'"></script>'); 	
 	?>

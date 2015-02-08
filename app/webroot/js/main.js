@@ -563,12 +563,12 @@ function CheckMobile(){
 }
 
 function CheckServer(){
-		$.getJSON('/Admin/CheckServer/',
-		function(ReturnValues){
-			if(ReturnValues['Refresh']=="No"){
-				window.location.assign("/signin");								
-			}
-		});
+//		$.getJSON('/Admin/CheckServer/',
+//		function(ReturnValues){
+//			if(ReturnValues['Refresh']=="No"){
+//				window.location.assign("/signin");								
+//			}
+//		});
 }
 function DeleteCoin(address){
 	var result = confirm("Are you sure you want to delete?");
