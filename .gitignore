@@ -2,3 +2,4 @@ app/resources/tmp/*
 app/webroot/documents/*
 app/webroot/files/*
 app/webroot/qrcode/*
+app/webroot/download/*

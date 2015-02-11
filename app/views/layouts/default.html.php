@@ -79,7 +79,7 @@ $parameters = Parameters::find('first');
 					<?php echo $this->_render('element', 'header');?>				
 				<?php }?>
 				<div class="<?=$this->_request->action?> 				<?php if($this->_request->controller!="Pages"){?> mainpage<?php }?>">
-				<?php if(strtolower($this->_request->controller)=='admin'){ ?>
+				<?php if(strtolower($this->_request->controller)=='admin' && strtolower($this->_request->action)!='signin'){ ?>
 					<?php echo $this->_render('element', 'admin');?>
 				<?php }?>
 					<?php if($parameters['server']==false){?>

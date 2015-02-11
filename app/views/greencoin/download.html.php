@@ -30,7 +30,7 @@
 		<h3>Download GreenCoinX v0.9.3 </h3>
 		<table class="table table-condensed table-striped table-hover" style="background-color:white;">
 		<tr>
-			<th>OS</th>
+			<th>Your Operating System</th>
 			<th>Download</th>
 		</tr>
 		<tr>
@@ -38,8 +38,9 @@
 			Windows 64 and 32 bit
 			</td>
 			<td>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/64/Setup-GreenCoinX-win-64.exe/download">GreenCoinX Setup - 64 bit</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Windows/32/Setup-GreenCoinX-win-32.exe/download">GreenCoinX Setup - 32 bit</a><br>
+			<a target="_blank"  href="/download/Setup-GreenCoinX-win-64.exe">GreenCoinX Setup - 64 bit</a><br>
+			<a target="_blank"  href="/download/Setup-GreenCoinX-win-32.exe">GreenCoinX Setup - 32 bit</a><br>
+			Your Windows OS can be 64 or 32 bit.<br> If you are not sure, it is advisable to download GreenCoinX Setup 32 bit.
 			</td>
 		</tr>
 
@@ -48,7 +49,8 @@
 			Ubuntu 64 bit
 			</td>
 			<td>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Ubuntu/64/greencoin-ubuntu-64.tar.gz/download">GreenCoinX QT - 64 bit</a><br>
+			<a target="_blank"  href="/download/greencoin-ubuntu-64.tar.gz">GreenCoinX QT - 64 bit</a><br>
+			Your Ubuntu OS is 64 bit, download from above link.
 			</td>
 		</tr>
 
@@ -57,8 +59,8 @@
 			Linux 
 			</td>
 			<td>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/greencoin-0.9.3-linux.tar.gz/download">GreenCoinX 64/32 bit & source</a><br>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/Linux/greencoin-0.9.3-linux.zip/download">GreenCoinX 64/32 bit Zip</a><br>
+			<a target="_blank"  href="/download/greencoin-0.9.3-linux.tar.gz">GreenCoinX 64/32 bit & source</a><br>
+			Your OS is Linux based, download from above link.
 			</td>
 		</tr>
 
@@ -67,7 +69,8 @@
 			OSX
 			</td>
 			<td>
-			<a target="_blank"  href="http://sourceforge.net/projects/xgc/files/0.9.3/OSX/GreenCoin-Qt.dmg/download">GreenCoinX 64/32 bit</a>
+			<a target="_blank"  href="/download/GreenCoin-Qt.dmg">GreenCoinX 64 bit</a><br>
+			Your OS is MAC OSX 10.7 download from above line
 			</td>
 		</tr>
 	<tr>
