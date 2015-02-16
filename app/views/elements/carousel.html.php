@@ -58,14 +58,13 @@
 																			</div>
 																		<div class="col-md-12" style="text-align:centre;background-color:#efe;margin-top:5px">
 																				<ul class="nav navbar-nav" style="font-family:Verdana; font-size:13px">
-																					<li><a href="/greencoin/contact">Contact</a></li>		
-																					<li><a href="/greencoin/aboutus">About us</a></li>	
-																					<li><a href="/greencoin/risk">Risk</a></li>				
-																					<li><a href="/greencoin/privacy">Privacy</a></li>		
-
-																					<li><a href="/greencoin/how">How it works?</a></li>		
-																					<li><a href="/greencoin/FAQ">FAQ</a></li>				
-																					<li><a href="/blockchain">blockchain</a></li>
+																					<li><a href="/greencoin/contact">contact</a></li>		
+																					<li><a href="/greencoin/aboutus">about us</a></li>	
+																					<li><a href="/greencoin/risk">risk</a></li>				
+																					<li><a href="/greencoin/privacy">privacy</a></li>		
+																					<li><a href="/greencoin/how">how it works?</a></li>		
+																					<li><a href="/greencoin/FAQ">faq</a></li>				
+																					<li><a href="/blockchain">block chain</a></li>
 																					<li><a href="/greencoin/download">download</a></li>
 																					<li><a href="/greencoin/government">government</a></li>
 																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
