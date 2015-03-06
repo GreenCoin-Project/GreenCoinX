@@ -46,7 +46,7 @@
 																				<div class="col-lg-6 col-lg-offset-3">
 																				<p>&nbsp;</p>
 																					<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/>
-																					version 0.9.3 64/32 bit for Windows / Linux / Ubuntu
+																					version 0.9.3 for Windows / Linux / Ubuntu / iOS <br>32/64 bit
 																				</div>
 																			
                     <div class="col-md-8 col-md-offset-2">
@@ -124,8 +124,8 @@
 																Code address (<strike>1P1DD8B4xwm4dqiNhi2T58rUL23o7beSe5</strike>) not required<br>
                 Send directly to <strong style="color:white">email</strong> or <strong style="color:white">phone</strong> with new RPC functions
 																</p>
-																<pre style="margin-top:-25px">sendtoemail yourname@domain.com 10
-sendtophone +19872631828 10</pre>
+																<pre style="margin-top:-25px">sendtoemail yourname@domain.com 10 true
+sendtophone +19872631828 10 true</pre>
 																<p style="color:black"><strong style="color:white">Allow</strong> identified transactions to obey international criteria<br>
 																User defined <strong style="color:white">tax</strong> inclusion<br>
 																</p>

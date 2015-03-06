@@ -13,110 +13,251 @@
 		</div>
 		<div class="col-md-10"> 
 		<h3>Install</h3>
-		<div class="bs-example" data-example-id="carousel-with-captions">
-    <div id="carousel-example-captions" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox">
-        <div class="item active">
-          <div  style="height:400px;width:600px;margin-left:90px;padding-top:5px">
-											<img src="/img/Install-001.jpg" alt="Install">
-										</div>
-          <div class="carousel-caption-dark" style="margin-top:10px">
-            <h5>Welcome</h5>
-            <p>Click "Next"</p>
-          </div>
-        </div>
-        <div class="item">
-          <div  style="height:400px;width:600px;margin-left:90px;padding-top:5px">
-											<img src="/img/Install-002.jpg" alt="Install">
-										</div>
-          <div class="carousel-caption-dark" style="margin-top:10px">
-            <h5>License Agreement</h5>
-            <p>Click "I Agree"</p>
-          </div>
-        </div>
-								<div class="item">
-          <div  style="height:400px;width:600px;margin-left:90px;padding-top:5px">
-											<img src="/img/Install-003.jpg" alt="Install">
-										</div>
-          <div class="carousel-caption-dark" style="margin-top:10px">
-            <h5>Choose components</h5>
-            <p>Click "Next"</p>
-          </div>
-        </div>
-								<div class="item">
-          <div  style="height:400px;width:600px;margin-left:90px;padding-top:5px">
-											<img src="/img/Install-004.jpg" alt="Install">
-										</div>
-          <div class="carousel-caption-dark" style="margin-top:10px">
-            <h5>Install location</h5>
-            <p>Preferable d:\GreenCoin, Click "Next"</p>
-          </div>
-        </div>
-								<div class="item">
-          <div  style="height:400px;width:600px;margin-left:90px;padding-top:5px">
-											<img src="/img/Install-005.jpg" alt="Install">
-										</div>
-          <div class="carousel-caption-dark" style="margin-top:10px">
-            <h5>Coping files...</h5>
-            <p>&nbsp;</p>
-          </div>
-        </div>
-								<div class="item">
-          <div  style="height:400px;width:600px;margin-left:90px;padding-top:5px">
-											<img src="/img/Install-006.jpg" alt="Install">
-										</div>
-          <div class="carousel-caption-dark" style="margin-top:10px">
-            <h5>Finish</h5>
-            <p>&nbsp;</p>
-          </div>
-        </div>
-								<div class="item">
-          <div  style="height:400px;width:600px;margin-left:90px;padding-top:5px">
-											<img src="/img/Install-007.jpg" alt="Install">
-										</div>
-          <div class="carousel-caption-dark" style="margin-top:10px">
-            <h5>Shortcut</h5>
-            <p>Click "OK"</p>
-          </div>
-        </div>
-								<div class="item">
-          <div  style="height:400px;width:600px;margin-left:90px;padding-top:5px">
-											<img src="/img/Install-008.jpg" alt="Install">
-										</div>
-          <div class="carousel-caption-dark" style="margin-top:10px">
-            <h5>Shortcut</h5>
-            <p>Click </p>
-          </div>
-        </div>
-								<div class="item">
-          <div  style="height:400px;width:600px;margin-left:90px;padding-top:5px">
-											<img src="/img/Install-009.jpg" alt="Install">
-										</div>
-          <div class="carousel-caption-dark" style="margin-top:10px">
-            <h5>Firewall</h5>
-            <p>Allow Access</p>
-          </div>
-        </div>
-								<div class="item">
-          <div  style="height:400px;width:600px;margin-left:90px;padding-top:5px">
-											<img src="/img/GC-001.jpg" alt="Install">
-										</div>
-          <div class="carousel-caption-dark" style="margin-top:10px">
-            <h5>Sync</h5>
-            <p>&nbsp;</p>
-          </div>
-						</div>
-						
-      <a class="left carousel-control" href="#carousel-example-captions" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#carousel-example-captions" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>
+		
+		<div class="panel panel-success">
+  <div class="panel-heading">
+    <a name="0"></a><h3 class="panel-title">Install / Setup</h3>
   </div>
+  <div class="panel-body">
+    <img src="/img/Install-001.jpg">
+  </div>
+		<div class="panel-footer">Setup GreenCoinX-Qt client on your windows OS. Click 'Next'.
+		</div>
 	</div>
+	
+	<div style="text-align:center">
+	<a href="#1" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-down animated fa-3x"></i>
+	</a>
 	</div>
+
+	<div class="panel panel-success">
+  <div class="panel-heading">
+    <a name="1"></a><h3 class="panel-title">Setup - License Agreement</h3>
+  </div>
+  <div class="panel-body" style="height:550px">
+    <img src="/img/Install-002.jpg">
+  </div>
+		<div class="panel-footer">Click 'I Agree' to install.
+		</div>
 	</div>
+
+	<div style="text-align:center">
+	<a href="#2" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-down animated fa-3x"></i>
+	</a>
+	<a href="#0" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-up animated fa-3x"></i>
+	</a>
+	</div>
+
+
+	<div class="panel panel-success">
+  <div class="panel-heading">
+    <a name="2"></a><h3 class="panel-title">Setup - Choose Components</h3>
+  </div>
+  <div class="panel-body" style="height:550px">
+    <img src="/img/Install-003.jpg">
+  </div>
+		<div class="panel-footer">Click 'Next' to install.
+		</div>
+	</div>
+
+	<div style="text-align:center">
+	<a href="#3" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-down animated fa-3x"></i>
+	</a>
+	<a href="#1" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-up animated fa-3x"></i>
+	</a>
+	</div>
+	
+	
+	<div class="panel panel-success">
+  <div class="panel-heading">
+    <a name="3"></a><h3 class="panel-title">Setup - Choose Install Location</h3>
+  </div>
+  <div class="panel-body" style="height:550px">
+    <img src="/img/Install-004.jpg">
+  </div>
+		<div class="panel-footer">Browse to change the folder. Click 'Install'
+		</div>
+	</div>
+
+	<div style="text-align:center">
+	<a href="#4" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-down animated fa-3x"></i>
+	</a>
+	<a href="#2" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-up animated fa-3x"></i>
+	</a>
+	</div>
+	
+	
+	<div class="panel panel-success" >
+  <div class="panel-heading">
+    <a name="4"></a><h3 class="panel-title">Setup - Installing</h3>
+  </div>
+  <div class="panel-body" style="height:550px">
+    <img src="/img/Install-005.jpg">
+  </div>
+		<div class="panel-footer">Installation is copying required files to destination folder
+		</div>
+	</div>
+
+	<div style="text-align:center">
+	<a href="#5" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-down animated fa-3x"></i>
+	</a>
+	<a href="#3" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-up animated fa-3x"></i>
+	</a>
+	</div>
+	
+	
+	<div class="panel panel-success" >
+  <div class="panel-heading">
+    <a name="5"></a><h3 class="panel-title">Setup - Finish</h3>
+  </div>
+  <div class="panel-body" style="height:550px">
+    <img src="/img/Install-006.jpg">
+  </div>
+		<div class="panel-footer">Click 'Finish'
+		</div>
+	</div>
+
+	<div style="text-align:center">
+	<a href="#6" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-down animated fa-3x"></i>
+	</a>
+	<a href="#4" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-up animated fa-3x"></i>
+	</a>
+	</div>
+	
+	<div class="panel panel-success" >
+  <div class="panel-heading">
+    <a name="6"></a><h3 class="panel-title">Setup - Installation Complete</h3>
+  </div>
+  <div class="panel-body" style="height:550px">
+    <img src="/img/Install-007.jpg">
+  </div>
+		<div class="panel-footer">You have successfully installed GreenCoinX. Use the desktop icon to start the program. Click 'OK'
+		</div>
+	</div>
+
+	<div style="text-align:center">
+	<a href="#7" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-down animated fa-3x"></i>
+	</a>
+	<a href="#5" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-up animated fa-3x"></i>
+	</a>
+	</div>
+	
+
+	<div class="panel panel-success" >
+  <div class="panel-heading">
+    <a name="7"></a><h3 class="panel-title">Directory of install folder</h3>
+  </div>
+  <div class="panel-body" style="height:550px">
+    <img src="/img/Install-008.jpg">
+  </div>
+		<div class="panel-footer">This view shows the listing of files in install folder. You can also start the program using the shortcut.
+		</div>
+	</div>
+
+	<div style="text-align:center">
+	<a href="#8" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-down animated fa-3x"></i>
+	</a>
+	<a href="#6" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-up animated fa-3x"></i>
+	</a>
+	</div>
+		
+	
+	<div class="panel panel-success" >
+  <div class="panel-heading">
+    <a name="7"></a><h3 class="panel-title">Directory of install folder</h3>
+  </div>
+  <div class="panel-body" style="height:550px">
+    <img src="/img/Install-008.jpg">
+  </div>
+		<div class="panel-footer">This view shows the listing of files in install folder. You can also start the program using the shortcut.
+		</div>
+	</div>
+
+	<div style="text-align:center">
+	<a href="#8" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-down animated fa-3x"></i>
+	</a>
+	<a href="#6" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-up animated fa-3x"></i>
+	</a>
+	</div>
+		
+	
+	<div class="panel panel-success" >
+  <div class="panel-heading">
+    <a name="8"></a><h3 class="panel-title">Enable Firewall</h3>
+  </div>
+  <div class="panel-body" style="height:550px">
+    <img src="/img/Install-009.jpg">
+  </div>
+		<div class="panel-footer">When you start GreenCoinX for the first time, you may be prompted to enable Firewall settings. Check 'Private' and 'Public' networks and click 'Allow access'
+		</div>
+	</div>
+
+	<div style="text-align:center">
+	<a href="#9" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-down animated fa-3x"></i>
+	</a>
+	<a href="#7" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-up animated fa-3x"></i>
+	</a>
+	</div>
+		
+	<div class="panel panel-success" >
+  <div class="panel-heading">
+    <a name="9"></a><h3 class="panel-title">GreenCoinX</h3>
+  </div>
+  <div class="panel-body">
+    <img src="/img/GC-001.jpg">
+  </div>
+		<div class="panel-footer">First time sync with the GreenCoinX network. It may take about 3 to 10 minutes based on your network speed.
+		</div>
+	</div>
+
+	<div style="text-align:center">
+	<a href="#8" class="btn btn-circle page-scroll" style="color:white">
+		<i class="fa fa-angle-double-up animated fa-3x"></i>
+	</a>
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		</div>
+		</div>
+</div>
