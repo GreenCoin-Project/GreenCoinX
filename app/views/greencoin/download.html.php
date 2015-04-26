@@ -45,16 +45,6 @@
 		</tr>
 
 		<tr>
-			<td><img src="/img/Ubuntu-icon.png" width="60px"><br>
-			Ubuntu 64 bit
-			</td>
-			<td>
-			<a target="_blank"  href="/download/greencoin-ubuntu-64.tar.gz">GreenCoinX QT - 64 bit</a><br>
-			Your Ubuntu OS is 64 bit, download from above link.
-			</td>
-		</tr>
-
-		<tr>
 			<td><img src="/img/Linux-icon.png" width="60px"><br>
 			Linux 
 			</td>
