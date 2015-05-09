@@ -160,6 +160,17 @@ class GreencoinController extends \lithium\action\Controller {
 		$description = $page['description'];
 		return compact('title','keywords','description');			
 	}
+	public function mine(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
+	
 	public function FAQ(){
 		$page = Pages::find('first',array(
 			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)

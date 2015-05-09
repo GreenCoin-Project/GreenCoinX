@@ -12,7 +12,7 @@ array_multisort($getpeerinfo);
 			<th>IP</th>
 			<th>Port</th>
 			<th>Connected Time</th>
-			<th>Location</th>
+
 			<th>Host</th>
 		</tr>
 	</thead>
@@ -39,12 +39,6 @@ array_multisort($getpeerinfo);
 			<?php print_r(IsTorExitPoint($ip_port[0],$ip_port[1]))?>
 			</td>
 			<td><?=$function->toFriendlyTime(gmdate(time())-$peer['conntime'])?></td>			
-			<td>
-				<?php echo $ip_location['jdec']['countryName'];?>:<?php echo $ip_location['jdec']['timeZone'];?><br>
-				<?php echo $ip_location['jdec']['regionName'];?>, <?php echo $ip_location['jdec']['cityName'];?><br>
-				<?php echo $ip_location['jdec']['zipCode'];?> <?php echo $ip_location['jdec']['countryCode'];?><br>				
-				Lat:<?php echo $ip_location['jdec']['latitude'];?>, Lon: <?php echo $ip_location['jdec']['longitude'];?>
-			</td>
 			<td><?php
 			if(strstr($ip_port[0],'onion')!='onion'){
 				print_r(gethostbyaddr($ip_port[0]));

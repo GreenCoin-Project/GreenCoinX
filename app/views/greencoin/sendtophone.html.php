@@ -2,14 +2,7 @@
 	<div class="row">
 		<div class="col-md-2"> 
 		<h3>How it works?</h3>
-		<div class="btn-group-vertical" role="group">
-			<a type="button" class="btn btn-default" href="/greencoin/install">Install GreenCoinX</a>
-			<a type="button" class="btn btn-default" href="/greencoin/how">Setup Identification</a>
-			<a type="button" class="btn btn-default"  href="/greencoin/sendtoemail">Send to email</a>
-			<a type="button" class="btn btn-default"  href="/greencoin/sendtophone">Send to phone</a>
-			<a type="button" class="btn btn-default"  href="/greencoin/newaddress">Create new address</a>
-			<a type="button" class="btn btn-default"  href="/greencoin/paytaxes">Pay taxes</a>
-		</div>
+<?php echo $this->_render('element', 'greencoin');?>				
 		</div>
 		<div class="col-md-10"> 
 		<h3>Send to Phone</h3>
