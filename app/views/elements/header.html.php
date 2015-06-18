@@ -2,6 +2,9 @@
 use lithium\storage\Session;
 use app\extensions\action\Functions;
 $user = Session::read('member');
+$function = new Functions();
+$ibwtapi = $function->ibwtapi();
+
 ?>
 <div class="navbar-wrapper">
 	<div class="">
@@ -24,6 +27,7 @@ $user = Session::read('member');
 						<li><a href="/blockchain">blockchain</a></li>
 						<li><a href="/greencoin/download">download</a></li>
 						<li><a href="/greencoin/government">government</a></li>
+						<li></li>
 					</ul>
 					<ul class="nav navbar-nav pull-right">
 						<li><a href="/greencoin/identification"><strong>identification</strong></a></li>

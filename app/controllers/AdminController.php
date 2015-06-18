@@ -7,6 +7,7 @@ use lithium\util\String;
 use app\extensions\action\Functions;
 use app\models\Users;
 use app\models\Details;
+use app\models\Templates;
 use app\models\Pages;
 
 class AdminController extends \lithium\action\Controller {
@@ -66,7 +67,7 @@ class AdminController extends \lithium\action\Controller {
 				//Redirect on successful login
 				$loginpassword = $this->request->data['loginpassword'];
 				$default = Auth::check('member', $this->request);
-				print_r($default);exit;
+				
 				$details = Details::find('first',array(
 					'conditions' => array(
 						'username'=>$default['username'],
@@ -108,69 +109,6 @@ class AdminController extends \lithium\action\Controller {
 							)
 					));
 					
-					if($details["TOTP.Validate"]==1 && $details["TOTP.Login"]==true){
-						$totp = $this->request->data['totp'];
-						$ga = new GoogleAuthenticator();
-						if($totp==""){
-							Auth::clear('member');
-							Session::delete('default');
-						}else{
-							$checkResult = $ga->verifyCode($details['secret'], $totp, 2);		
-							if ($checkResult==1) {
-								Session::write('default',$default);
-								$user = Session::read('default');
-
-/////////////////////////////////////////////////////////////////////////////////
-								$function = new Functions();
-								$IP = $function->get_ip_address();
-
-								$data = array(
-									'username' => $user['username'],
-									'IP' => $IPResponse->ip,
-									'ISO'=> $IPResponse->country,
-
-									'hostname'=> $IPResponse->hostname,
-									'city'=> $IPResponse->city,
-									'region'=> $IPResponse->region,									
-									'loc'=> $IPResponse->loc,
-									'org'=> $IPResponse->org,									
-									'postal'=> $IPResponse->postal,									
-									'DateTime' => new \MongoDate(),
-								);
-								Logins::create()->save($data);
-/////////////////////////////////////////////////////////////////////////////////								
-								return $this->redirect('ex::dashboard');
-								exit;
-							}else{
-								Auth::clear('member');
-								Session::delete('default');
-							}
-						}
-					}else{
-						Session::write('default',$default);
-						$user = Session::read('default');
-/////////////////////////////////////////////////////////////////////////////////
-								$function = new Functions();
-								$IP = $function->get_ip_address();
-
-								$data = array(
-									'username' => $user['username'],
-									'IP' => $IPResponse->ip,
-									'ISO'=> $IPResponse->country,
-
-									'hostname'=> $IPResponse->hostname,
-									'city'=> $IPResponse->city,
-									'region'=> $IPResponse->region,									
-									'loc'=> $IPResponse->loc,
-									'org'=> $IPResponse->org,									
-									'postal'=> $IPResponse->postal,									
-									'DateTime' => new \MongoDate(),
-								);
-								Logins::create()->save($data);
-						/////////////////////////////////////////////////////////////////////////////////						
-						return $this->redirect('Admin::index');
-						exit;
-					}
 				}else{
 					Auth::clear('member');
 					Session::delete('default');
@@ -198,6 +136,24 @@ class AdminController extends \lithium\action\Controller {
 			exit;
 
 		
+	}
+	
+	public function template(){
+		if($this->request->data){
+			$ISO = $this->request->data['ISO'];
+			print_r($ISO);
+			$Country = Templates::find('first',array(
+				'conditions'=>array('ISO'=>$ISO)
+			));
+			$Allow = $Country['Allow'];
+			
+		}
+		
+		$templates = Templates::find('all',array(
+			'order'=>array('country'=>1)
+		));
+		
+		return compact('templates','Country','Allow');
 	}
 }
 ?>

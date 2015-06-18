@@ -25,9 +25,13 @@ class GreencoinController extends \lithium\action\Controller {
 					'user_agent'=> "MozillaXYZ/1.0"));
 			$context = stream_context_create($opts);
 			$function = new Functions();
+			
+		
 			$json = file_get_contents('http://hitarth.org/search/users', false, $context);
 			$jdec = (array)json_decode($json);			
 			$users = $function->objectToArray($jdec);
+			
+			
 			return compact('users','title','keywords','description');	
 	}
 	public function download(){
@@ -110,6 +114,17 @@ class GreencoinController extends \lithium\action\Controller {
 		return compact('title','keywords','description');	
 		
 	}
+	public function howosx(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');	
+		
+	}
 	public function sendtoemail(){
 		$page = Pages::find('first',array(
 			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
@@ -151,6 +166,16 @@ class GreencoinController extends \lithium\action\Controller {
 		return compact('title','keywords','description');			
 	}
 	public function install(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');			
+	}
+	public function installosx(){
 		$page = Pages::find('first',array(
 			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
 		));

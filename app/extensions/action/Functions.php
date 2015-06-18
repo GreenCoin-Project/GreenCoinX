@@ -510,5 +510,20 @@ curl_close($ch);
 
     return $results;
 	} 
+public function ibwtapi(){
+			$opts = array(
+			  'http'=> array(
+					'method'=> "GET",
+					'user_agent'=> "MozillaXYZ/1.0"));
+			$context = stream_context_create($opts);
+			$json = file_get_contents('https://ibwt.co.uk/API/trades', false, $context);
+			$jdec = json_decode($json);
+			$this->objectToArray($jdec);
+
+			return compact('jdec');
 }
+
+	
+}
+
 ?>
