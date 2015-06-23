@@ -27,11 +27,16 @@
 		</table>
 </div>
 	<div class="col-lg-6">
+		
 		<h3>Download GreenCoinX v0.9.3 </h3>
 		<table class="table table-condensed table-striped table-hover" style="background-color:white;">
 		<tr>
 			<th>Your Operating System</th>
 			<th>Download</th>
+		</tr>
+		<tr>
+			<th>CheckSum file (sha1)</th>
+			<td><a target="_blank"  href="/download/Checksum.sha1">All CheckSum(sha1)</a><br></td>
 		</tr>
 		<tr>
 			<td><img src="/img/Windows-icon.png" width="60px"><br>

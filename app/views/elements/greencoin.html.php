@@ -8,4 +8,5 @@
 	<a type="button" class="btn btn-default"  href="/greencoin/newaddress">Create new address</a>
 	<a type="button" class="btn btn-default"  href="/greencoin/paytaxes">Pay taxes</a>
 	<a type="button" class="btn btn-default"  href="/greencoin/mine">Mine GreenCoinX</a>			
+	<a type="button" class="btn btn-default"  href="/greencoin/largetx">Tx too large</a>			
 </div>

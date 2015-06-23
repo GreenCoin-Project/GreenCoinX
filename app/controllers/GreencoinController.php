@@ -125,6 +125,17 @@ class GreencoinController extends \lithium\action\Controller {
 		return compact('title','keywords','description');	
 		
 	}
+		public function largetx(){
+		$page = Pages::find('first',array(
+			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
+		));
+
+		$title = $page['title'];
+		$keywords = $page['keywords'];
+		$description = $page['description'];
+		return compact('title','keywords','description');	
+		
+	}
 	public function sendtoemail(){
 		$page = Pages::find('first',array(
 			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
