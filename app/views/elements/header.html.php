@@ -27,6 +27,7 @@ $ibwtapi = $function->ibwtapi();
 						<li><a href="/blockchain">blockchain</a></li>
 						<li><a href="/greencoin/download">download</a></li>
 						<li><a href="/greencoin/government">government</a></li>
+						<li><a href="/greencoin/press">press release</a></li>						
 						<li></li>
 					</ul>
 					<ul class="nav navbar-nav pull-right">

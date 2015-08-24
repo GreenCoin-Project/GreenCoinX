@@ -67,6 +67,7 @@
 																					<li><a href="/blockchain">block chain</a></li>
 																					<li><a href="/greencoin/download">download</a></li>
 																					<li><a href="/greencoin/government">government</a></li>
+																					<li><a href="/greencoin/press">press release</a></li>
 																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
 																				</ul>
 																				</div>
