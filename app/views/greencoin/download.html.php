@@ -1,8 +1,8 @@
 <?php
 
 ?>
-<div style="margin:20px">
-<h4 class="alert alert-danger" style="color:black">Get 10 XGC with every identified wallet, ask friends to register, send to their email / phone</h4>
+<div style="">
+<!--<h4 class="alert alert-danger" style="color:black">Get 10 XGC with every identified wallet, ask friends to register, send to their email / phone</h4> -->
 <div class="row">
 	<div class="col-lg-6">
 		<h3>Registered Users</h3>
