@@ -1,9 +1,10 @@
 <?php
 
 ?>
-<div style="margin:20px">
-<h4 class="alert alert-danger" style="color:black">Get 10 XGC with every identified wallet, ask friends to register, send to their email / phone</h4>
-<div class="row">
+<div style="">
+<!--<h4 class="alert alert-danger" style="color:black">Get 10 XGC with every identified wallet, ask friends to register, send to their email / phone</h4> -->
+<div class="row container">
+<!--
 	<div class="col-lg-6">
 		<h3>Registered Users</h3>
 		<table class="table table-condensed table-striped table-hover" style="background-color:white;">
@@ -26,12 +27,30 @@
 			<?php }}}?>
 		</table>
 </div>
+-->
+<div class="col-lg-6">
+<h3>XGCWallet</h3>
+<div style="background-color:white;padding:10px" class="">
+ <p>To use XGC, please use the free XGC Online Wallet available at <a href="https://xgcwallet.org" target="_blank">www.xgcwallet.org</a></p>
+
+<p>To use XGC on a mobile, please download the XGC Mobile wallet at <a href="https://play.google.com/store/apps/details?id=org.xgcwallet.mobile" target="_blank">https://play.google.com/store/apps/details?id=org.xgcwallet.mobile</a></p>
+
+<p>Both wallets can send and receive XGC using an email or mobile phone number, and do not require the user to remember a complicated public key. The XGC online and mobile wallets are secure wallets, and all XGC is stored on the GreenCoinX blockchain thereby making hacking the wallets virtually impossible. Access to each wallet is by the use of a personal passphrase rather than by a complicated series of numerals and digits. The passphrase can be as long as the user likes, and can be in any language. This enables the user to more easily remember the passphrase for wallet access. The passphrase is converted into digits and then encrypted by the software in the background. Unlike most crypto currency wallets, when opening the XGC Wallet there is no need to sync the wallet with the blockchain. This means that the wallet is available for immediate use. Signing into a wallet requires a wallet ID and the user passphrase together with two factor authorization.</p>
+
+<p>The XGC Wallet is a very user friendly wallet with some unique features, and will facilitate the widespread use of XGC transactions by consumers.</p>
+</div>
+</div>
 	<div class="col-lg-6">
+		
 		<h3>Download GreenCoinX v0.9.3 </h3>
 		<table class="table table-condensed table-striped table-hover" style="background-color:white;">
 		<tr>
 			<th>Your Operating System</th>
 			<th>Download</th>
+		</tr>
+		<tr>
+			<th>CheckSum file (sha1)</th>
+			<td><a target="_blank"  href="/download/Checksum.sha1">All CheckSum(sha1)</a><br></td>
 		</tr>
 		<tr>
 			<td><img src="/img/Windows-icon.png" width="60px"><br>
@@ -41,16 +60,6 @@
 			<a target="_blank"  href="/download/Setup-GreenCoinX-win-64.exe">GreenCoinX Setup - 64 bit</a><br>
 			<a target="_blank"  href="/download/Setup-GreenCoinX-win-32.exe">GreenCoinX Setup - 32 bit</a><br>
 			Your Windows OS can be 64 or 32 bit.<br> If you are not sure, it is advisable to download GreenCoinX Setup 32 bit.
-			</td>
-		</tr>
-
-		<tr>
-			<td><img src="/img/Ubuntu-icon.png" width="60px"><br>
-			Ubuntu 64 bit
-			</td>
-			<td>
-			<a target="_blank"  href="/download/greencoin-ubuntu-64.tar.gz">GreenCoinX QT - 64 bit</a><br>
-			Your Ubuntu OS is 64 bit, download from above link.
 			</td>
 		</tr>
 

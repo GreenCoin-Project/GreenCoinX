@@ -27,7 +27,7 @@ A. Yes. There will be a finite maximum of 210 million XGC that can ever be mined
 <blockquote>
 <p><strong>Q. How many XGC exist?</strong></p>
 <p>
-A. As at January 2015, approximately 120 million XGC have been mined of which GreenCoinX Inc owns 60 million and the balance is owned by Nilam Doctor and other miners.</p>
+A. As at August 2015, approximately 150 million XGC have been mined of which GreenCoinX Inc owns 60 million, the non-profit Digital Foundation owns 42 million.</p>
 </blockquote>
 
 <blockquote>
@@ -51,46 +51,10 @@ A. Other crypto currencies are not identifiable and therefore those crypto curre
 <blockquote>
 <p><strong>Q. How does the identification process work?</strong></p>
 <p>
-A. GreenCoinX identification is initially done when GreenCoinX software is downloaded for storing, generating or mining, and sending or receiving XGC. The user email and phone address are verified and stored on the blockchain of GreenCoinX as a transaction with zero value. The user has the option of sending or receiving GreenCoinX to a phone, email or GreenCoinX address. All websites transacting in XGC will have a verified GreenCoinX software client installed. After installation of the software, the user is required to be identified by using the Settings-->Options-->Identification Tab. The user will have to provide email and phone information, which will be validated by a simple code sent to the user and then verified. Alternatively, the user can use Remote Procedure Call ("RPC") to get identified (RPC is a protocol that causes a procedure to execute in another address space).   </p>
+A. GreenCoinX identification is initially done when a XGC Wallet is opened for the first time. The user email and phone address are verified and stored on the blockchain of GreenCoinX as a transaction with zero value. The user has the option of sending or receiving GreenCoinX to a phone, email or GreenCoinX address. The user will have to provide email and phone information, which will be validated by a simple code sent to the user and then verified.   </p>
 </blockquote>
 
-<blockquote>
-<p><strong>Q. Is GreenCoinX an open source program?</strong></p>
-<p>
-A. Yes. GreenCoinX is an open source software program. It is available for download on <a href="/greencoin/download">http://GreenCoinX.com/greencoin/download</a> in both Windows and Linux platforms. Programmers can suggest changes and modifications to the code which can be accepted or rejected by GreenCoinX Inc. If changes are made to the software then an upgraded software version will be released by GreenCoinX Inc. To use GreenCoinX, registration is mandatory.</p>
-</blockquote>
 
-<blockquote>
-<p><strong>Q. What are the functions of XGC?</strong></p>
-<p>
-A. Once verified, the user will be able to use the full functionality of the software for adding GreencoinX addresses to their wallet, which includes:
-<ol>
-<li><i>addmultisigaddress</i>: Adds a new multi sig address to the user wallet</li>
-<li><i>createmultisig</i>: Creates a new multi sig address but does not add the address created to the user wallet</li>
-<li><i>getaccountaddress</i>: Creates a new address and assigns it to an existing account.</li>
-<li><i>getnewaddress</i>: Creates a new address and assigns it to a new account.</li>
-<li><i>getrawchangeaddress</i>: Creates a new "change" address (for example, the user has 1 XGC in an address, and wants to spend 0.3 XGC, so the balance 0.7 XGC will be stored in a new address)</li>
-<li><i>importprivkey</i>: Imports a private key and stores the address in the user wallet</li>
-<li><i>importwallet</i>: Imports a wallet with multiple private keys to the existing wallet</li>
-<li><i>setgenerate</i>: Start generation of XGC</li>
-</ol></p>
-<p>Additional functions have been added to facilitate sending directly to email or phone:
-<ol>
-<li><i>sendtoemail</i>: Sends XGC directly to the phone number</li>
-<li><i>sendtophone</i>: Sends XGC directly to the email address</li>
-</ol>
-<p>Verification process can also be done with new functions:
-<ol>
-<li><i>startverification</i>: Starts the verification process</li>
-<li><i>getemailcode</i>: Get email verification code</li>
-<li><i>getemailverify</i>: Verify email address</li>
-<li><i>getphonecode</i>: Get phone verification code</li>
-<li><i>getphoneverify</i>: Verify phone</li>
-<li><i>setidentification</i>: Get fully identified</li>
-
-
-</ol>
-</blockquote>
 
 <blockquote>
 <p><strong>Q. What is an XGC address?</strong></p>
@@ -101,7 +65,7 @@ A. When XGC is mined or generated, the miners are rewarded with XGC and an addre
 <blockquote>
 <p><strong>Q. Where can I use XGC?</strong></p>
 <p>
-A. Wherever crypto currencies are accepted. Online retailers can receive XGC by publicizing their identified email or phone addresses on their website. E-commerce portals can easily get their website registered with GreenCoinX and start accepting XGC without any Application Program Interface ("API") integrations. Unlike API integrations, which are used by websites to integrate payments of third party payment facilitators like PayPal, XGC can be accepted without third party involvement.</p>
+A. Wherever crypto currencies are accepted. Online retailers can receive XGC by publicizing their identified email or phone addresses on their website. E-commerce portals can easily get their website registered with GreenCoinX and start accepting XGC.</p>
 </blockquote>
 
 <blockquote>

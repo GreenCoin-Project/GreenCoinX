@@ -4,6 +4,13 @@
 <div style="background-color:white;padding:10px">
 
 <blockquote>
+<h3>GREENCOINX COMPLETES ONLINE WALLET AND MOBILE WALLET</h3>
+<h5>XGCWallet.org and Mobile wallet</h5>
+<p><small>Toronto, Ontario, August 31, 2015</small>GreenCoinX Inc, the developer of the world’s first identifiable crypto currency, which has XGC as its digital currency identifier, has completed an online free wallet for sending and receiving XGC. The XGC wallet is available at <a href="https://www.xgcwallet.org" target="_blank">www.xgcwallet.org <a href="/files/GreenCoinX press release Wallet August 31  2015 v2.pdf" target="_blank">read more...</a></p>
+</blockquote>
+
+
+<blockquote>
 <h3>GREENCOINX ADDRESSES BLOCK CHAIN MINING LONGEVITY</h3>
 <h5>DIGITAL FOUNDATION ESTABLISHED TO PROVIDE LONG TERM MINING REWARDS</h5>
 <p><small>Toronto, Ontario, August 27, 2015</small>GreenCoinX Inc, the developer of the world’s first identifiable crypto currency and which has XGC as its digital currency identifier, announces that it has addressed the problem of long term crypto currency mining rewards.<a href="/files/GreenCoinX press release Digital Foundation & Longevity August 27  2015.pdf" target="_blank">read more...</a></p>

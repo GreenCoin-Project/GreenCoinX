@@ -42,15 +42,15 @@ class GreencoinController extends \lithium\action\Controller {
 		$title = $page['title'];
 		$keywords = $page['keywords'];
 		$description = $page['description'];
-		$opts = array(
-			  'http'=> array(
-					'method'=> "GET",
-					'user_agent'=> "MozillaXYZ/1.0"));
-			$context = stream_context_create($opts);
-			$function = new Functions();
-			$json = file_get_contents('http://hitarth.org/search/users', false, $context);
-			$jdec = (array)json_decode($json);			
-			$users = $function->objectToArray($jdec);
+//		$opts = array(
+//			  'http'=> array(
+//					'method'=> "GET",
+//					'user_agent'=> "MozillaXYZ/1.0"));
+//			$context = stream_context_create($opts);
+//			$function = new Functions();
+//			$json = file_get_contents('http://hitarth.org/search/users', false, $context);
+//			$jdec = (array)json_decode($json);			
+//			$users = $function->objectToArray($jdec);
 			return compact('users','title','keywords','description');	
 	}
 	public function contact(){

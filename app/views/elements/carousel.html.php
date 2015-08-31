@@ -62,7 +62,7 @@
 																					<li><a href="/greencoin/aboutus">about us</a></li>	
 																					<li><a href="/greencoin/risk">risk</a></li>				
 																					<li><a href="/greencoin/privacy">privacy</a></li>		
-																					<li><a href="/greencoin/how">how it works?</a></li>		
+														<!--							<li><a href="/greencoin/how">how it works?</a></li>		-->
 																					<li><a href="/greencoin/FAQ">faq</a></li>				
 																					<li><a href="/blockchain">block chain</a></li>
 																					<li><a href="/greencoin/download">download</a></li>
@@ -149,13 +149,15 @@ sendtophone +19872631828 10 true</pre>
 														<div class="col-lg-6 col-lg-offset-3" style="margin-top:-130px">
 														<p>JOIN THE REVOLUTION</p>
 														<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/><br><br>
-														<a href="/greencoin/download" class="btn btn-default btn-lg"><i class="fa fa-download fa-fw"></i>Download</a><br><br>
+<!--														<a href="/greencoin/download" class="btn btn-default btn-lg"><i class="fa fa-download fa-fw"></i>Download</a><br><br>
 														<a href="/blockchain" class="btn btn-default btn-lg"><i class="fa fa-building fa-fw"></i>BlockChain</a><br><br>
-														<ul class="list-inline banner-social-buttons">
+			
 															<li>
 															<a href="https://github.com/GreenCoin-Project/GreenCoin-Core" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">OpenSource on Github</span></a>
 															</li><br><br>
-															<li>
+-->															
+														<ul class="list-inline banner-social-buttons">
+														<li>
 															<a href="/greencoin/government" class="btn btn-default btn-lg"><i class="fa fa-flag fa-fw"></i> <span class="network-name">Governments Contact us</span></a>
 															</li>
 
