@@ -4,6 +4,12 @@
 <div style="background-color:white;padding:10px">
 
 <blockquote>
+<h3>Isle of Man Welcomes GreenCoinX</h3>
+<h5></h5>
+<p><small>Toronto, Ontario, October 5, 2015</small>GreenCoinX Inc, a subsidiary of GreenBank Capital Inc a Canadian publicly listed company (CSE:GBC), the developers of the world’s first identifiable crypto currency, announces that the Isle of Man government welcomes GreenCoinX to the Isle of Man. <a href="/files/GreenCoinX press release Isle of Man October 5  2015 final.pdf" target="_blank">read more...</a></p>
+</blockquote>
+
+<blockquote>
 <h3>GREENCOINX ENABLES XGC TO TRADE </h3>
 <h5>ON 15 CRYTPO CURRENCY EXCHANGES</h5>
 <p><small>Toronto, Ontario, September 14, 2015</small>GreenCoinX Inc, the developer of the world’s first identifiable crypto currency, and which has XGC as its digital currency identifier, and Crypto Next PLC an international crypto currency exchange with a “white label” exchange platform that has 14 affiliated exchanges, have agreed that XGC will be added on the Crypto Next platform and as such can be traded on all of its affiliated exchanges.<a href="/files/GreenCoinX press release Crypto Next trades XGC September 14  2015..pdf" target="_blank">read more...</a></p>
