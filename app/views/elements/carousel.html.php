@@ -52,7 +52,7 @@
 														<!--							<li><a href="/greencoin/how">how it works?</a></li>		-->
 																					<li><a href="/greencoin/FAQ">faq</a></li>				
 <!--																					<li><a href="/blockchain">block chain</a></li>-->
-																					<li><a href="/greencoin/download">download</a></li>
+																					<li><a href="/greencoin/download">open a new wallet</a></li>
 																					<li><a href="/greencoin/government">government</a></li>
 																					<li><a href="/greencoin/press">press release</a></li>
 																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
@@ -103,7 +103,7 @@
 														<!--							<li><a href="/greencoin/how">how it works?</a></li>		-->
 																					<li><a href="/greencoin/FAQ">faq</a></li>				
 <!--																					<li><a href="/blockchain">block chain</a></li>-->
-																					<li><a href="/greencoin/download">download</a></li>
+																					<li><a href="/greencoin/download">open a new wallet</a></li>
 																					<li><a href="/greencoin/government">government</a></li>
 																					<li><a href="/greencoin/press">press release</a></li>
 																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
@@ -158,7 +158,7 @@ GreenCoinX is the Anti-Bitcoin. It has solved all the Bitcoin flaws. The GreenCo
 														<!--							<li><a href="/greencoin/how">how it works?</a></li>		-->
 																					<li><a href="/greencoin/FAQ">faq</a></li>				
 																					<!--																					<li><a href="/blockchain">block chain</a></li>-->
-																					<li><a href="/greencoin/download">download</a></li>
+																					<li><a href="/greencoin/download">open a new wallet</a></li>
 																					<li><a href="/greencoin/government">government</a></li>
 																					<li><a href="/greencoin/press">press release</a></li>
 																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
