@@ -16,18 +16,6 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-                    <li>
-																								<a class="" href="#">code: <span style="color:red">XGC</span></a>
-																				</li>
-																				<li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#features">Features</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#signup">Start</a>
-                    </li>
 																				
                 </ul>
             </div>
@@ -50,10 +38,9 @@
 																				</div>
 																			
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">Identifiable digital currency</h1>
+                        <h1 class="brand-heading">THE WORLD’S FIRST CRYPTO CURRENCY REQUIRING USER IDENTIFICATION</h1>
                         <p class="intro-text">
-																								Verified with email & mobile/phone<br>
-																								IP identified with verification<br>
+																								 THE PROMISE OF CRYPTO CURRENCY WAS ALWAYS THE FAST AND INEXPENSIVE TRANSFER OF FUNDS WORLDWIDE, WHILE BYPASSING THE BANKING SYSTEM. UNTIL GREENCOINX THIS WAS IMPEDED BY IDENTITY CONCERNS. NOW GREENCOINX HAS MADE THIS PROMISE A REALITY.
 																								</p>
 																			</div>
 																		<div class="col-md-12" style="text-align:centre;background-color:#efe;margin-top:5px">
@@ -90,16 +77,16 @@
 															<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/>
 														</div>
 													</div>
-													<p style="text-align:center;font-size:16px;color:white;margin-top:10px">Unique Cryptocurrency addressing risk factors associated with identification.</p>
-													<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px">A unique Cryptocurrency featuring digital identification that addresses the "<strong>trust based concerns</strong>" and identification is required before initiating a transaction, storing XGC, or mining XGC.</p>
-												<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px">GreenCoinX identifies users and facilitates the collection of user defined optional taxes by worldwide governments, thereby removing the two biggest barriers to widespread adoption of Cryptocurrencies.  In a <a href="http://www.bloomberg.com/video/bill-gates-bitcoin-is-exciting-because-it-s-cheap-dQ4qHV4~TLSnUIuIRfZBVA.html" target="_blank">Bloomberg TV interview</a> in October, 2014 Bill Gates, the founder of Microsoft, when asked about bitcoin stated;
+													<p>ALL GREENCOINX USERS HAVE TO BE FULLY IDENTIFIED BEFORE USAGE, SO BAD ACTORS WILL NOT USE GREENCOINX</p>
+													<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px"></p>
+												<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px">In October, 2014 Bill Gates, the founder of Microsoft, when asked about bitcoin stated;
 													<blockquote style="text-align:justify;padding-left:20px;margin-top:-20px">"The customers we’re talking about aren’t trying to be anonymous, they’re willing to be known, so bitcoin technology is key and you can add to it or you could build a similar technology where there’s enough attribution where people feel comfortable that this is nothing to do with terrorism or any type of money laundering." 
 													<footer style="padding:0px;margin:0px"><a href="http://www.bloomberg.com/video/bill-gates-bitcoin-is-exciting-because-it-s-cheap-dQ4qHV4~TLSnUIuIRfZBVA.html" target="_blank">Bill Gates, Bloomberg TV</a></footer>
 													</blockquote>
 												</p>
-												<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px">XGC addresses these concerns by providing the attribution of identification that is missing from bitcoin and other Cryptocurrencies. By providing the facility of basic verified identification, XGC offers significant risk factor mitigation for users on a global scale.
+												<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px"> THE GREENCOINX ECOSYSTEM COMPRISES THE WORLD’S FIRST CRYPTO CURRENCY REQUIRING USER IDENTIFICATION, A FREE ONLINE WALLET, AND A FREE ONLINE CRYPTO CURRENCY EXCHANGE.
 												</p>
-												<p style="text-align:center;font-size:16px;color:white;margin-top:-20px">GreenCoinX (XGC) allows users to identify themselves and facilitates automated user defined optional taxes by worldwide governments.</p>
+												<p style="text-align:center;font-size:16px;color:white;margin-top:-20px">TO OPEN YOUR FREE ONLINE GREENCOINX WALLET GO TO <a href="https://XGCWALLET.ORG">WWW.XGCWALLET.ORG</a></p>
 																<a href="#features" class="btn btn-circle page-scroll">
                  <i class="fa fa-angle-double-down animated"></i>
                 </a>
@@ -107,7 +94,21 @@
             </div>
         </div>
     </section>
-
+<div class="col-md-12" style="text-align:centre;background-color:#efe;margin-top:5px">
+																				<ul class="nav navbar-nav" style="font-family:Verdana; font-size:13px">
+																					<li><a href="/greencoin/contact">contact</a></li>		
+																					<li><a href="/greencoin/aboutus">about us</a></li>	
+																					<li><a href="/greencoin/risk">risk</a></li>				
+																					<li><a href="/greencoin/privacy">privacy</a></li>		
+														<!--							<li><a href="/greencoin/how">how it works?</a></li>		-->
+																					<li><a href="/greencoin/FAQ">faq</a></li>				
+																					<li><a href="/blockchain">block chain</a></li>
+																					<li><a href="/greencoin/download">download</a></li>
+																					<li><a href="/greencoin/government">government</a></li>
+																					<li><a href="/greencoin/press">press release</a></li>
+																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
+																				</ul>
+																				</div>
 
     <!-- Feature Section -->
     <section id="features" class="container content-section text-center">
@@ -119,62 +120,47 @@
 														</div>
 													</div><br>
 
-                <p style="color:black">Based on <a href="https://bitcoin.org/" target="_blank">bitcoin</a> protocol<br>
-																Open Source <a href="https://github.com/GreenCoin-Project/GreenCoin-Core" target="_blank">Github</a><br>
-																Identification over <code>email</code> and <code>phone</code><br>
-																Code address (<strike>1P1DD8B4xwm4dqiNhi2T58rUL23o7beSe5</strike>) not required<br>
-                Send directly to <strong style="color:white">email</strong> or <strong style="color:white">phone</strong> with new RPC functions
+                <p style="color:black">Crypto currency is the most significant technological breakthrough to impact the financial world since the Internet.
 																</p>
-																<pre style="margin-top:-25px">sendtoemail yourname@domain.com 10 true
-sendtophone +19872631828 10 true</pre>
-																<p style="color:black"><strong style="color:white">Allow</strong> identified transactions to obey international criteria<br>
-																User defined <strong style="color:white">tax</strong> inclusion<br>
+																
+																<p style="color:black"><strong style="color:white">GreenCoinX is a medium of exchange created and stored electronically, which uses encryption techniques to control the creation of monetary units and verify the transfer of funds. Due to encryption , transactions are secure from third parties. GreenCoinX is anti-inflationary as its value is not affected by government money printing. GreenCoinX allows users access to a fast execution anytime/anywhere low cost global payment system which bypasses the banking system.
 																</p>
-                <p style="color:black">CRYPTO CURRENCY IS THE MONETARY WAVE OF THE FUTURE!</p>
+                <p style="color:black"> GREENCOINX IS THE ACCEPTABLE ALTERNATIVE CRYPTO CURRENCY TO FIAT CURRENCIES<br>
+GreenCoinX is the Anti-Bitcoin. It has solved all the Bitcoin flaws. The GreenCoinX Answer is… </p>
 																
-																
-																<a href="#signup" class="btn btn-circle page-scroll">
-                 <i class="fa fa-angle-double-down animated"></i>
-                </a>
+																 <ul style="font-size:20px"><li>User Identification</li>
+<li>Currency Stability</li>
+
+<li>Blockchain Longevity</li>
+
+<li>Free and Safe Crypto Currency Exchange</li>
+
+<li>Government Partnerships</li>
+</ul>
+ <h3><a href="#">The User Attraction:</a> Funds can be transferred at a fraction of the cost and speed of the banking system. Micro payments can be easily completed. The 1.5 Billion unbanked people in the world can transfer funds simply with a mobile phone. Online retailers can substantially increase their market size by accessing the unbanked. Payment intermediaries can significantly improve cost/speed of their transactions.</h3>
+
+<h3>JOIN THE CRYPTO CURRENCY REVOLUTION !  OPEN A GREENCOINX WALLET NOW</h3>
+
+<h4><a href="#">GreenCoinX Inc</a> is a subsidiary of <a href="#">GreenBank Capital Inc</a> a Canadian public company (<a href="#">CSE:GBC and OTCMKTS:GRNBF</a>)</h4>
+
+<h4>For more information on GreenBank please see <a href="http://www.GreenBankCapitalInc.com" target="_blank">www.GreenBankCapitalInc.com</a></h4>
+
 																
             </div>
         </div>
     </section>
-    <!-- Signup Section -->
-    <section id="signup" class="content-section text-center">
-        <div class="download-section">
-            <div class="container">
-														<div class="col-lg-8 col-lg-offset-2">
-														<img src="/img/bitcoin_greencoin.jpg" style="max-width:100%"/>
-														<div class="col-lg-6 col-lg-offset-3" style="margin-top:-130px">
-														<p>JOIN THE REVOLUTION</p>
-														<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/><br><br>
-<!--														<a href="/greencoin/download" class="btn btn-default btn-lg"><i class="fa fa-download fa-fw"></i>Download</a><br><br>
-														<a href="/blockchain" class="btn btn-default btn-lg"><i class="fa fa-building fa-fw"></i>BlockChain</a><br><br>
-			
-															<li>
-															<a href="https://github.com/GreenCoin-Project/GreenCoin-Core" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">OpenSource on Github</span></a>
-															</li><br><br>
--->															
-														<ul class="list-inline banner-social-buttons">
-														<li>
-															<a href="/greencoin/government" class="btn btn-default btn-lg"><i class="fa fa-flag fa-fw"></i> <span class="network-name">Governments Contact us</span></a>
-															</li>
-
-														</ul>
-														
-														</div>
-														</div>
-            </div>
-        </div>
-    </section>
-    <!-- Map Section -->
-    <div id="map">
-				
-				<div style="font-size:12px;background-color:#333333;color:white;padding:5px;border-bottom:3px solid green;text-align:center " class="footer">
-					<p>GreenCoinX is a registered name of <strong>GreenCoinX Inc., Canada</strong></p>
-	
-</div>
-
-				
-				</div>
+<div class="col-md-12" style="text-align:centre;background-color:#efe;margin-top:5px">
+																				<ul class="nav navbar-nav" style="font-family:Verdana; font-size:13px">
+																					<li><a href="/greencoin/contact">contact</a></li>		
+																					<li><a href="/greencoin/aboutus">about us</a></li>	
+																					<li><a href="/greencoin/risk">risk</a></li>				
+																					<li><a href="/greencoin/privacy">privacy</a></li>		
+														<!--							<li><a href="/greencoin/how">how it works?</a></li>		-->
+																					<li><a href="/greencoin/FAQ">faq</a></li>				
+																					<li><a href="/blockchain">block chain</a></li>
+																					<li><a href="/greencoin/download">download</a></li>
+																					<li><a href="/greencoin/government">government</a></li>
+																					<li><a href="/greencoin/press">press release</a></li>
+																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
+																				</ul>
+																				</div>    <!-- Signup Section -->

@@ -22,10 +22,10 @@ $ibwtapi = $function->ibwtapi();
 				</div>
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
-						<li><a href="/greencoin/how">How it works?</a></li>
+						<li><a href="/greencoin/how">Technical wallet</a></li>
 						<li><a href="/greencoin/FAQ">FAQ</a></li>
-						<li><a href="/blockchain">blockchain</a></li>
-						<li><a href="/greencoin/download">download</a></li>
+<!--						<li><a href="/blockchain">blockchain</a></li>-->
+						<li><a href="/greencoin/download">open a new wallet</a></li>
 						<li><a href="/greencoin/government">government</a></li>
 						<li><a href="/greencoin/press">press release</a></li>						
 						<li></li>

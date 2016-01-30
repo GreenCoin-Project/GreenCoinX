@@ -1,5 +1,6 @@
 <div style="margin-left:20px;margin-right:20px;" class="container">
 <div class="row">
+<div class="col-md-12"><h4>The Technical Wallet is only for users who wish to carry out Mining functions and for certain retailers. All other users should use GreenCoinX by opening an online wallet at <a style="color:white" href="https://xgcwallet.org" target="_blank">www.xgcwallet.org</a></h4></div>
 	<div class="col-md-2"> 
 <h3>How it works?</h3>
 		<?php echo $this->_render('element', 'greencoin');?>				
