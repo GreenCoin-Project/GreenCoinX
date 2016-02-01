@@ -34,7 +34,6 @@
 																				<div class="col-lg-6 col-lg-offset-3">
 																				<p>&nbsp;</p>
 																					<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/>
-																					version 0.9.3 for Windows / Linux / Ubuntu / iOS <br>32/64 bit
 																				</div>
 																			
                     <div class="col-md-12">
@@ -79,17 +78,18 @@
 															<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/>
 														</div>
 													</div>
-													<h3>ALL GREENCOINX USERS HAVE TO BE FULLY IDENTIFIED BEFORE USAGE,</h3><h3> SO BAD ACTORS WILL NOT USE GREENCOINX</h3>
+													<h3 style="color:white">ALL GREENCOINX USERS HAVE TO BE FULLY IDENTIFIED BEFORE USAGE,</h3><h3 style="color:white"> SO BAD ACTORS WILL NOT USE GREENCOINX</h3>
 													<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px"></p>
 												<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px">In October, 2014 Bill Gates, the founder of Microsoft, when asked about bitcoin stated;
-													<blockquote style="text-align:justify;padding-left:20px;margin-top:-20px">"The customers we’re talking about aren’t trying to be anonymous, they’re willing to be known, so bitcoin technology is key and you can add to it or you could build a similar technology where there’s enough attribution where people feel comfortable that this is nothing to do with terrorism or any type of money laundering." 
-													<footer style="padding:0px;margin:0px"><a href="http://www.bloomberg.com/video/bill-gates-bitcoin-is-exciting-because-it-s-cheap-dQ4qHV4~TLSnUIuIRfZBVA.html" target="_blank">Bill Gates, Bloomberg TV</a></footer>
+													<blockquote style="text-align:justify;padding-left:20px;margin-top:-20px;color:white"">"The customers we’re talking about aren’t trying to be anonymous, they’re willing to be known, so bitcoin technology is key and you can add to it or you could build a similar technology where there’s enough attribution where people feel comfortable that this is nothing to do with terrorism or any type of money laundering." 
+													<footer style="padding:0px;margin:0px;color:white"><a  style="color:white" href="http://www.bloomberg.com/video/bill-gates-bitcoin-is-exciting-because-it-s-cheap-dQ4qHV4~TLSnUIuIRfZBVA.html" target="_blank">Bill Gates, Bloomberg TV</a></footer>
 													</blockquote>
 												</p>
-												<h3>THE GREENCOINX ECOSYSTEM COMPRISES THE WORLD’S FIRST CRYPTO CURRENCY REQUIRING USER IDENTIFICATION,</h3>
-												<h3>A <u>FREE</u> ONLINE WALLET, AND </h3><h3>A <u>FREE</u> ONLINE CRYPTO CURRENCY EXCHANGE.</h3>
+												<h3 style="color:white">THE GREENCOINX ECOSYSTEM COMPRISES THE WORLD’S FIRST CRYPTO CURRENCY REQUIRING USER IDENTIFICATION,</h3>
+												<h3 style="color:white">A <u>FREE</u> ONLINE WALLET, AND </h3>
+												<h3 style="color:white">A <u>FREE</u> ONLINE CRYPTO CURRENCY EXCHANGE.</h3>
 												</p>
-												<p style="text-align:center;font-size:16px;color:white;margin-top:-20px">TO OPEN YOUR FREE ONLINE GREENCOINX WALLET GO TO <a href="https://XGCWALLET.ORG">WWW.XGCWALLET.ORG</a></p>
+												<p style="text-align:center;font-size:16px;color:white;margin-top:-20px">TO OPEN YOUR FREE ONLINE GREENCOINX WALLET GO TO <a  style="color:white" href="https://XGCWALLET.ORG">WWW.XGCWALLET.ORG</a></p>
 																<a href="#features" class="btn btn-circle page-scroll">
                  <i class="fa fa-angle-double-down animated"></i>
                 </a>
@@ -142,7 +142,7 @@
 </ul>
  <h3 style="color:black"><a href="#">The User Attraction:</a> Funds can be transferred at a fraction of the cost and speed of the banking system. Micro payments can be easily completed. The 1.5 Billion unbanked people in the world can transfer funds simply with a mobile phone. Online retailers can substantially increase their market size by accessing the unbanked. Payment intermediaries can significantly improve cost/speed of their transactions.</h3>
 
-<h3>JOIN THE CRYPTO CURRENCY REVOLUTION !  OPEN A GREENCOINX WALLET NOW</h3>
+<h3 style="color:white">JOIN THE CRYPTO CURRENCY REVOLUTION !  OPEN A GREENCOINX WALLET NOW</h3>
 
 <h4 style="color:black"><a href="#">GreenCoinX Inc</a> is a subsidiary of <a href="#">GreenBank Capital Inc</a> a Canadian public company (<a href="#">CSE:GBC and OTCMKTS:GRNBF</a>)</h4>
 
