@@ -29,20 +29,17 @@
 </div>
 -->
 <div class="col-lg-6">
-<h3>XGCWallet</h3>
+<h3>Open a new Online <a style="color:white" href="https://xgcwallet.org" target="_blank">XGCWallet.org</a></h3>
 <div style="background-color:white;padding:10px" class="">
  <p>To use XGC, please use the free XGC Online Wallet available at <a href="https://xgcwallet.org" target="_blank">www.xgcwallet.org</a></p>
 
 <p>To use XGC on a mobile, please download the XGC Mobile wallet at <a href="https://play.google.com/store/apps/details?id=org.xgcwallet.mobile" target="_blank">https://play.google.com/store/apps/details?id=org.xgcwallet.mobile</a></p>
 
-<p>Both wallets can send and receive XGC using an email or mobile phone number, and do not require the user to remember a complicated public key. The XGC online and mobile wallets are secure wallets, and all XGC is stored on the GreenCoinX blockchain thereby making hacking the wallets virtually impossible. Access to each wallet is by the use of a personal passphrase rather than by a complicated series of numerals and digits. The passphrase can be as long as the user likes, and can be in any language. This enables the user to more easily remember the passphrase for wallet access. The passphrase is converted into digits and then encrypted by the software in the background. Unlike most crypto currency wallets, when opening the XGC Wallet there is no need to sync the wallet with the blockchain. This means that the wallet is available for immediate use. Signing into a wallet requires a wallet ID and the user passphrase together with two factor authorization.</p>
-
-<p>The XGC Wallet is a very user friendly wallet with some unique features, and will facilitate the widespread use of XGC transactions by consumers.</p>
 </div>
 </div>
 	<div class="col-lg-6">
 		
-		<h3>Download GreenCoinX v0.9.3 </h3>
+		<h3>Technical Wallet Download GreenCoinX v0.9.3</h3>
 		<table class="table table-condensed table-striped table-hover" style="background-color:white;">
 		<tr>
 			<th>Your Operating System</th>
@@ -82,12 +79,6 @@
 			Your OS is MAC OSX 10.7 download from above line
 			</td>
 		</tr>
-	<tr>
-		<td><img src="/img/Github-icon.png" width="60px"><br>
-		Source</td>
-		<td><a target="_blank"  href="https://github.com/GreenCoin-Project/GreenCoin-Core/archive/master.zip">GreenCoinX Source</a><br>
-		<a target="_blank"  href="https://github.com/GreenCoin-Project/GreenCoin-Core">Contribute</a>
-	</tr>
 		</table>
 		
 	</div>

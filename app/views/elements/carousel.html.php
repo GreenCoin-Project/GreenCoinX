@@ -37,10 +37,12 @@
 																					version 0.9.3 for Windows / Linux / Ubuntu / iOS <br>32/64 bit
 																				</div>
 																			
-                    <div class="col-md-8 col-md-offset-2">
+                    <div class="col-md-12">
                         <h1 class="brand-heading">THE WORLD’S FIRST CRYPTO CURRENCY REQUIRING USER IDENTIFICATION</h1>
                         <p class="intro-text">
-																								 THE PROMISE OF CRYPTO CURRENCY WAS ALWAYS THE FAST AND INEXPENSIVE TRANSFER OF FUNDS WORLDWIDE, WHILE BYPASSING THE BANKING SYSTEM. UNTIL GREENCOINX THIS WAS IMPEDED BY IDENTITY CONCERNS. NOW GREENCOINX HAS MADE THIS PROMISE A REALITY.
+																								 THE PROMISE OF CRYPTO CURRENCY WAS ALWAYS THE FAST AND INEXPENSIVE TRANSFER OF FUNDS WORLDWIDE, WHILE BYPASSING THE BANKING SYSTEM.</p> 
+																									<p class="intro-text">BEFORE GREENCOINX THIS WAS IMPEDED BY IDENTITY CONCERNS.</p>
+																									<p class="intro-text">NOW GREENCOINX HAS MADE THIS PROMISE A REALITY.
 																								</p>
 																			</div>
 																		<div class="col-md-12" style="text-align:centre;background-color:#efe;margin-top:5px">
@@ -55,7 +57,7 @@
 																					<li><a href="/greencoin/download">open a new wallet</a></li>
 																					<li><a href="/greencoin/government">government</a></li>
 																					<li><a href="/greencoin/press">press release</a></li>
-																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
+																					<li><a href="/greencoin/identification">identification</a></li>
 																				</ul>
 																				</div>
 																				<div class="col-md-8 col-md-offset-2">
@@ -71,20 +73,21 @@
     <!-- About Section -->
     <section id="about" class="content-section text-center">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+            <div class="col-lg-10 col-lg-offset-1">
 													<div class="row">
 														<div class="col-lg-6 col-lg-offset-3">
 															<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/>
 														</div>
 													</div>
-													<p>ALL GREENCOINX USERS HAVE TO BE FULLY IDENTIFIED BEFORE USAGE, SO BAD ACTORS WILL NOT USE GREENCOINX</p>
+													<h3>ALL GREENCOINX USERS HAVE TO BE FULLY IDENTIFIED BEFORE USAGE,</h3><h3> SO BAD ACTORS WILL NOT USE GREENCOINX</h3>
 													<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px"></p>
 												<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px">In October, 2014 Bill Gates, the founder of Microsoft, when asked about bitcoin stated;
 													<blockquote style="text-align:justify;padding-left:20px;margin-top:-20px">"The customers we’re talking about aren’t trying to be anonymous, they’re willing to be known, so bitcoin technology is key and you can add to it or you could build a similar technology where there’s enough attribution where people feel comfortable that this is nothing to do with terrorism or any type of money laundering." 
 													<footer style="padding:0px;margin:0px"><a href="http://www.bloomberg.com/video/bill-gates-bitcoin-is-exciting-because-it-s-cheap-dQ4qHV4~TLSnUIuIRfZBVA.html" target="_blank">Bill Gates, Bloomberg TV</a></footer>
 													</blockquote>
 												</p>
-												<p style="text-align:justify;font-size:16px;color:black;margin-top:-20px"> THE GREENCOINX ECOSYSTEM COMPRISES THE WORLD’S FIRST CRYPTO CURRENCY REQUIRING USER IDENTIFICATION, A FREE ONLINE WALLET, AND A FREE ONLINE CRYPTO CURRENCY EXCHANGE.
+												<h3>THE GREENCOINX ECOSYSTEM COMPRISES THE WORLD’S FIRST CRYPTO CURRENCY REQUIRING USER IDENTIFICATION,</h3>
+												<h3>A <u>FREE</u> ONLINE WALLET, AND </h3><h3>A <u>FREE</u> ONLINE CRYPTO CURRENCY EXCHANGE.</h3>
 												</p>
 												<p style="text-align:center;font-size:16px;color:white;margin-top:-20px">TO OPEN YOUR FREE ONLINE GREENCOINX WALLET GO TO <a href="https://XGCWALLET.ORG">WWW.XGCWALLET.ORG</a></p>
 																<a href="#features" class="btn btn-circle page-scroll">
@@ -106,29 +109,29 @@
 																					<li><a href="/greencoin/download">open a new wallet</a></li>
 																					<li><a href="/greencoin/government">government</a></li>
 																					<li><a href="/greencoin/press">press release</a></li>
-																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
+																					<li><a href="/greencoin/identification">identification</a></li>
 																				</ul>
 																				</div>
 
     <!-- Feature Section -->
-    <section id="features" class="container content-section text-center">
+    <section id="features" class="content-section text-center">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+            <div class="col-lg-10 col-lg-offset-1">
 													<div class="row">
-														<div class="col-lg-6 col-lg-offset-3">
+														<div class="col-lg-6 col-lg-offset-3"><br>
 															<img  src="/img/logo-GreenCoinX.png" style="max-width:100%"/>
 														</div>
 													</div><br>
 
-                <p style="color:black">Crypto currency is the most significant technological breakthrough to impact the financial world since the Internet.
-																</p>
+                <h3 style="color:black">Crypto currency is the most significant technological breakthrough to impact the financial world since the Internet.
+																</h3>
+																<p>&nbsp;</p>
+																<p style="color:black">GreenCoinX is a medium of exchange created and stored electronically, which uses encryption techniques to control the creation of monetary units and verify the transfer of funds. Due to encryption , transactions are secure from third parties. GreenCoinX is anti-inflationary as its value is not affected by government money printing. GreenCoinX allows users access to a fast execution anytime/anywhere low cost global payment system which bypasses the banking system.</p>
 																
-																<p style="color:black"><strong style="color:white">GreenCoinX is a medium of exchange created and stored electronically, which uses encryption techniques to control the creation of monetary units and verify the transfer of funds. Due to encryption , transactions are secure from third parties. GreenCoinX is anti-inflationary as its value is not affected by government money printing. GreenCoinX allows users access to a fast execution anytime/anywhere low cost global payment system which bypasses the banking system.
-																</p>
-                <p style="color:black"> GREENCOINX IS THE ACCEPTABLE ALTERNATIVE CRYPTO CURRENCY TO FIAT CURRENCIES<br>
-GreenCoinX is the Anti-Bitcoin. It has solved all the Bitcoin flaws. The GreenCoinX Answer is… </p>
+                <h3 style="color:DeepSkyBlue"> GREENCOINX IS THE ACCEPTABLE ALTERNATIVE CRYPTO CURRENCY TO FIAT CURRENCIES</h3>
+<h3  style="color:DeepSkyBlue">GreenCoinX is the Anti-Bitcoin. It has solved all the Bitcoin flaws. The GreenCoinX Answer is… </h3>
 																
-																 <ul style="font-size:20px"><li>User Identification</li>
+																 <ul style="font-size:20px;color:DeepSkyBlue"><li>User Identification</li>
 <li>Currency Stability</li>
 
 <li>Blockchain Longevity</li>
@@ -137,13 +140,13 @@ GreenCoinX is the Anti-Bitcoin. It has solved all the Bitcoin flaws. The GreenCo
 
 <li>Government Partnerships</li>
 </ul>
- <h3><a href="#">The User Attraction:</a> Funds can be transferred at a fraction of the cost and speed of the banking system. Micro payments can be easily completed. The 1.5 Billion unbanked people in the world can transfer funds simply with a mobile phone. Online retailers can substantially increase their market size by accessing the unbanked. Payment intermediaries can significantly improve cost/speed of their transactions.</h3>
+ <h3 style="color:black"><a href="#">The User Attraction:</a> Funds can be transferred at a fraction of the cost and speed of the banking system. Micro payments can be easily completed. The 1.5 Billion unbanked people in the world can transfer funds simply with a mobile phone. Online retailers can substantially increase their market size by accessing the unbanked. Payment intermediaries can significantly improve cost/speed of their transactions.</h3>
 
 <h3>JOIN THE CRYPTO CURRENCY REVOLUTION !  OPEN A GREENCOINX WALLET NOW</h3>
 
-<h4><a href="#">GreenCoinX Inc</a> is a subsidiary of <a href="#">GreenBank Capital Inc</a> a Canadian public company (<a href="#">CSE:GBC and OTCMKTS:GRNBF</a>)</h4>
+<h4 style="color:black"><a href="#">GreenCoinX Inc</a> is a subsidiary of <a href="#">GreenBank Capital Inc</a> a Canadian public company (<a href="#">CSE:GBC and OTCMKTS:GRNBF</a>)</h4>
 
-<h4>For more information on GreenBank please see <a href="http://www.GreenBankCapitalInc.com" target="_blank">www.GreenBankCapitalInc.com</a></h4>
+<h4 style="color:black">For more information on GreenBank please see <a href="http://www.GreenBankCapitalInc.com" target="_blank">www.GreenBankCapitalInc.com</a></h4>
 
 																
             </div>
@@ -161,6 +164,6 @@ GreenCoinX is the Anti-Bitcoin. It has solved all the Bitcoin flaws. The GreenCo
 																					<li><a href="/greencoin/download">open a new wallet</a></li>
 																					<li><a href="/greencoin/government">government</a></li>
 																					<li><a href="/greencoin/press">press release</a></li>
-																					<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
+																					<li><a href="/greencoin/identification">identification</a></li>
 																				</ul>
 																				</div>    <!-- Signup Section -->

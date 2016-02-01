@@ -79,12 +79,6 @@
 			Your OS is MAC OSX 10.7 download from above line
 			</td>
 		</tr>
-	<tr>
-		<td><img src="/img/Github-icon.png" width="60px"><br>
-		Source</td>
-		<td><a target="_blank"  href="https://github.com/GreenCoin-Project/GreenCoin-Core/archive/master.zip">GreenCoinX Source</a><br>
-		<a target="_blank"  href="https://github.com/GreenCoin-Project/GreenCoin-Core">Contribute</a>
-	</tr>
 		</table>
 		
 	</div>
