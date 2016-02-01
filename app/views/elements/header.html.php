@@ -31,7 +31,7 @@ $ibwtapi = $function->ibwtapi();
 						<li></li>
 					</ul>
 					<ul class="nav navbar-nav pull-right">
-						<li><a href="/greencoin/identification"><strong>identification</strong></a></li>
+						<li><a href="/greencoin/identification">identification</a></li>
 					</ul>
 				</div>
 			</div>
