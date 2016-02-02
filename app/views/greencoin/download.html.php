@@ -40,7 +40,7 @@
 
  
 
-https://play.google.com/store/apps/details?id=org.xgcwallet.mobile
+
 <p>Open a new mobile wallet on your Android mobile device
  <a href="https://play.google.com/store/apps/details?id=org.xgcwallet.mobile" target="_blank">https://play.google.com/store/apps/details?id=org.xgcwallet.mobile</a></p>
 
