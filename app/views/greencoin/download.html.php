@@ -33,10 +33,20 @@
 <div style="background-color:white;padding:10px" class="">
  <p>To use XGC, please use the free XGC Online Wallet available at <a href="https://xgcwallet.org" target="_blank">www.xgcwallet.org</a></p>
 
-<p>To use XGC on a mobile, please download the XGC Mobile wallet at <a href="https://play.google.com/store/apps/details?id=org.xgcwallet.mobile" target="_blank">https://play.google.com/store/apps/details?id=org.xgcwallet.mobile</a></p>
+</div>
+<h3>Open a new mobile wallet on your Android mobile device</h3>
+<div style="background-color:white;padding:10px" class="">
+ 
+
+ 
+
+https://play.google.com/store/apps/details?id=org.xgcwallet.mobile
+<p>Open a new mobile wallet on your Android mobile device
+ <a href="https://play.google.com/store/apps/details?id=org.xgcwallet.mobile" target="_blank">https://play.google.com/store/apps/details?id=org.xgcwallet.mobile</a></p>
 
 </div>
 </div>
+
 	<div class="col-lg-6">
 		
 		<h3>Technical Wallet Download GreenCoinX v0.9.3</h3>
