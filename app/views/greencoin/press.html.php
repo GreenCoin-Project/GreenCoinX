@@ -3,6 +3,14 @@
 <div style="background-color:white;padding:10px"><h3>Press Release</h3></div>
 <div style="background-color:white;padding:10px">
 
+
+<blockquote>
+<h3>GREENCOINX UPGRADES ITS CRYPTO CURRENCY IDENTIFICATION TO FULL “KNOW YOUR CLIENT” STANDARDS</h3>
+<h5>GreenCoinX is the World’s First Crypto Currency Requiring User Identification</h5>
+<p><small>Toronto, Ontario, February 3, 2016 – GreenCoinX Inc, a subsidiary of GreenBank Capital Inc a Canadian public company (CSE:GBC and OTCMKTS:GRNBF) ("GreenCoinX") announces its upgraded crypto currency identification to full “Know Your Client” (“KYC”) standards. GreenCoinX is the world’s first and only crypto currency that requires users to be identified before usage. All GreenCoinX users will now meet the same identification standards as the banking community. <a href="/files/GreenCoinX press release KYC February 3  2016.pdf" target="_blank">read more...</a></p>
+</blockquote>
+
+
 <blockquote>
 <h3>Isle of Man Welcomes GreenCoinX</h3>
 <h5></h5>
