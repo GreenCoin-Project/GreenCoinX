@@ -54,6 +54,7 @@
 																					<li><a href="/greencoin/FAQ">faq</a></li>				
 <!--																					<li><a href="/blockchain">block chain</a></li>-->
 																					<li><a href="/greencoin/download">open a new wallet</a></li>
+																					<li><a href="https://xgcwallet.org" target="_blank">XGC Wallet</a></li>
 																					<li><a href="/greencoin/government">government</a></li>
 																					<li><a href="/greencoin/press">press release</a></li>
 																					<li><a href="/greencoin/identification">identification</a></li>
@@ -107,6 +108,7 @@
 																					<li><a href="/greencoin/FAQ">faq</a></li>				
 <!--																					<li><a href="/blockchain">block chain</a></li>-->
 																					<li><a href="/greencoin/download">open a new wallet</a></li>
+																					<li><a href="https://xgcwallet.org" target="_blank">XGC Wallet</a></li>
 																					<li><a href="/greencoin/government">government</a></li>
 																					<li><a href="/greencoin/press">press release</a></li>
 																					<li><a href="/greencoin/identification">identification</a></li>
@@ -162,6 +164,7 @@
 																					<li><a href="/greencoin/FAQ">faq</a></li>				
 																					<!--																					<li><a href="/blockchain">block chain</a></li>-->
 																					<li><a href="/greencoin/download">open a new wallet</a></li>
+																					<li><a href="https://xgcwallet.org" target="_blank">XGC Wallet</a></li>
 																					<li><a href="/greencoin/government">government</a></li>
 																					<li><a href="/greencoin/press">press release</a></li>
 																					<li><a href="/greencoin/identification">identification</a></li>

@@ -26,6 +26,7 @@ $ibwtapi = $function->ibwtapi();
 						<li><a href="/greencoin/FAQ">FAQ</a></li>
 <!--						<li><a href="/blockchain">blockchain</a></li>-->
 						<li><a href="/greencoin/download">open a new wallet</a></li>
+						<li><a href="https://xgcwallet.org" target="_blank">XGC Wallet</a></li>
 						<li><a href="/greencoin/government">government</a></li>
 						<li><a href="/greencoin/press">press release</a></li>						
 						<li></li>
