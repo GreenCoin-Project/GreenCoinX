@@ -4,6 +4,13 @@
 <div style="background-color:white;padding:10px">
 
 
+
+<blockquote>
+<h3>GreenCoinX press release Booth joins Advisory Board  March 29 2016.pdf</h3>
+<h5>Booth Joins GreenCoinX Talented Brain Trust</h5>
+<p><small>Toronto, Ontario, March 30, 2016</small> GreenCoinX Inc, a subsidiary of GreenBank Capital Inc (CSE:GBC and OTCMKTS:GRNBF) ("GreenBank”) announces that it has appointed John G. Booth to its Advisory Board. <a href="/files/GreenCoinX press release Booth joins Advisory Board  March 29 2016.pdf" target="_blank">read more...</a></p>
+</blockquote>
+
 <blockquote>
 <h3>GREENCOINX UPGRADES ITS CRYPTO CURRENCY IDENTIFICATION TO FULL “KNOW YOUR CLIENT” STANDARDS</h3>
 <h5>GreenCoinX is the World’s First Crypto Currency Requiring User Identification</h5>
