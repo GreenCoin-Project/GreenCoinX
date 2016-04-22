@@ -3,10 +3,15 @@
 <div style="background-color:white;padding:10px"><h3>Press Release</h3></div>
 <div style="background-color:white;padding:10px">
 
+<blockquote>
+<h3>GREENBANK APPOINTS RARES PATEANU A DIRECTOR</h3>
+<h5>Expert in Cryptocurrency, Blockchain and Financial Technology</h5>
+<p><small>Toronto, Ontario, April 22, 2016</small> GreenBank Capital Inc (CSE:GBC and OTCMKTS:GRNBF) ("GreenBank”) announces that Rares Pateanu has been appointed a director of GreenBank with immediate effect. <a href="/files/GreenBank press release appointment of Director April 22  2016.pdf" target="_blank">read more...</a></p>
+</blockquote>
 
 
 <blockquote>
-<h3>GreenCoinX press release Booth joins Advisory Board  March 29 2016.pdf</h3>
+<h3>GreenCoinX press release Booth joins Advisory Board</h3>
 <h5>Booth Joins GreenCoinX Talented Brain Trust</h5>
 <p><small>Toronto, Ontario, March 30, 2016</small> GreenCoinX Inc, a subsidiary of GreenBank Capital Inc (CSE:GBC and OTCMKTS:GRNBF) ("GreenBank”) announces that it has appointed John G. Booth to its Advisory Board. <a href="/files/GreenCoinX press release Booth joins Advisory Board  March 29 2016.pdf" target="_blank">read more...</a></p>
 </blockquote>
