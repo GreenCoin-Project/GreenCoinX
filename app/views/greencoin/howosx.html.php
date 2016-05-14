@@ -182,7 +182,7 @@ if(substr(Environment::get('locale'),0,2)=="en"){$locale = "en";}else{$locale = 
   <div class="panel-body">
     <img src="/img/OSX/Preferences - Start Verification - Phone .jpg" width="800">
   </div>
-		<div class="panel-footer"><?=$t('Please enter correct phone number with ISD code (only numbers) [998887776666], 99 is ISD code. Click 'Get code' to receive SMS.')?>
+		<div class="panel-footer"><?=$t('Please enter correct phone number with ISD code (only numbers) [998887776666], 99 is ISD code. Click \'Get code\' to receive SMS.')?>
 		</div>
 	</div>		
 

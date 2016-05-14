@@ -178,7 +178,7 @@
   <div class="panel-body">
     <img src="/img/GC-009.jpg">
   </div>
-		<div class="panel-footer"><?=$t('Please enter correct phone number with ISD code (only numbers) [998887776666], 99 is ISD code. Click 'Get code' to receive SMS.')?>
+		<div class="panel-footer"><?=$t('Please enter correct phone number with ISD code (only numbers) [998887776666], 99 is ISD code. Click \'Get code\' to receive SMS.')?>
 		</div>
 	</div>		
 
