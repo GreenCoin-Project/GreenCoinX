@@ -48,7 +48,7 @@ date_default_timezone_set('UTC');
  * @see lithium\core\Environment
  */
 $locale = 'en';
-$locales = array('en' => 'English');
+$locales = array('en' => 'English','de'=>'German','es'=>'Spanish', 'hi'=>'Hindi');
 
 Environment::set('production', compact('locale', 'locales'));
 Environment::set('development', compact('locale', 'locales'));
@@ -98,19 +98,22 @@ ConsoleDispatcher::applyFilter('_callable', $setLocale);
  * @link https://github.com/UnionOfRAD/li3_cldr
  */
 Catalog::config(array(
-	'runtime' => array(
-		'adapter' => 'Memory'
-	),
-	// 'app' => array(
-	// 	'adapter' => 'Gettext',
-	// 	'path' => Libraries::get(true, 'resources') . '/g11n'
-	// ),
-	'lithium' => array(
-		'adapter' => 'Php',
-		'path' => LITHIUM_LIBRARY_PATH . '/lithium/g11n/resources/php'
-	)
+    'runtime' => array(
+        'adapter' => 'Memory'
+    ),
+    'default' => array(
+        'adapter' => 'Gettext',
+        'path' => LITHIUM_APP_PATH . '/resources/g11n'
+    ),
+    'lithium' => array(
+        'adapter' => 'Php',
+        'path' => LITHIUM_LIBRARY_PATH . '/lithium/g11n/resources/php'
+    ),
+    'code' => array(
+        'adapter' => 'Code',
+        'path' => LITHIUM_APP_PATH
+    )
 ) + Catalog::config());
-
 /**
  * Multibyte Strings
  *
@@ -127,7 +130,7 @@ Multibyte::config(array(
 //	'default' => array('adapter' => 'Intl'),
 	'default' => array('adapter' => 'Mbstring'),
 //	'default' => array('adapter' => 'Iconv')
-));
+) + Multibyte::config());
 
 /**
  * Transliteration
@@ -196,5 +199,4 @@ Media::applyFilter('_handle', function($self, $params, $chain) {
 	$params['handler']['outputFilters'] += Message::aliases();
 	return $chain->next($self, $params, $chain);
 });
-
 ?>

@@ -29,19 +29,19 @@
 </div>
 -->
 <div class="col-lg-6">
-<h3>Open a new Online <a style="color:white" href="https://xgcwallet.org" target="_blank">XGCWallet.org</a></h3>
+<h3><?=$t('Open a new Online')?> <a style="color:white" href="https://xgcwallet.org" target="_blank">XGCWallet.org</a></h3>
 <div style="background-color:white;padding:10px" class="">
- <p>To use XGC, please use the free XGC Online Wallet available at <a href="https://xgcwallet.org" target="_blank">www.xgcwallet.org</a></p>
+ <p><?=$t('To use XGC, please use the free XGC Online Wallet available at')?> <a href="https://xgcwallet.org" target="_blank">www.xgcwallet.org</a></p>
 
 </div>
-<h3>Open a new mobile wallet on your Android mobile device</h3>
+<h3><?=$t('Open a new mobile wallet on your Android mobile device')?></h3>
 <div style="background-color:white;padding:10px" class="">
  
 
  
 
 
-<p>Open a new mobile wallet on your Android mobile device
+<p><?=$t('Open a new mobile wallet on your Android mobile device')?>
  <a href="https://play.google.com/store/apps/details?id=org.xgcwallet.mobile" target="_blank">https://play.google.com/store/apps/details?id=org.xgcwallet.mobile</a></p>
 
 </div>
@@ -49,24 +49,24 @@
 
 	<div class="col-lg-6">
 		
-		<h3>Technical Wallet Download GreenCoinX v0.9.3</h3>
+		<h3><?=$t('Technical Wallet Download GreenCoinX v0.9.3')?></h3>
 		<table class="table table-condensed table-striped table-hover" style="background-color:white;">
 		<tr>
-			<th>Your Operating System</th>
-			<th>Download</th>
+			<th><?=$t('Your Operating System')?></th>
+			<th><?=$t('Download')?></th>
 		</tr>
 		<tr>
-			<th>CheckSum file (sha1)</th>
-			<td><a target="_blank"  href="/download/Checksum.sha1">All CheckSum(sha1)</a><br></td>
+			<th><?=$t('CheckSum file (sha1)')?></th>
+			<td><a target="_blank"  href="/download/Checksum.sha1"><?=$t('All CheckSum(sha1)')?></a><br></td>
 		</tr>
 		<tr>
 			<td><img src="/img/Windows-icon.png" width="60px"><br>
-			Windows 64 and 32 bit
+			<?=$t('Windows 64 and 32 bit')?>
 			</td>
 			<td>
 			<a target="_blank"  href="/download/Setup-GreenCoinX-win-64.exe">GreenCoinX Setup - 64 bit</a><br>
 			<a target="_blank"  href="/download/Setup-GreenCoinX-win-32.exe">GreenCoinX Setup - 32 bit</a><br>
-			Your Windows OS can be 64 or 32 bit.<br> If you are not sure, it is advisable to download GreenCoinX Setup 32 bit.
+			<?=$t('Your Windows OS can be 64 or 32 bit.')?><br> <?=$t('If you are not sure, it is advisable to download GreenCoinX Setup 32 bit.')?>
 			</td>
 		</tr>
 
@@ -76,7 +76,7 @@
 			</td>
 			<td>
 			<a target="_blank"  href="/download/greencoin-0.9.3-linux.tar.gz">GreenCoinX 64/32 bit & source</a><br>
-			Your OS is Linux based, download from above link.
+			<?=$t('Your OS is Linux based, download from above link.')?>
 			</td>
 		</tr>
 
@@ -86,7 +86,7 @@
 			</td>
 			<td>
 			<a target="_blank"  href="/download/GreenCoin-Qt.dmg">GreenCoinX 64 bit</a><br>
-			Your OS is MAC OSX 10.7 download from above line
+			<?=$t('Your OS is MAC OSX 10.7 download from above line')?>
 			</td>
 		</tr>
 		</table>

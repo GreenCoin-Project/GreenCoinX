@@ -1,4 +1,9 @@
-<?php
+<?php use lithium\core\Environment; 
+if(substr(Environment::get('locale'),0,2)=="en"){$locale = "en";}else{$locale = Environment::get('locale');}
+//if(strlen($locale>2)){$locale='en';}
+// print_r(Environment::get('locale'));
+// print_r($locale);
+?><?php
 use lithium\storage\Session;
 use app\extensions\action\Functions;
 $user = Session::read('member');
@@ -17,24 +22,24 @@ $ibwtapi = $function->ibwtapi();
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="/"><img src="/img/greencoin.png" alt="GreenCoinX">&nbsp;<sup style="color:red;font-weight:bold">XGC</sup></a>
+					<a class="navbar-brand" href="/<?=$locale?>/"><img src="/img/greencoin.png" alt="GreenCoinX">&nbsp;<sup style="color:red;font-weight:bold">XGC</sup></a>
 					
 				</div>
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
-						<li><a href="/greencoin/how">Technical wallet</a></li>
-						<li><a href="/greencoin/FAQ">FAQ</a></li>
-<!--						<li><a href="/blockchain">blockchain</a></li>-->
-						<li><a href="/greencoin/download">open a new wallet</a></li>
-						<li><a href="https://xgcwallet.org" target="_blank">XGC Wallet</a></li>
-						<li><a href="https://kycglobal.net" target="_blank">KYC Global</a></li>
-						<li><a href="https://siicrypto.com" target="_blank">SiiCrypto</a></li>
-						<li><a href="/greencoin/government">government</a></li>
-						<li><a href="/greencoin/press">press release</a></li>						
+						<li><a href="/<?=$locale?>/greencoin/how"><?=$t('Technical wallet')?></a></li>
+						<li><a href="/<?=$locale?>/greencoin/FAQ"><?=$t('FAQ')?></a></li>
+<!--						<li><a href="/<?=$locale?>/blockchain">blockchain</a></li>-->
+						<li><a href="/<?=$locale?>/greencoin/download"><?=$t('open a new wallet')?></a></li>
+						<li><a href="https://xgcwallet.org" target="_blank"><?=$t('XGC Wallet')?></a></li>
+						<li><a href="https://kycglobal.net" target="_blank"><?=$t('KYC Global')?></a></li>
+						<li><a href="https://siicrypto.com" target="_blank"><?=$t('SiiCrypto')?></a></li>
+						<li><a href="/<?=$locale?>/greencoin/government"><?=$t('government')?></a></li>
+						<li><a href="/<?=$locale?>/greencoin/press"><?=$t('press release')?></a></li>						
 						<li></li>
 					</ul>
 					<ul class="nav navbar-nav pull-right">
-						<li><a href="/greencoin/identification">identification</a></li>
+						<li><a href="/<?=$locale?>/greencoin/identification">identification</a></li>
 					</ul>
 				</div>
 			</div>

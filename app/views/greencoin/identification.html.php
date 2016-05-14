@@ -1,6 +1,11 @@
-<?php use lithium\util\String;?>
+<?php use lithium\core\Environment; 
+if(substr(Environment::get('locale'),0,2)=="en"){$locale = "en";}else{$locale = Environment::get('locale');}
+//if(strlen($locale>2)){$locale='en';}
+// print_r(Environment::get('locale'));
+// print_r($locale);
+?><?php use lithium\util\String;?>
 <div style="margin:20px;padding:20px;">
-<div style="background-color:white;padding:10px"><h3>Identification Search <small>Registered users</small></h3></div>
+<div style="background-color:white;padding:10px"><h3><?=$t('Identification Search')?> <small><?=$t('Registered users')?></small></h3></div>
 <div style="background-color:white;padding:10px">
 	<div class="row">
 		<div class="col-md-4">
@@ -10,7 +15,7 @@
 					<tr>
 						<td>
 						<input type="text" class="form-control" id="email" name="email"  placeholder="yourname@domain.com" alt="">
-						<small>Your email address</small>
+						<small><?=$t('Your email address')?></small>
 						</td>
 						<td>
 						<input type="submit" class="form-control btn btn-sm btn-primary" value="Email">
@@ -30,7 +35,7 @@
 					<tr>
 						<td>
 						<input type="text" class="form-control" id="phone" name="phone"  placeholder="+998887776666">
-						<small>Include +[Country Code] +998887776666</small>
+						<small><?=$t('Include +[Country Code]')?> +998887776666</small>
 						</td>
 						<td>
 						<input type="submit" class="form-control btn btn-sm btn-primary" value="Phone">
@@ -50,7 +55,7 @@
 					<tr>
 						<td>
 						<input type="text" class="form-control" id="address" name="address"  placeholder="15m7bCWwadgAJPh5PaxTLyngaQzrjNxMQK">
-						<small>Your GreenCoinX address</small>
+						<small><?=$t('Your GreenCoinX address')?></small>
 						</td>
 						<td>
 						<input type="submit" class="form-control btn btn-sm btn-primary" value="GreenCoinX Address">
@@ -69,11 +74,11 @@
 		<div class="col-md-12">
 		<table class="table table-condensed">
 			<tr>
-				<th>Email</th>
-				<th>Phone</th>
-				<th>Identification</th>
-				<th>Extra Info</th>
-				<th>GreenCoinX</th>
+				<th><?=$t('Email')?></th>
+				<th><?=$t('Phone')?></th>
+				<th><?=$t('Identification')?></th>
+				<th><?=$t('Extra Info')?></th>
+				<th><?=$t('GreenCoinX')?></th>
 			</tr>
 	<?php foreach($data as $user){
 		foreach($user as $d){
@@ -81,10 +86,10 @@
 				<tr>
 					<td><?=$d->email?></td>
 					<td><?=$d->phone?></td>
-					<td>City: <?=$d->IPinfo->city?>, Country: <?=$d->IPinfo->country?>, Registered: <?=gmdate(DATE_RFC850,$d->DateTime)?>, IP: <?=$d->IPinfo->ip?></td>
+					<td><?=$t('City')?>: <?=$d->IPinfo->city?>, <?=$t('Country')?>: <?=$d->IPinfo->country?>, <?=$t('Registered')?>: <?=gmdate(DATE_RFC850,$d->DateTime)?>, IP: <?=$d->IPinfo->ip?></td>
 					
 					<td><?=$d->extra?></td>
-					<td><a href="/greencoin/addresses/<?=String::hash($d->_id)?>/<?=$d->_id?>">Addresses</a></td>
+					<td><a href="/<?=$locale?>/greencoin/addresses/<?=String::hash($d->_id)?>/<?=$d->_id?>"><?=$t('Addresses')?></a></td>
 				</tr>
 		<?php }
 		}	?>	

@@ -1,19 +1,24 @@
-<?php
+<?php use lithium\core\Environment; 
+if(substr(Environment::get('locale'),0,2)=="en"){$locale = "en";}else{$locale = Environment::get('locale');}
+//if(strlen($locale>2)){$locale='en';}
+// print_r(Environment::get('locale'));
+// print_r($locale);
+?><?php
 use app\extensions\action\Functions;
 array_multisort($getpeerinfo);
 //print_r($getpeerinfo);
 ?>
 <div style="margin:20px">
-<h4>Peer / network connections: <?=$getconnectioncount?></h4>
+<h4><?=$t('Peer / network connections')?>: <?=$getconnectioncount?></h4>
 <table class="table table-condensed table-striped table-bordered" style="background-color:white ">
 	<thead>
 		<tr>
 			<th>#</th>
-			<th>IP</th>
-			<th>Port</th>
-			<th>Connected Time</th>
+			<th><?=$t('IP')?></th>
+			<th><?=$t('Port')?></th>
+			<th><?=$t('Connected Time')?></th>
 
-			<th>Host</th>
+			<th><?=$t('Host')?></th>
 		</tr>
 	</thead>
 	<tbody>

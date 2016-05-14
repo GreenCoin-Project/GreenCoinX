@@ -1,4 +1,12 @@
 //JS Document
+var locale = '';
+var uri = window.location.pathname.substr(1);
+if(uri.substr(1,2)=='de' || uri.substr(1,2)=='en' || uri.substr(1,2)=='es' || uri.substr(1,2)=='hi'){
+		locale = '/'+uri.substr(0,2);
+}else{
+		locale = '/en';
+}
+
 function UpdateDetails(){
 	var delay = 10000;
 	var now, before = new Date();
@@ -594,3 +602,15 @@ function validateEmail(email) {
     return re.test(email);
 } 
 
+function ChangeLanguage(local,uri){
+	locale = local;
+	var nexturi = "";
+
+if(uri.substr(1,2)=='de' || uri.substr(1,2)=='en'|| uri.substr(1,2)=='es'|| uri.substr(1,2)=='hi'){
+			nexturi = '/'+local+(uri.substr(3));
+	}else{
+			nexturi = '/'+local+uri;
+	}
+	
+	window.location.assign(nexturi);
+}
