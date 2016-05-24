@@ -27,7 +27,7 @@ A. <?=$t('Yes. There will be a finite maximum of 210 million XGC that can ever b
 <blockquote>
 <p><strong>Q. <?=$t('How many XGC exist?')?></strong></p>
 <p>
-A. <?=$t('As at May 2016, approximately 190 million XGC have been mined of which GreenCoinX Inc owns 70 million, the non-profit Digital Foundation owns 42 million.')?></p>
+A. <?=$t('As at May 2016, approximately 150 million XGC have been mined of which GreenCoinX Inc owns 70 million, the non-profit Digital Foundation owns 42 million.')?></p>
 </blockquote>
 
 <blockquote>
