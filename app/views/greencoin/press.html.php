@@ -3,6 +3,13 @@
 <div style="background-color:white;padding:10px">
 
 <blockquote>
+<h3>Digital Gold Magazine</h3>
+<h5>GREENCOINX KYC VERIFIED CRYPTOCURRENCY</h5>
+<p><small>April/May 2016</small> An interview with Danny Wettreich the Chief Executive Officer of GreenBank Capital Inc., which is a publicly traded Canadian company. Its 80% subsidiary GreenCoinX Inc. (XGC) has developed a cryptocurrency that identifies each wallet holder
+at the time of sign up. All users are required to complete a customer identification regime before sending or receiving any digital currency. This requirement also extends to all miners. <a href="/files/GreenCoinX article Digital Gold Magazine May 2016.pdf" target="_blank">read more...</a></p>
+</blockquote>
+
+<blockquote>
 <h3>GREENBANK APPOINTS RARES PATEANU A DIRECTOR</h3>
 <h5>Expert in Cryptocurrency, Blockchain and Financial Technology</h5>
 <p><small>Toronto, Ontario, April 22, 2016</small> GreenBank Capital Inc (CSE:GBC and OTCMKTS:GRNBF) ("GreenBank”) announces that Rares Pateanu has been appointed a director of GreenBank with immediate effect. <a href="/files/GreenBank press release appointment of Director April 22  2016.pdf" target="_blank">read more...</a></p>
