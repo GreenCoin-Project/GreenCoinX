@@ -3,6 +3,14 @@
 <div style="background-color:white;padding:10px">
 
 <blockquote>
+<h3>Business Rock Stars Interviews GreenCoinX CEO Danny Wettreich About the GreenCoinX Cryptocurrency</h3>
+<h5></h5>
+<p>
+<iframe src="https://www.youtube.com/embed/2rGycN-Yz34?rel=0&amp;controls=0" allowfullscreen="" frameborder="0" height="360" width="640"></iframe>
+</p>
+</blockquote>
+
+<blockquote>
 <h3>Digital Gold Magazine</h3>
 <h5>GREENCOINX KYC VERIFIED CRYPTOCURRENCY</h5>
 <p><small>April/May 2016</small> An interview with Danny Wettreich the Chief Executive Officer of GreenBank Capital Inc., which is a publicly traded Canadian company. Its 80% subsidiary GreenCoinX Inc. (XGC) has developed a cryptocurrency that identifies each wallet holder
