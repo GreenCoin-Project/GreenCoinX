@@ -11,6 +11,12 @@
 </blockquote>
 
 <blockquote>
+<h3>GreenCoinX - German</h3>
+<h5>GREENCOINX LAUNCHES GERMAN VERSION OF WEBSITES</h5>
+<p><small>Toronto, Ontario, June 2, 2016</small> GreenCoinX Inc, developers of the world’s first and only cryptocurrency requiring user identification, announces the launch of the German version of all the websites in the GreenCoinX ecosystem. <a href="/files/GreenCoinX press release Launch of German version websites June 2  2016.pdf" target="_blank">read more...</a></p>
+</blockquote>
+
+<blockquote>
 <h3>Digital Gold Magazine</h3>
 <h5>GREENCOINX KYC VERIFIED CRYPTOCURRENCY</h5>
 <p><small>April/May 2016</small> An interview with Danny Wettreich the Chief Executive Officer of GreenBank Capital Inc., which is a publicly traded Canadian company. Its 80% subsidiary GreenCoinX Inc. (XGC) has developed a cryptocurrency that identifies each wallet holder

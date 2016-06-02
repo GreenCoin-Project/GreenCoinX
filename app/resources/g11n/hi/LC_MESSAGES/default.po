@@ -14,317 +14,320 @@ msgstr ""
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\address.html.php:2
 msgid "GreenCoinX address"
-msgstr ""
+msgstr "GreenCoinX एड्रेस "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:9
 msgid "Next Block"
-msgstr ""
+msgstr "अगला ब्लोक "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:17
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:30
 msgid "Hash"
-msgstr ""
+msgstr "हेस "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:22
 msgid "Prev Block"
-msgstr ""
+msgstr "पहला ब्लोक "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:27
 msgid "Details"
-msgstr ""
+msgstr "विवरण "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:34
 msgid "Block"
-msgstr ""
+msgstr "ब्लोक "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:38
 msgid "Confirmations"
-msgstr ""
+msgstr "पुष्टियों"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:42
 msgid "Size"
-msgstr ""
+msgstr "माप "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:46
 msgid "Version"
-msgstr ""
+msgstr "मूलपाठ"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:50
 msgid "Merkle root"
-msgstr ""
+msgstr "मर्कल रूट"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:54
 msgid "Time"
-msgstr ""
+msgstr "समय "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:58
 msgid "Nonce"
-msgstr ""
+msgstr "नोंस"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:62
 msgid "Bits"
-msgstr ""
+msgstr "बिट्स "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:66
 msgid "Difficulty"
-msgstr ""
+msgstr "कठिनाई"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:70
 msgid "Transaction in this block"
-msgstr ""
+msgstr "एक ब्लॉक में लेनदेन"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:74
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blockhash.html.php:75
 msgid "Transaction hash"
-msgstr ""
+msgstr "लेनदेन हैश"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blocks.html.php:10
 msgid "Details of last 10 blocks generated"
-msgstr ""
+msgstr "पिछले 10 ब्लॉकों के विवरण उत्पन्न"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blocks.html.php:14
 msgid "Block Hash"
-msgstr ""
+msgstr "ब्लॉक हैश"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blocks.html.php:15
 msgid "Height"
-msgstr ""
+msgstr "ऊँचाई "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blocks.html.php:16
 msgid "Num Tx"
-msgstr ""
+msgstr "नुम tx"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blocks.html.php:32
 msgid "Latest"
-msgstr ""
+msgstr "नवीनतम"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blocks.html.php:34
 msgid "Next >> 10"
-msgstr ""
+msgstr "और >> 10"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\blocks.html.php:35
 msgid "Previous << 10"
-msgstr ""
+msgstr "पिछला << 10"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\index.html.php:10
 msgid "Network status"
-msgstr ""
+msgstr "नेटवर्क की स्थिति"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\index.html.php:10
 msgid "We are in sync with GreenCoinX network using"
-msgstr ""
+msgstr "GreenCoinX नेटवर्क के साथ सिंक में हैं"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\index.html.php:10
 msgid "connections"
-msgstr ""
+msgstr "कनेक्शन"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\index.html.php:12
 msgid "Blocks"
-msgstr ""
+msgstr "ब्लाकों"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\index.html.php:13
 msgid "Generated"
-msgstr ""
+msgstr "उत्पन्न"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\index.html.php:13
 msgid "mins ago at"
-msgstr ""
+msgstr "मिनट पहले"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\index.html.php:14
 msgid "The above block had difficulty level of"
-msgstr ""
+msgstr "ऊपर ब्लॉक की कठिनाई स्तर "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\peer.html.php:12
 msgid "Peer / network connections"
-msgstr ""
+msgstr "सहकर्मी / नेटवर्क कनेक्शन"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\peer.html.php:17
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\peer.html.php:18
 msgid "Port"
-msgstr ""
+msgstr "पोर्ट "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\peer.html.php:19
 msgid "Connected Time"
-msgstr ""
+msgstr "कनेक्टेड समय"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\peer.html.php:21
 msgid "Host"
-msgstr ""
+msgstr "होस्ट "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:6
 msgid "Transaction details"
-msgstr ""
+msgstr "लेनदेन का विवरण"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:12
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:35
 msgid "Tx ID"
-msgstr ""
+msgstr "Tx ID"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:20
 msgid "Lock time"
-msgstr ""
+msgstr "लोक समय"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:24
 msgid "Last since Block"
-msgstr ""
+msgstr "पिछले ब्लॉक के बाद"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:29
 msgid "Transaction In"
-msgstr ""
+msgstr "ट्रांस्क्सं In"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:40
 msgid "Vout"
-msgstr ""
+msgstr "Vout"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:44
 msgid "scriptSig: asm"
-msgstr ""
+msgstr "scriptSig: asm"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:48
 msgid "scriptSig: hex"
-msgstr ""
+msgstr "scriptSig: hex"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:52
 msgid "sequence"
-msgstr ""
+msgstr "अनुक्रम"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:57
 msgid "Transaction Out"
-msgstr ""
+msgstr "लेनदेन Out"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:63
 msgid "Amount"
-msgstr ""
+msgstr "रकम"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:75
 msgid "Addresses"
-msgstr ""
+msgstr "अद्रेसेस "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:76
 msgid "Script pub key: asm"
-msgstr ""
+msgstr "Script pub key: asm"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:77
 msgid "Script pub key: hex"
-msgstr ""
+msgstr "Script pub key: hex"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:78
 msgid "Require sign"
-msgstr ""
+msgstr "रेक्विएर साइन"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\blockchain\transactionhash.html.php:79
 msgid "Type"
-msgstr ""
+msgstr "प्रकार"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:53
 msgid "THE WORLD'S FIRST CRYPTO CURRENCY REQUIRING USER IDENTIFICATION"
-msgstr ""
+msgstr "उपयोगकर्ता की पहचान की आवश्यकता होती है, दुनिया का पहला cryptocurrency "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:55
 msgid ""
 "THE PROMISE OF CRYPTO CURRENCY WAS ALWAYS THE FAST AND INEXPENSIVE TRANSFER "
 "OF FUNDS WORLDWIDE, WHILE BYPASSING THE BANKING SYSTEM."
 msgstr ""
+"Cryptocurrency का वादा हमेशा दुनिया भर में धन की तेजी से और सस्ती स्थानांतरण गया था, "
+"जबकि बैंकिंग प्रणाली को दरकिनार।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:56
 msgid "BEFORE GREENCOINX THIS WAS IMPEDED BY IDENTITY CONCERNS."
-msgstr ""
+msgstr "इससे पहले GREENCOINX इस पहचान चिंताओं द्वारा बाधा किया गया था।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:57
 msgid "NOW GREENCOINX HAS MADE THIS PROMISE A REALITY."
-msgstr ""
+msgstr "अब GREENCOINX यह वादा एक वास्तविकता बना दिया है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:61
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:117
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:176
 msgid "contact"
-msgstr ""
+msgstr "संपर्क"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:62
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:118
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:177
 msgid "about us"
-msgstr ""
+msgstr "हमारे बारे में"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:63
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:119
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:178
 msgid "risk"
-msgstr ""
+msgstr "जोखिम"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:64
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:120
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:179
 msgid "privacy"
-msgstr ""
+msgstr "गोपनीय"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:66
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:122
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:181
 msgid "faq"
-msgstr ""
+msgstr "एफे ऐ क्यू "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:68
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:124
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:183
 msgid "open a new wallet"
-msgstr ""
+msgstr "एक नए बटुए खोले "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:69
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:125
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:184
 msgid "XGC Wallet"
-msgstr ""
+msgstr "XGC वॉलेट"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:70
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:126
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:185
 msgid "KYC Global"
-msgstr ""
+msgstr "KYC ग्लोबल "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:71
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:127
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:186
 msgid "SiiCrypto"
-msgstr ""
+msgstr "SiiCrypto"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:72
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:129
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:188
 msgid "government"
-msgstr ""
+msgstr "सरकार"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:73
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:130
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:189
 msgid "press"
-msgstr ""
+msgstr "मुद्रणालय"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:74
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:131
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:190
 msgid "identification"
-msgstr ""
+msgstr "पहचान"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:96
 msgid "ALL GREENCOINX USERS HAVE TO BE FULLY IDENTIFIED BEFORE USAGE"
 msgstr ""
+"सभी GREENCOINX उपयोगकर्ताओं को पूरी तरह उपयोग से पहले पहचाना जा करने की जरूरत हे "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:96
 msgid "SO BAD ACTORS WILL NOT USE GREENCOINX"
-msgstr ""
+msgstr "एसओ बुरा अभिनेताओं  GREENCOINX का उपयोग नहीं करेंगे "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:98
 msgid ""
 "In October, 2014 Bill Gates, the founder of Microsoft, when asked about "
 "bitcoin stated;"
-msgstr ""
+msgstr "अक्तूबर में, 2014 में बिल गेट्स, माइक्रोसॉफ्ट के संस्थापक, जब कहा Bitcoin के बारे में;"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:99
 msgid ""
@@ -337,31 +340,35 @@ msgstr ""
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:100
 msgid "Bill Gates, Bloomberg TV"
-msgstr ""
+msgstr "बिल गेट्स, ब्लूमबर्ग टीवी"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:103
 msgid ""
 "THE GREENCOINX ECOSYSTEM COMPRISES THE WORLD'S FIRST CRYPTO CURRENCY "
 "REQUIRING USER IDENTIFICATION,"
 msgstr ""
+"GREENCOINX पारिस्थितिकी तंत्र दुनिया का पहला cryptocurrency उपयोगकर्ता की पहचान "
+"की आवश्यकता शामिल हैं,"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:104
 msgid "A <u>FREE</u> ONLINE WALLET, AND "
-msgstr ""
+msgstr "एक <u> मुफ्त </ u> ऑनलाइन बटुआ, और"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:105
 msgid "A <u>FREE</u> ONLINE CRYPTO CURRENCY EXCHANGE."
-msgstr ""
+msgstr "एक <u> मुफ्त </ u> ऑनलाइन cryptocurrency विनिमय।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:107
 msgid "TO OPEN YOUR FREE ONLINE GREENCOINX WALLET GO TO"
-msgstr ""
+msgstr "आपके मुफ्त ऑनलाइन GREENCOINX बटुआ खोलने के लिए जाओ "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:145
 msgid ""
 "Crypto currency is the most significant technological breakthrough to impact "
 "the financial world since the Internet."
 msgstr ""
+"Cryptocurrency इंटरनेट के बाद से वित्तीय दुनिया को प्रभावित करने के लिए सबसे महत्वपूर्ण "
+"तकनीकी सफलता है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:148
 msgid ""
@@ -373,41 +380,49 @@ msgid ""
 "fast execution anytime/anywhere low cost global payment system which "
 "bypasses the banking system."
 msgstr ""
+"GreenCoinX बनाया और इलेक्ट्रॉनिक संग्रहीत एक्सचेंज है, जो एन्क्रिप्शन तकनीक का उपयोग "
+"करता मौद्रिक इकाइयों के निर्माण के नियंत्रण के लिए और धन के हस्तांतरण को सत्यापित करने का "
+"एक माध्यम है। एन्क्रिप्शन के कारण, लेनदेन तीसरे पक्ष से सुरक्षित हैं। GreenCoinX विरोधी "
+"मुद्रास्फीति रूप में इसकी कीमत सरकार मुद्रण पैसे से प्रभावित नहीं है। GreenCoinX "
+"उपयोगकर्ताओं को एक तेजी से निष्पादन कभी भी / कहीं कम लागत वैश्विक भुगतान प्रणाली है जो "
+"बैंकिंग प्रणाली को नजरअंदाज करने के लिए उपयोग की अनुमति देता है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:150
 msgid ""
 "GREENCOINX IS THE ACCEPTABLE ALTERNATIVE CRYPTO CURRENCY TO FIAT CURRENCIES"
-msgstr ""
+msgstr "GREENCOINX फिएट मुद्राओं की स्वीकार्य विकल्प cryptocurrency है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:151
 msgid ""
 "GreenCoinX is the Anti-Bitcoin. It has solved all the Bitcoin flaws. The "
 "GreenCoinX Answer is..."
 msgstr ""
+"GreenCoinX विरोधी Bitcoin है। यह सब Bitcoin खामियों को हल किया है। GreenCoinX "
+"जवाब है ..."
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:153
 msgid "User Identification"
-msgstr ""
+msgstr "उपयोगकर्ता की पहचान"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:154
 msgid "Currency Stability"
-msgstr ""
+msgstr "मुद्रा स्थिरता"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:156
 msgid "Blockchain Longevity"
-msgstr ""
+msgstr "Blockchain दीर्घायु"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:158
 msgid "Free and Safe Crypto Currency Exchange"
-msgstr ""
+msgstr "स्वतंत्र और सुरक्षित Cryptocurrency एक्सचेंज"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:160
 msgid "Government Partnerships"
-msgstr ""
+msgstr "सरकार से भागीदारी"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:162
 msgid "The User Attraction"
-msgstr ""
+msgstr "उपयोगकर्ता आकर्षण"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:162
 msgid ""
@@ -418,102 +433,107 @@ msgid ""
 "unbanked. Payment intermediaries can significantly improve cost/speed of "
 "their transactions."
 msgstr ""
+"फंड की लागत और बैंकिंग प्रणाली की गति का एक अंश में स्थानांतरित किया जा सकता है। सूक्ष्म "
+"भुगतान आसानी से पूरा किया जा सकता। 1.5 अरब दुनिया में बैंकिंग सुविधा रहित लोगों को बस "
+"एक मोबाइल फोन के साथ धन हस्तांतरण कर सकते हैं। ऑनलाइन खुदरा विक्रेताओं को काफी हद तक "
+"बैंकिंग सुविधा रहित तक पहुँचने के द्वारा अपने बाजार का आकार बढ़ा सकते हैं। भुगतान बिचौलियों "
+"काफी उनके लेन-देन की लागत / गति में सुधार कर सकते हैं।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:164
 msgid "JOIN THE CRYPTO CURRENCY REVOLUTION !  OPEN A GREENCOINX WALLET NOW"
-msgstr ""
+msgstr "Cryptocurrency क्रांति में शामिल होने! खुले एक GREENCOINX बटुआ अब"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:166
 msgid "is a subsidiary of"
-msgstr ""
+msgstr "की एक सहायक है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:166
 msgid "a Canadian public company"
-msgstr ""
+msgstr "कनाडा के एक सार्वजनिक कंपनी"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:168
 msgid "For more information on GreenBank please see"
-msgstr ""
+msgstr "Greenbank के बारे में अधिक जानकारी के लिए कृपया देखें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\footerall.html.php:7
 msgid "GreenCoinX is a registered name of"
-msgstr ""
+msgstr "GreenCoinX एक पंजीकृत नाम है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\footerall.html.php:12
 msgid "Contact"
-msgstr ""
+msgstr "संपर्क"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\footerall.html.php:13
 msgid "About us"
-msgstr ""
+msgstr "हमारे बारे में"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\footerall.html.php:14
 msgid "Risk"
-msgstr ""
+msgstr "जोखिम"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\footerall.html.php:15
 msgid "Privacy"
-msgstr ""
+msgstr "गोपनीय"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\footerall.html.php:17
 msgid "Press release"
-msgstr ""
+msgstr "प्रेस विज्ञप्ति"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\footerall.html.php:18
 msgid "FAQ"
-msgstr ""
+msgstr "एफ ए क्यू"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\footerall.html.php:19
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\greencoin.html.php:7
 msgid "Install GreenCoinX"
-msgstr ""
+msgstr "GreenCoinX इंस्टाल करे"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\greencoin.html.php:8
 msgid "Install Mac OSX"
-msgstr ""
+msgstr "Mac OSX पर इनस्टॉल करे"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\greencoin.html.php:9
 msgid "Setup Identification Win"
-msgstr ""
+msgstr "सेटअप पहचान विन्डोज़ "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\greencoin.html.php:10
 msgid "Setup Identification OSX"
-msgstr ""
+msgstr "सेटअप पहचान OSX"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\greencoin.html.php:11
 msgid "Send to email"
-msgstr ""
+msgstr "ईमेल पैर भेजो"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\greencoin.html.php:12
 msgid "Send to phone"
-msgstr ""
+msgstr "फ़ोन पर भेजो "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\greencoin.html.php:13
 msgid "Create new address"
-msgstr ""
+msgstr "नया address बनावो"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\greencoin.html.php:14
 msgid "Pay taxes"
-msgstr ""
+msgstr "करो का भुगतान करें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\greencoin.html.php:15
 msgid "Mine GreenCoinX"
-msgstr ""
+msgstr "GreenCoinX माइन करे"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\greencoin.html.php:16
 msgid "Tx too large"
-msgstr ""
+msgstr "TX बहोत बड़ा"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\header.html.php:30
 msgid "Technical wallet"
-msgstr ""
+msgstr "तकनिकल बटवा"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\header.html.php:38
 msgid "press release"
-msgstr ""
+msgstr "प्रेस विज्ञप्ति"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:10
 msgid ""
@@ -525,26 +545,32 @@ msgid ""
 "alleviating concerns that crooks and terrorists can use crypto currency to "
 "hide their activities. "
 msgstr ""
+"कनाडा के एक सार्वजनिक कंपनी GreenBank Capital Inc की एक सहायक है (CSE: CBC और "
+"OTCMKTS: GRNBF) और GreenCoinX (क्रिप्टो मुद्रा प्रतीक XGC) दुनिया का पहला क्रिप्टो "
+"मुद्रा के विकासकर्ता है कि उपयोगकर्ताओं को पहचान करने की आवश्यकता है। GreenCoinX बैंकिंग "
+"समुदाय के रूप में ही पहचान मानकों को पूरा करती है, और क्रिप्टो मुद्रा का वादा चिंता है कि "
+"बदमाश और आतंकवादियों को क्रिप्टो मुद्रा का उपयोग कर सकते हैं उनकी गतिविधियों को छिपाने "
+"के लिए समाप्त करने से एक वास्तविकता बनाता है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:13
 msgid "To use XGC, please use the free XGC Online Wallet available at"
-msgstr ""
+msgstr "XGC का उपयोग करने के लिए, पर मुफ्त ऑनलाइन XGC वॉलेट उपलब्ध इस्तेमाल करें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:15
 msgid "To use XGC on a mobile, please download the XGC Mobile wallet at"
-msgstr ""
+msgstr "एक मोबाइल पर XGC का उपयोग करने के लिए, पर XGC मोबाइल बटुआ डाउनलोड करें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:17
 msgid "Our Leadership"
-msgstr ""
+msgstr "हमारा नेतृत्व"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:18
 msgid "Directors and Management"
-msgstr ""
+msgstr "निदेशकों और प्रबंधन"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:20
 msgid "Daniel Wettreich is the Chairman & CEO of GreenCoinX."
-msgstr ""
+msgstr "Daniel Wettreich अध्यक्ष एवं GreenCoinX के सीईओ है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:20
 msgid ""
@@ -562,10 +588,21 @@ msgid ""
 "estate.   He has facilitated 13 reverse takeover transactions. He is a "
 "graduate of the University of Westminster with a BA in Business."
 msgstr ""
+"वे एक निर्देशक और Greenbank Capital Inc के सीईओ एक व्यापारी बैंक सार्वजनिक रूप से "
+"कनाडा प्रतिभूति एक्सचेंज में सूचीबद्ध है। वे पांच अन्य सीएसई सूचीबद्ध कंपनियों के एक निदेशक है। "
+"उनका उद्यम पूंजी, निजी इक्विटी, और सार्वजनिक रूप से कारोबार कंपनियों के प्रबंधन में अनुभव के "
+"40 से अधिक वर्षों से है। उनका 20 से अधिक वर्षों के लिए अध्यक्ष और मुख्य कार्यकारी अधिकारी "
+"चर्चिल वेंचर कैपिटल एल.पी., एक डलास, टेक्सास निजी इक्विटी व्यापार, के लिए किया गया "
+"है। , अमेरिकी स्टॉक एक्सचेंज, लंदन स्टॉक एक्सचेंज, लंदन स्टॉक एक्सचेंज के उद्देश्य के लिए बाजार, "
+"और वैंकूवर स्टॉक एक्सचेंज, टोरंटो एक्सचेंज को पूर्ववर्ती उन्होंने NASDAQ पर सूचीबद्ध सार्वजनिक "
+"कंपनियों में से एक निर्देशक के लिए किया गया है। इन सार्वजनिक कंपनियों के इंटरनेट "
+"प्रौद्योगिकी, तेल एवं गैस, खुदरा बिक्री, दूरसंचार, मीडिया, और अचल संपत्ति में विभिन्न "
+"व्यवसायों में किया गया है। वह 13 रिवर्स अधिग्रहण के लेन-देन में मदद की है। उन्होंने कहा कि "
+"व्यापार में बीए के साथ वेस्टमिंस्टर विश्वविद्यालय के स्नातक हैं।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:24
 msgid "Nilam Doctor is the President & Chief Technical Officer of GreenCoinX."
-msgstr ""
+msgstr "Nilam Doctor, GreenCoinX के President और के मुख्य तकनीकी अधिकारी है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:24
 msgid ""
@@ -578,10 +615,17 @@ msgid ""
 "MobyMax, and Safal Education. He graduated with a MBA in Finance and a "
 "Bachelor of Engineering from Gujarat University."
 msgstr ""
+"वे GreenCoinX के नेतृत्व डेवलपर है। इससे पहले वह Hitarth कंसल्टेंट्स के मालिक एक सॉफ्टवेयर "
+"परामर्श वेब आधारित परियोजनाओं और डिजिटल मुद्रा पर ध्यान केंद्रित फर्म था। उन्होंने "
+"Bitcoin फाउंडेशन Bitcoin प्रोटोकॉल बढ़ावा देने का एक अनुदान समिति के सदस्य था। उन्होंने "
+"यह भी रीयल Bitcoins, क्रिप्टो मुद्रा के एक भारतीय आधारित प्रमोटर के सीईओ थे। उन्होंने "
+"कहा कि एक परियोजना प्रबंधक और ऑनलाइन शैक्षिक कंपनियों के लिए नेतृत्व सॉफ्टवेयर डेवलपर "
+"किया गया है, सीमा, MobyMax, और सफल शिक्षा के बिना जानें। उन्होंने कहा कि वित्त में एक "
+"एमबीए और गुजरात विश्वविद्यालय से इंजीनियरिंग के एक स्नातक के साथ स्नातक किया।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:29
 msgid "Paul Cullingham is a director of GreenCoinX."
-msgstr ""
+msgstr "पॉल कलिंग्हम GreenCoinX के एक निदेशक है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:29
 msgid ""
@@ -594,10 +638,16 @@ msgid ""
 "He has been an investment banker for 29 years specializing in the resource "
 "and financial sectors."
 msgstr ""
+"उन्होंने कहा कि एक निर्देशक और Greenbank राजधानी इंक, एक कनाडाई व्यापारी कनाडा "
+"प्रतिभूति एक्सचेंज में सूचीबद्ध बैंक के उपाध्यक्ष है। उन्होंने यह भी मुख्य अनुपालन अधिकारी अगर "
+"अपनी निवेश बैंकिंग सहायक Greenbank फाइनेंशियल इंक वह पांच सार्वजनिक रूप से सूचीबद्ध खनन "
+"अन्वेषण कंपनियों के एक निदेशक है। उन्होंने Ubique खनिज इंक, एक निजी खनन अन्वेषण कंपनी के "
+"सीईओ है, और अंदर बे स्ट्रीट निगम, कनाडा के निवेशकों के लिए एक ऑनलाइन पोर्टल की। वह 29 "
+"संसाधन और वित्तीय क्षेत्रों में विशेषज्ञता साल के लिए एक निवेश बैंकर की गई है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:33
 msgid "David M. Lonsdale is a director of GreenCoinX."
-msgstr ""
+msgstr "डेविड एम लोंस्देल GreenCoinX के एक निदेशक है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:33
 msgid ""
@@ -614,16 +664,27 @@ msgid ""
 "and his B.Sc. in Physics & Mathematics from Leeds Beckett University in the "
 "U.K."
 msgstr ""
+"वे  राष्ट्रपति और लोंस्देल समूह के सीईओ, स्मॉल कैप कंपनियों में एक डलास स्थित निजी निवेशक है। "
+"उन्होंने Greenbank राजधानी इंक एक कनाडाई व्यापारी कनाडा प्रतिभूति एक्सचेंज में सूचीबद्ध बैंक "
+"के एक निदेशक है। इससे पहले वह दस साल निष्ठा राजधानी निगम, एक निजी निवेश विलय और "
+"अधिग्रहण पर ध्यान केंद्रित कर बैंक, डलास, न्यूयॉर्क और शिकागो में कार्यालयों के साथ के "
+"राष्ट्रपति के लिए किया गया था। श्री लोंस्देल सफलतापूर्वक बनाया गया है और तीन उद्यम वित्त "
+"पोषित माइक्रोसॉफ्ट के लिए उनमें से एक को बेचने सहित सूचना प्रौद्योगिकी कंपनियों, बेच दिया "
+"है। अपने कैरियर में इससे पहले वह मैकडोनल डगलस / बोइंग और डन एंड ब्रैडस्ट्रीट / ए सी नील्सन "
+"के कॉर्पोरेट डिवीजनों में कामयाब रहे। उन्होंने कॉर्नेल विश्वविद्यालय और उसके एससी से वित्त और "
+"विपणन में अपने एमबीए प्राप्त भौतिकी और गणित ब्रिटेन में लीड्स विश्वविद्यालय से बेकेट में"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:36
 msgid "Advisory Board"
-msgstr ""
+msgstr "सलाहकार बोर्ड"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:41
 msgid ""
 "Rob Levy is Managing Director of Global Innovation Software Labs at "
 "PricewaterhouseCoopers (PwC), the worlds’ largest professional"
 msgstr ""
+"रोब लेवी प्राइसवाटरहाउस कूपर्स (पीडब्ल्यूसी) में ग्लोबल इनोवेशन सॉफ्टवेयर लैब्स के प्रबंध "
+"निदेशक, दुनिया का 'सबसे बड़ा पेशेवर है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:41
 msgid ""
@@ -643,10 +704,23 @@ msgid ""
 "backed startup (sold to Informatica), and Senior Vice President of Nastel "
 "Technologies, an enterprise software company."
 msgstr ""
+"157 देशों और $ 34B के राजस्व में कार्यालयों के साथ सेवाओं के व्यापार, एक सिलिकॉन वैली 157 "
+"देशों में कार्यालय और $ 34B के राजस्व के साथ आधारित प्राइसवाटरहाउस कूपर्स (पीडब्ल्यूसी) के "
+"साथ निवेश और परामर्श फर्म, और निवास में कार्यपालिका, 'दुनिया की दूसरी सबसे बड़ी पेशेवर "
+"सेवाओं के व्यापार । एक उद्यम अनुप्रयोग विकास और तैनाती सॉफ्टवेयर कंपनी: इससे पहले वह "
+"प्रगति सॉफ्टवेयर (NASDAQ PRGS) के मुख्य उत्पाद अधिकारी था। (: ब्यास, $ 8.5B के लिए "
+"2008 में ओरेकल को बेच NASDAQ), $ 1.5B से अधिक राजस्व के साथ एक उद्यम सॉफ्टवेयर कंपनी है, "
+"और मुख्य प्रौद्योगिकी कंप्यूटर एसोसिएट्स के रणनीतिकार (NASDAQ: सीए) है, जो उन्होंने की "
+"बीईए सिस्टम्स के मुख्य प्रौद्योगिकी अधिकारी दुनिया में सबसे बड़ी सॉफ्टवेयर कंपनियों में से एक। "
+"उन्होंने कहा कि इससे पहले, Revelytix इंक के निदेशक (Teradata को बेच दिया), एक उद्यम "
+"डेटा कंपनी, Eyeona के सीईओ एक सॉफ्टवेयर एक खुदरा मूल्य निर्धारण आवेदन विपणन कंपनी, "
+"ItemField के प्रबंध निदेशक अमेरिकी कार्रवाई, एक उद्यम समर्थित स्टार्टअप (Informatica "
+"को बेचा) कर दिया गया है और सीनियर वाइस Nastel टेक्नोलॉजीज, एक उद्यम सॉफ्टवेयर कंपनी "
+"के अध्यक्ष।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:46
 msgid "David J. Robino is a private investor"
-msgstr ""
+msgstr "डेविड जे रोबिनो एक निजी निवेशक है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:46
 msgid ""
@@ -661,12 +735,20 @@ msgid ""
 "State University.  He currently teaches Business Ethics at Southern Oregon "
 "University."
 msgstr ""
+"और कॉर्पोरेट गवर्नेंस और नॉनप्रॉफिट विशेषज्ञ। वह पहले इनसाइट उद्यम, Inc, एक गैर-"
+"कार्यकारी निदेशक थे (NASDAQ: NSIT) सूचना प्रौद्योगिकी के एक फॉर्च्यून 500 वैश्विक प्रदाता "
+"है, और MEMEC के एक गैर कार्यकारी निदेशक, Inc तो दुनिया की विशेषता इलेक्ट्रॉनिक्स और "
+"अर्धचालक की सबसे बड़ी वितरक जो Avnet, इंक, (: एवीटी NYSE) के लिए बेच दिया गया था। "
+"उन बोर्ड की भूमिका निभाने से पहले, श्री रोबिनो गेटवे, इंक के उपाध्यक्ष उनकी पिछली कैरियर "
+"Maytag निगम, पेप्सी कोला, एसी नीलसन पर खर्च किया गया था, और एटी एंड टी के रूप में "
+"कार्य किया। उन्होंने कहा कि एक बीए है ग्रासलैंड विश्वविद्यालय और एक एम एस से आयोवा स्टेट "
+"यूनिवर्सिटी से। वह वर्तमान में दक्षिणी ओरेगन विश्वविद्यालय में बिजनेस एथिक्स सिखाता है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:50
 msgid ""
 "Nigel Stuart Little is the former Group Vice Chairman of Canaccord Capital "
 "Corporation"
-msgstr ""
+msgstr "निगेल स्टुअर्ट लिटिल केनककोर्ड राजधानी निगम के पूर्व ग्रुप के वाइस चेयरमैन है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:50
 msgid ""
@@ -682,12 +764,22 @@ msgid ""
 "with an Honors degree in Natural Sciences from the University of London and "
 "is a Fellow of The Securities Institute and a Freeman of the City of London."
 msgstr ""
+"कनाडा में सबसे बड़ा निवेश बैंकिंग कारोबार में से एक। उन्होंने Canaccord एडम्स के राष्ट्रपति, "
+"Canaccord के यूरोपीय प्रभाग, सात साल के लिए किया गया था। इससे पहले वह नोमुरा "
+"इंटरनेशनल, मॉर्गन स्टेनली इंटरनेशनल, NationsBanc Panmure / WestLB और एचएसबीसी जेम्स "
+"Capel पर अंतरराष्ट्रीय डिवीजनों का नेतृत्व किया। Canaccord से अवकाश ग्रहण करने के बाद से "
+"वह Kleinwort बेन्सन बैंक के एक वरिष्ठ सलाहकार किया गया है, और वर्तमान में पीपीआर संपदा, "
+"एक लंदन आधारित निजी अचल संपत्ति निवेश कंपनी के एक वरिष्ठ सलाहकार है। उन्होंने कहा कि एक "
+"निर्देशक या प्रौद्योगिकी, वित्त, प्राकृतिक संसाधन, और अचल संपत्ति में शामिल सार्वजनिक और "
+"निजी कंपनियों के एक नंबर के अध्यक्ष किया गया है। उन्होंने लंदन विश्वविद्यालय से प्राकृतिक "
+"विज्ञान में एक सम्मान की डिग्री के साथ स्नातक की उपाधि प्राप्त और प्रतिभूति संस्थान और "
+"लंदन के शहर के एक फ्रीमैन के एक साथी है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:55
 msgid ""
 "Kevin Kuykendall is a serial entrepreneur and is currently CEO of Vivione "
 "Biosciences Inc"
-msgstr ""
+msgstr "केविन कुय्केंद्ल एक सीरियल उद्यमी है और वर्तमान में विविवन बायोसाइंसेज इंक के सीईओ है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:55
 msgid ""
@@ -698,10 +790,15 @@ msgid ""
 "Previously he was CEO and Founder of White Energy Company LLC, an ethanol "
 "producer."
 msgstr ""
+"कनाडा के एक सार्वजनिक कंपनी एक जीवाणु परीक्षण प्रौद्योगिकी commercializing। उन्होंने "
+"यह भी सीईओ और Tripad LLC, यात्रा और फोटोग्राफी उपकरणों की एक निर्माता, और "
+"Health2o उत्पाद LLC, एक न्यूट्रा पेय और cosmeceutical स्किनकेयर उत्पादों के कारोबार के "
+"अध्यक्ष के संस्थापक है। इससे पहले वह मुख्य कार्यकारी अधिकारी और व्हाइट ऊर्जा कंपनी एलएलसी, "
+"एक इथेनॉल निर्माता के संस्थापक थे।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:60
 msgid "Dwayne Walker is Senior VP at Rightside Group"
-msgstr ""
+msgstr "ड्वेन वाकर राईटसाइड  समूह में वरिष्ठ उपाध्यक्ष है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:60
 msgid ""
@@ -713,10 +810,16 @@ msgid ""
 "provider of banking, real estate and payment technologies. Previously he was "
 "Director of Sales and Marketing for Microsoft."
 msgstr ""
+"एक नैस्डैक में सूचीबद्ध प्रौद्योगिकी और डोमेन सेवा कंपनी। उन्होंने iClick, Escrow.com, "
+"FreeShop.com, माइक्रो जनरल, हमें कनेक्ट, नेटवर्क वाणिज्य, DomainSponsor और आर्टेमिस "
+"उद्यमों सहित कई प्रौद्योगिकी और इंटरनेट कंपनियों में एक निर्देशक, निवेशक और कार्यकारी किया "
+"गया है। उन्होंने नैस्डैक के राष्ट्रपति सूचीबद्ध फिडेलिटी राष्ट्रीय सूचना समाधान, बैंकिंग, अचल "
+"संपत्ति और भुगतान प्रौद्योगिकियों के एक प्रदाता था। इससे पहले वह माइक्रोसॉफ्ट के लिए "
+"विपणन और बिक्री निदेशक था।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:65
 msgid "Bob Heckman is President of The Allen Group"
-msgstr ""
+msgstr "बॉब हेक्मन एलन समूह के अध्यक्ष है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:65
 msgid ""
@@ -728,10 +831,15 @@ msgid ""
 "corporate sales meetings and industry conferences, and is a specialist at "
 "executive leadership coaching."
 msgstr ""
+"एक प्रबंधन सलाहकार फर्म व्यापार के विकास और विपणन पर ध्यान केंद्रित किया। इससे पहले वह "
+"एक्सेंचर (पूर्व एंडरसन कंसल्टिंग) पर व्यवसाय विकास के निदेशक थे, और वह एमटेक और आईबीएम में "
+"वरिष्ठ प्रबंधन पदों पर कार्य किया। निर्णय निर्माताओं के लिए बेचने के लिए साबित रणनीतियाँ: "
+"वह बोर्डरूम बेचने के लेखक है। उन्होंने कहा कि कंपनी की बिक्री बैठकों और उद्योग सम्मेलनों में एक "
+"अनुभवी अंतरराष्ट्रीय अध्यक्ष है, और कार्यकारी नेतृत्व कोचिंग पर एक विशेषज्ञ है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:70
 msgid "Johann Tse is CEO of Aquarian Capital"
-msgstr ""
+msgstr "जोहान त्से अक्वेरियन कैपिटल के सीईओ है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:70
 msgid ""
@@ -751,10 +859,22 @@ msgid ""
 "of America. He has an MBA from INSEAD, France, and a Bachelor of Science "
 "(Hons.) from the Chinese University of Hong Kong in Electronics Engineering."
 msgstr ""
+"एक सलाहकार फर्म है जो विदेशों में चीन में सामरिक अवसरों में और चीनी के कारोबार के साथ "
+"माहिर हैं, एम से और प्रधानाचार्यों के रूप में अक्षय ऊर्जा संयंत्रों, अग्रीबिज़नेस और प्राकृतिक "
+"संसाधनों के विकास, डलास, बीजिंग, शंघाई, हांगकांग और तेल अवीव में कार्यालयों के साथ करने के "
+"लिए एक सलाहकार। इससे पहले वह अंतर्राष्ट्रीय एम एंड ए यम के लिए के लिए निदेशक थे! ब्रांड, "
+"और ROHM और हास कंपनी के लिए स्थापित किया कॉर्पोरेट उद्यम पूंजी कार्यक्रम। उन्होंने स्वायर "
+"समूह, एक ब्रिटेन / हांगकांग समूह, जहां वह कई उद्योगों में 13 कंपनियों की स्थापना की और "
+"सरकार के संबंधों और चीन के लिए कॉर्पोरेट विकास के लिए जिम्मेदार था के साथ वरिष्ठ प्रबंधन "
+"पदों पर कार्य किया। वह शंघाई में वाणिज्य हांगकांग चैंबर के संस्थापक उपाध्यक्ष था, और चीन में "
+"वाणिज्य हांगकांग चैंबर के एक कार्यकारी निदेशक थे। वह वर्तमान में टेक्सास इजरायल चैंबर ऑफ "
+"कॉमर्स, डलास व्यापार क्लब, और सर्किल दस परिषद के कार्यकारी बोर्ड के सदस्य, अमेरिका के "
+"लड़के स्काउट्स के बोर्ड के सदस्य है। उन्होंने इनसीड, फ्रांस से एमबीए, और इलेक्ट्रॉनिक्स "
+"इंजीनियरिंग में चीनी विश्वविद्यालय हांगकांग से साइंस (ऑनर्स।) के एक स्नातक है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:75
 msgid "Alan Molloy is CEO of GreenCoinX (Isle of Man) Limited"
-msgstr ""
+msgstr "एलन मोली GreenCoinX के सीईओ (आइल ऑफ मैन) लिमिटेड"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:75
 msgid ""
@@ -771,11 +891,20 @@ msgid ""
 "Manager and member of the Institute of Directors in Ireland. He is also a "
 "published author on investment related matters."
 msgstr ""
+"GreenCoinX के यूरोपीय प्रभाग। उन्होंने यह भी आदमी और यूनाइटेड किंगडम ऑफ मैन में वित्तीय "
+"क्षेत्र की कंपनियों के एक नंबर के एक स्वतंत्र निदेशक है और यह भी व्यापार परामर्श सेवाएं प्रदान "
+"करता है। उनका व्यावसायिक पृष्ठभूमि धन प्रबंधन में है। उन्होंने वेस्टबेरी  प्राइवेट क्लाइंट्स "
+"ब्रिटेन के एक निवेश प्रबंधन कंपनी की निवेश समिति के एक सदस्य है और पहले हिलबेरी ट्रस्ट कंपनी "
+"लिमिटेड के अध्यक्ष एक प्रत्ययी सेवा कंपनी की गई है। वह पहले डंकन लॉरी, एक ब्रिटिश निजी "
+"बैंक के अंतरराष्ट्रीय सेवाओं के प्रबंध निदेशक थे। उन्होंने कहा कि आयरलैंड में बैंकिंग संस्थान, भारतीय "
+"प्रतिभूति के लिए ब्रिटेन के चार्टर्ड संस्थान के एक चार्टर्ड फैलो और निवेश, एक चार्टर्ड वेल्थ "
+"मैनेजर और आयरलैंड में निदेशक के संस्थान के सदस्य के एक साथी है। उन्होंने यह भी निवेश से संबंधित "
+"मामलों पर एक प्रकाशित लेखक हैं।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:80
 msgid ""
 "Vinnie Grosso is a telecommunications and entertainment industry veteran"
-msgstr ""
+msgstr "विन्नी ग्रोसो एक दूरसंचार और मनोरंजन उद्योग के अनुभवी है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:80
 msgid ""
@@ -793,10 +922,21 @@ msgid ""
 "entertainment. He is currently a consultant to Fortune 500 Companies and "
 "start-ups alike."
 msgstr ""
+"एनबीसी, एटी एंड टी, PRIMEDIA, के साथ और नेटवर्क में स्टार्ट-अप के सीईओ के रूप में वरिष्ठ "
+"पदों पर कार्य किया हो रही है। उन्होंने कहा कि वीडियो स्ट्रीमिंग, इंटरएक्टिव टीवी के लिए "
+"\"विघटनकारी\" प्रौद्योगिकी और व्यापार मॉडल के साथ एक स्थापित उद्यमी है, वीडियो-ऑन-"
+"डिमांड, सॉफ्टवेयर पर मांग और अधिक से अधिक दो दशकों के लिए मोबाइल वाणिज्य। राष्ट्रपति के "
+"रूप में \"एटी एंड टी Downtown डिजिटल\" वह एटी एंड टी के लिए पहली इंटरेक्टिव टीवी "
+"ट्रायल के नेतृत्व में, इंटरनेट पर टीवी सहयोगियों के साथ एनबीसी के प्रयासों का नेतृत्व किया, "
+"Primedia के लिए प्रौद्योगिकी प्रयास उपग्रह द्वारा शैक्षिक सॉफ्टवेयर वितरित करने के लिए "
+"नेतृत्व और सबसे बड़ा संयुक्त राज्य अमेरिका और कनाडा के वितरक बनाया में नेटवर्क पर केबल उद्योग "
+"के लिए ब्रॉडबैंड का खेल। उन्होंने यह भी डिजिटल मनोरंजन के लिए जल्दी व्यापार मॉडल काम कर "
+"टेलीविजन कार्यक्रम अधिकारियों के राष्ट्रीय संघ के एक बोर्ड के सदस्य के रूप में मान्यता प्राप्त "
+"है। वह वर्तमान में फॉर्च्यून 500 कंपनियों और शुरू अप के लिए एक जैसे एक सलाहकार है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:85
 msgid "Trevor Koverko is the CEO of Polymath Computer Solutions Inc"
-msgstr ""
+msgstr "ट्रेवर कोवेरको पोलिमेथ कंप्यूटर सोलुस्न्स  इंक के सीईओ है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:85
 msgid ""
@@ -808,10 +948,16 @@ msgid ""
 "professional hockey in the Ontario Hockey League. He is a graduate from the "
 "University of Western Ontario-Richard Ivey School of Business."
 msgstr ""
+"एक आभासी वास्तविकता अचल संपत्ति विपणन व्यापार। इससे पहले वह eProf शिक्षा इंक के सीईओ "
+"एक प्रौद्योगिकी स्टार्टअप एक आभासी कक्षा में शिक्षकों और छात्रों को जोड़ने था। उन्होंने कहा "
+"कि एक विविध स्वर्गदूत निवेशक पोर्टफोलियो के साथ क्रिप्टो मुद्रा का एक प्रारंभिक एदोप्टर "
+"है। वह न्यूयॉर्क रेंजरों जहां वह 2005 में एक मसौदा लेने गया था, और पहले ओंटारियो हॉकी लीग "
+"में पेशेवर हॉकी खेला से संन्यास ले लिया है। उन्होंने वेस्टर्न ओंटारियो-रिचर्ड आइवी बिजनेस स्कूल के "
+"विश्वविद्यालय से स्नातक हैं।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:90
 msgid "Jim Taylor is Senior Solution Architect for Liaison Technologies Inc"
-msgstr ""
+msgstr "जिम टेलर सम्पर्क टेक्नोलॉजीज इंक के लिए वरिष्ठ वास्तुकार समाधान है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:90
 msgid ""
@@ -821,10 +967,14 @@ msgid ""
 "purchased by Click Commerce. He previously was head of systems programming "
 "teams at Pier 1 Imports and Levi Strauss."
 msgstr ""
+"एक डेटा एकीकरण और डाटा सुरक्षा कंपनी। उन्होंने bTrade इंक के मुख्य प्रौद्योगिकी अधिकारी "
+"एक उद्यम वित्त पोषित सॉफ्टवेयर इंटरनेट आधारित व्यापार लेनदेन, जो वाणिज्य क्लिक करें द्वारा "
+"खरीदा गया था के लिए एक सुरक्षित मंच प्रदान करने पर ध्यान केंद्रित कंपनी थी। वह पहले "
+"सिस्टम प्रोग्रामिंग पियर 1 आयात और लेवी स्ट्रास में टीमों के प्रमुख थे।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:95
 msgid "Joe Devich is a Partner at Newport Board Group"
-msgstr ""
+msgstr "जो देवीच न्यूपोर्ट बोर्ड समूह में एक भागीदार है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:95
 msgid ""
@@ -835,10 +985,15 @@ msgid ""
 "Networks. He has held senior management positions with Covad Communications, "
 "Qwest Communications, Ameritech, and EDS."
 msgstr ""
+"एक राष्ट्रीय व्यावसायिक प्रबंधन सेवाओं फर्म। वह पहले TipApplause, मोबाइल फोन अनुप्रयोगों "
+"के एक डेवलपर के संस्थापक थे, और Knowberry के राष्ट्रपति, एक वेब आधारित सार्वजनिक सुरक्षा "
+"पर ध्यान केंद्रित उपयोगिता। उन्होंने यह भी तीन अन्य प्रौद्योगिकी कंपनियों के राष्ट्रपति "
+"BizTube, Mosaix, और Asta नेटवर्क था। उन्होंने Covad संचार, Qwest संचार, Ameritech, "
+"और ईडीएस के साथ वरिष्ठ प्रबंधन पदों पर कार्य किया।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:100
 msgid "John G. Booth"
-msgstr ""
+msgstr "जोंन जी. बूथ "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:100
 msgid ""
@@ -860,89 +1015,106 @@ msgid ""
 "International Finance, Tax and Environmental Law from University of London, "
 "JD from University of Detroit, and LLB in Law from University of Windsor. "
 msgstr ""
+"सह संस्थापक और वर्तमान में एक निदेशक और मध्य होल्डिंग्स लिमिटेड की सबसे बड़ी शेयरधारक है: "
+"देर से 2015 के मध्य में अध्यक्ष और मुख्य कार्यकारी अधिकारी पद से हट कर (TSXV एमपीटी) "
+"दुनिया का पहला, जिस पर खरीदार और विक्रेता के मैचों विदेशी मुद्रा मिलान मंच के लिए "
+"सहकर्मी सहकर्मी है अपनी अमेरिका के माध्यम से प्रासंगिक मुद्रा अंतरबैंक पार दर के मध्य "
+"बहुदलीय, बहु मुद्रा कम्प्यूटरीकृत व्यापार विधि मिलान का पेटेंट कराया। जॉन राजस्व के माध्यम "
+"से और दोनों टोरंटो और फ्रैंकफर्ट बाजारों में अपनी लिस्टिंग के साथ समापन वित्तपोषण के विभिन्न "
+"दौर के माध्यम से स्थापना के समय से कंपनी का नेतृत्व किया। (: लैम टोरंटो), माया सोने और "
+"चांदी के एक निदेशक (TSXV: mya) और Tirex संसाधन (TSXV: Txx) जहां वह कई वर्षों के लिए "
+"पुनर्निर्माण और विकास के लिए यूरोपीय बैंक के लिए नामित निदेशक था वह भी Laramide संसाधन "
+"के अध्यक्ष । उन्होंने कहा कि एक निवेश बैंकर, रणनीति सलाहकार, वकील और फंड मैनेजर के रूप में "
+"अंतरराष्ट्रीय वित्त में वर्ष का 25 से अधिक का अनुभव है। वह सह की स्थापना तीन वित्तीय सेवा "
+"कंपनियों, और ओंटारियो, न्यूयॉर्क और डीसी की सलाखों के अच्छे खड़े में एक सदस्य है। उन्होंने कहा "
+"कि उनकी एलएलएम विंडसर विश्वविद्यालय से कानून में लंदन विश्वविद्यालय, डेट्रायट के "
+"विश्वविद्यालय से जेडी, और एलएलबी से अंतरराष्ट्रीय वित्त, टैक्स और पर्यावरण कानून में प्राप्त "
+"की।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\addresses.html.php:8
 msgid "Identification Search"
-msgstr ""
+msgstr "पहचान खोजें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\addresses.html.php:8
 msgid "Registered users"
-msgstr ""
+msgstr "पंजीकृत उपभोक्ता"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\addresses.html.php:15
 msgid "Email"
-msgstr ""
+msgstr "इमेल "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\addresses.html.php:16
 msgid "Phone"
-msgstr ""
+msgstr "फोन "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\addresses.html.php:17
 msgid "Identification"
-msgstr ""
+msgstr "पहचान"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\addresses.html.php:18
 msgid "Extra Info"
-msgstr ""
+msgstr "अतिरिक्त जानकारी"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\addresses.html.php:23
 msgid "City"
-msgstr ""
+msgstr "शहर"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\addresses.html.php:23
 msgid "Country"
-msgstr ""
+msgstr "देश "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\addresses.html.php:23
 msgid "Registered"
-msgstr ""
+msgstr "दर्ज कराई"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\addresses.html.php:29
 msgid ""
 "Enter ##CODE## for the above information from your identification.log to "
 "view GreenCoinX addresses"
 msgstr ""
+"GreenCoinX पतों देखने के लिए अपने identification.log से उपरोक्त जानकारी के लिए "
+"##CODE## दर्ज"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\addresses.html.php:49
 msgid "Code not correct"
-msgstr ""
+msgstr "कोड सही नहीं"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\contact.html.php:2
 msgid "Contact us"
-msgstr ""
+msgstr "हमसे संपर्क करें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\contact.html.php:6
 msgid "Address: 208 Queens Quay West, Suite 2506, Toronto, Ontario M5J 2Y5"
-msgstr ""
+msgstr "पता: 208 Queens Quay West, Suite 2506, Toronto, Ontario M5J 2Y5"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\download.html.php:32
 msgid "Open a new Online wallet"
-msgstr ""
+msgstr "एक नया ऑनलाइन बटुए खुला"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\download.html.php:37
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\download.html.php:44
 msgid "Open a new mobile wallet on your Android mobile device"
-msgstr ""
+msgstr "अपने Android मोबाइल डिवाइस पर एक नया मोबाइल बटुआ खोलें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\download.html.php:52
 msgid "Technical Wallet Download GreenCoinX v0.9.3"
-msgstr ""
+msgstr "तकनीकी वॉलेट डाउनलोड GreenCoinX v0.9.3"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\download.html.php:55
 msgid "Your Operating System"
-msgstr ""
+msgstr "आपका ऑपरेटिंग सिस्टम"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\download.html.php:56
 msgid "Download"
-msgstr ""
+msgstr "डाउनलोड"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\download.html.php:59
 msgid "CheckSum file (sha1)"
-msgstr ""
+msgstr "CheckSum file (sha1)"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\download.html.php:64
 msgid "Windows 64 and 32 bit"
-msgstr ""
+msgstr "Windows 64 and 32 bit"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\download.html.php:69
 msgid "Your Windows OS can be 64 or 32 bit"
@@ -1000,7 +1172,7 @@ msgstr ""
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\FAQ.html.php:28
 msgid "How many XGC exist?"
-msgstr ""
+msgstr "XGC कितने मौजूद हैं?"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\FAQ.html.php:30
 msgid ""
@@ -1008,24 +1180,28 @@ msgid ""
 "GreenCoinX Inc owns 70 million, the non-profit Digital Foundation owns 42 "
 "million."
 msgstr ""
+"मई 2016 को के रूप में, लगभग 180 मिलियन XGC जिनमें से GreenCoinX इंक 70 करोड़ का मालिक "
+"खनन किया गया है, गैर लाभ डिजिटल फाउंडेशन 42 करोड़ का मालिक है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\FAQ.html.php:34
 msgid "How can I mine XGC?"
-msgstr ""
+msgstr "मैं XGC कैसे माइन कर सकता हूँ?"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\FAQ.html.php:36
 msgid "Mining is performed by downloading the GreenCoinX software at"
-msgstr ""
+msgstr "खनन पर GreenCoinX सॉफ्टवेयर डाउनलोड करने के द्वारा किया जाता है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\FAQ.html.php:36
 msgid ""
 "and then using the host computer to solve an algorithm which when solved is "
 "rewarded with XGC."
 msgstr ""
+"और फिर कंप्यूटर का उपयोग कर एक एल्गोरिथ्म जो जब सुलझ XGC साथ पुरस्कृत किया है हल करने के "
+"लिए।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\FAQ.html.php:40
 msgid "Why is XGC mining done?"
-msgstr ""
+msgstr "क्यों XGC खनन किया जाता है?"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\FAQ.html.php:42
 msgid ""
@@ -1039,10 +1215,18 @@ msgid ""
 "equations increases, it is anticipated that specially designed computers are "
 "likely to be required to complete XGC mining transactions."
 msgstr ""
+"खनन XGC blockchain कामकाज और प्रसंस्करण XGC लेनदेन रखने के लिए किया जाता है। जब XGC "
+"खनन सॉफ्टवेयर एक सौदे को स्वीकार करता है तो यह प्रसारण और XGC blockchain पर दर्ज की "
+"गई है। जब एक और खान में लेनदेन को स्वीकार करता है, कि खान में काम करनेवाला एक स्वैच्छिक "
+"लेनदेन शुल्क है जो आमतौर पर 0.0001XGC से कम नहीं है के साथ पुरस्कृत किया है। वर्तमान में, "
+"मानक कंप्यूटर खान XGC करने के लिए इस्तेमाल किया जा सकता है, लेकिन खनन के लिए इनाम के "
+"समय के साथ और इतने के रूप में अधिक XGC खनिक सक्रिय हो जाते हैं और एल्गोरिथम समीकरणों बढ़ "
+"जाती है के हल के लिए कठिनाई, यह अनुमान है कि विशेष रूप से डिजाइन कंप्यूटर के लिए आवश्यक "
+"हो जाने की संभावना है कम कर देता है पूरा XGC खनन लेनदेन।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\FAQ.html.php:46
 msgid "Why is the XGC identification feature important?"
-msgstr ""
+msgstr "XGC पहचान की सुविधा के लिए महत्वपूर्ण क्यों है?"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\FAQ.html.php:48
 msgid ""
@@ -1218,46 +1402,49 @@ msgid ""
 "ability to easily track financial crime through the XGC network will assist "
 "your law enforcement like nothing before."
 msgstr ""
+"पहचान प्राप्तकर्ताओं ईमेल, फोन, या आईपी पते के माध्यम से पता लगाने के लिए आसान कर रहे हैं। "
+"आसानी से XGC नेटवर्क के माध्यम से वित्तीय अपराध को ट्रैक करने से पहले कुछ भी नहीं की तरह "
+"अपने कानून प्रवर्तन की सहायता करनेकी श्रमता।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\government.html.php:37
 msgid "We will call you back"
-msgstr ""
+msgstr "हम तुम्हें वापस कोल करेंगे "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\government.html.php:53
 msgid "Department"
-msgstr ""
+msgstr "विभाग"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\government.html.php:57
 msgid "Sub-Department (if relevant)"
-msgstr ""
+msgstr "उप विभाग (अगर प्रासंगिक)"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\government.html.php:61
 msgid "Address"
-msgstr ""
+msgstr "पता "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\government.html.php:66
 msgid "Name"
-msgstr ""
+msgstr "नाम "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\government.html.php:71
 msgid "Your position"
-msgstr ""
+msgstr "आपका पद"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\government.html.php:76
 msgid "Email address"
-msgstr ""
+msgstr "इमेल पता "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\government.html.php:80
 msgid "Phone number"
-msgstr ""
+msgstr "फोन नंबर "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\government.html.php:84
 msgid "Appropriate contact day/time"
-msgstr ""
+msgstr "उचित संपर्क दिन / समय"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\government.html.php:89
 msgid "Your Superiors Department (if relevant)"
-msgstr ""
+msgstr "अपने वरिष्ठ अधिकारियों विभाग (प्रासंगिक का)"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\government.html.php:93
 msgid "Superior Name"
@@ -1446,7 +1633,7 @@ msgstr ""
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\how.html.php:324
 msgid "of a person through email / phone search."
-msgstr ""
+msgstr "ईमेल / फोन खोज के माध्यम से एक व्यक्ति की।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\howosx.html.php:21
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\howosx.html.php:38
@@ -1455,100 +1642,103 @@ msgid ""
 "Click on GreenCoin-QT -> Preferences -> Identification tab and verify your "
 "email and phone."
 msgstr ""
+"पहली बार सिंक। आप GreenCoinX का उपयोग करने के लिए सेटअप पहचान करनी होगी। Click "
+"on GreenCoin-QT -> Preferences -> Identification tab और अपने ईमेल और फोन को "
+"सत्यापित GreenCoin-क्यूटी पर क्लिक करें।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\howosx.html.php:58
 msgid "Identification tab"
-msgstr ""
+msgstr "पहचान टैब"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\howosx.html.php:249
 msgid ""
 "Click on Help -> Debug window. You will be able to open Identification log "
 "file."
-msgstr ""
+msgstr "क्लिक करो Help -> Debug. आप पहचान लॉग फ़ाइल को खोलने के लिए सक्षम हो जाएगा।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\identification.html.php:18
 msgid "Your email address"
-msgstr ""
+msgstr "आपका ईमेल पता"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\identification.html.php:38
 msgid "Include +[Country Code]"
-msgstr ""
+msgstr "शामिल करो + [देश कोड]"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\identification.html.php:58
 msgid "Your GreenCoinX address"
-msgstr ""
+msgstr "आपका GreenCoinX पता"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\identification.html.php:81
 msgid "GreenCoinX"
-msgstr ""
+msgstr "GreenCoinX"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\index.html.php:32
 msgid "Open a new Online"
-msgstr ""
+msgstr "एक नया ऑनलाइन खोलें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\index.html.php:60
 msgid "All CheckSum(sha1)"
-msgstr ""
+msgstr "ओल CheckSum(sha1)"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\index.html.php:69
 msgid "Your Windows OS can be 64 or 32 bit."
-msgstr ""
+msgstr "अपने विंडोज़ ओएस 64 या 32 बिट हो सकता है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.html.php:2
 msgid "We have received your inquiry. We will get back to you soon."
-msgstr ""
+msgstr "हम अपनी जांच प्राप्त हुआ है। हम तुमसे जल्द ही संपर्क करेंगे।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:14
 msgid "an Identifiable Digital Currency"
-msgstr ""
+msgstr "एक पहचान डिजिटल मुद्रा"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:16
 msgid "Hi"
-msgstr ""
+msgstr "नमस्ते"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:17
 msgid "You have contacted us through"
-msgstr ""
+msgstr "आप हमें इस माध्यम से संपर्क किया है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:17
 msgid "for integrating GreenCoinX."
-msgstr ""
+msgstr "GreenCoinX एकीकृत करने के लिए।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:39
 msgid "Your information"
-msgstr ""
+msgstr "आपकी जानकारी"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:50
 msgid "Sub Department"
-msgstr ""
+msgstr "उप विभाग"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:78
 msgid "Your Superior Department"
-msgstr ""
+msgstr "आपके ऊपरी विभाग"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:90
 msgid "Superior email address"
-msgstr ""
+msgstr "सुपीरियर ईमेल पता"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:94
 msgid "Superior phone"
-msgstr ""
+msgstr "सुपीरियर फोन"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:98
 msgid "Superior contact day/time"
-msgstr ""
+msgstr "सुपीरियर संपर्क दिन / समय"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:110
 msgid "Date / Time"
-msgstr ""
+msgstr "दिनांक / समय"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:116
 msgid "Sincerely"
-msgstr ""
+msgstr "साभार"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:117
 msgid "GreenCoinX Team"
-msgstr ""
+msgstr "GreenCoinX टीम"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\inquiry.mail.php:119
 msgid ""
@@ -1562,26 +1752,33 @@ msgid ""
 "intended recipient is unauthorized and may be illegal. Thank you for your "
 "assistance and co-operation."
 msgstr ""
+"इस ईमेल संचार गोपनीय और कानूनी तौर पर विशेषाधिकार प्राप्त है और जानकारी में विस्तृत "
+"संयुक्त राज्य अमेरिका और कनाडा के प्रतिभूति कानूनों के अनुसार मूल्य संवेदनशील जानकारी समझा "
+"जा सकता है। आप इच्छित प्राप्तकर्ता नहीं कर रहे हैं, 647.931.9768 पर या "
+"admin@greencoinx.com के लिए वापसी ईमेल द्वारा इस सूचित करें और इस संचार और तुरंत अपने "
+"कंप्यूटर से जुड़े सिवा किसी भी संलग्नक और प्रतियां नष्ट करें। किसी भी प्रचार-प्रसार या इच्छित "
+"प्राप्तकर्ता के अलावा किसी अन्य व्यक्ति द्वारा इस जानकारी के उपयोग अनधिकृत है और अवैध रूप "
+"से हो सकता है। आपकी सहायता और सहयोग के लिए धन्यवाद।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\install.html.php:8
 msgid "Install"
-msgstr ""
+msgstr "इंस्टॉल करें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\install.html.php:12
 msgid "Install / Setup"
-msgstr ""
+msgstr "इंस्टॉल करें / सेटअप स्थापित"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\install.html.php:17
 msgid "Setup GreenCoinX-Qt client on your windows OS. Click 'Next'."
-msgstr ""
+msgstr "अपने विंडोज ओएस पर सेटअप GreenCoinX क्यूटी ग्राहक। अगला पर क्लिक करें।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\install.html.php:29
 msgid "Setup - License Agreement"
-msgstr ""
+msgstr "सेटअप - लाइसेंस समझौते"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\install.html.php:34
 msgid "Click 'I Agree' to install."
-msgstr ""
+msgstr "स्थापित करने के लिए क्लिक करें 'मैं सहमत हूँ ।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\install.html.php:50
 msgid "Setup - Choose Components"
@@ -1653,24 +1850,26 @@ msgid ""
 "First time sync with the GreenCoinX network. It may take about 3 to 10 "
 "minutes based on your network speed."
 msgstr ""
+"GreenCoinX नेटवर्क के साथ पहली बार सिंक। यह अपने नेटवर्क की गति के आधार पर के बारे में 3 "
+"से 10 मिनट लग सकते हैं।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\installosx.html.php:17
 msgid ""
 "To start GreenCoinX client in Mac OSX click on GreenCoin-QT after you "
 "download."
-msgstr ""
+msgstr "GreenCoin-QT को Mac OSX क्लाइंट शुरू करने के लिए GreenCoinX आप डाउनलोड करे।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\installosx.html.php:29
 msgid "GreenCoin-QT warning!"
-msgstr ""
+msgstr "GreenCoin-QT चेतावनी!"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\installosx.html.php:34
 msgid "Click 'Open' to run GreenCoin-QT"
-msgstr ""
+msgstr "GreenCoin-QT को चलाने के लिए 'ओपन' पर क्लिक करें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\installosx.html.php:50
 msgid "Ready to sync"
-msgstr ""
+msgstr "सिंक करने के लिए तैयार"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\installosx.html.php:55
 msgid ""
@@ -1678,14 +1877,17 @@ msgid ""
 "Mac OSX. You can create one on your drive, for automatic sync. The config "
 "file is stored in "
 msgstr ""
+"GreenCoin-QT  सिंक के लिए तैयार है। GreenCoin-QT Mac OSX में एक config फाइल नहीं है। "
+"आप स्वत: सिंक के लिए अपने ड्राइव पर एक, बना सकते हैं। config फाइल में संग्रहित किया जाता "
+"है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\installosx.html.php:56
 msgid "You can create a file and add one line to it: "
-msgstr ""
+msgstr "आप एक फाइल बना सकते हैं और इसे करने के लिए एक लाइन जोड़ सकते हैं:"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\installosx.html.php:72
 msgid "Addnode manually"
-msgstr ""
+msgstr "Addnode मैन्युअल रूप से जोड़ें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\installosx.html.php:77
 msgid ""
@@ -1693,129 +1895,135 @@ msgid ""
 "write \"addnode=69.90.184.207 onetry\" the client will start syncing with "
 "the blockchain."
 msgstr ""
+"\"Help\"->\"Debug window\"->\"Console\", addnode = 69.90.184.207 onetry\" "
+"client blockchain के साथ सिंक्रनाइज़ शुरू कर देंगे।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\installosx.html.php:93
 msgid "Syncing"
-msgstr ""
+msgstr "सिंक्रनाइज़ किए जा रहे"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\installosx.html.php:98
 msgid "GreenCoinX client is syncing with the blockchain."
-msgstr ""
+msgstr "GreenCoinX, blockchain के साथ सिंक्रनाइज़ है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\largetx.html.php:116
 msgid ""
 "Click on Get Code. You should receive an email with the validation code. "
 "Please check your INBOX and SPAM folder too."
 msgstr ""
+"कोड प्राप्त करें पर क्लिक करें। आप सत्यापन कोड के साथ एक ईमेल प्राप्त करना चाहिए। भी अपने "
+"इनबॉक्स और स्पैम फ़ोल्डर की जाँच करें।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\largetx.html.php:180
 msgid ""
 "Please enter correct phone number with ISD code (only numbers) "
 "[998887776666], 99 is ISD code. Click 'Get code' to receive SMS."
 msgstr ""
+"आईएसडी कोड (केवल संख्या) [998887776666], 99 आईएसडी कोड के साथ सही फोन नंबर दर्ज "
+"करें। SMS प्राप्त करने के लिए 'कोड प्राप्त करें' पर क्लिक करें।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:4
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:8
 msgid "Mine / Generate GreenCoinX"
-msgstr ""
+msgstr "खनन / GreenCoinX उत्पन्न"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:17
 msgid "Select "
-msgstr ""
+msgstr "चुनिए "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:18
 msgid "Go to menu"
-msgstr ""
+msgstr "मेनू पर जाएँ"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:26
 msgid "Console"
-msgstr ""
+msgstr "कंसोल"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:27
 msgid "Select Console"
-msgstr ""
+msgstr "कंसोल चुनिये"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:36
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:45
 msgid "Command"
-msgstr ""
+msgstr "आदेश"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:36
 msgid "This will generate GreenCoinX coins"
-msgstr ""
+msgstr "इससे  GreenCoinX सिक्के उत्पन्न होगा"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:45
 msgid "check if mining is in progress"
-msgstr ""
+msgstr "जांच खनन कार्य प्रगति पर है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:53
 msgid "Checking"
-msgstr ""
+msgstr "जाँच हो रही है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:54
 msgid "Result of"
-msgstr ""
+msgstr "के परिणाम"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:54
 msgid "shows"
-msgstr ""
+msgstr "दिखाता है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:64
 msgid "Previous"
-msgstr ""
+msgstr "पिछला"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:68
 msgid "Next"
-msgstr ""
+msgstr "अगला"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\newaddress.html.php:8
 msgid "New Address"
-msgstr ""
+msgstr "नया पता"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\newaddress.html.php:26
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\newaddress.html.php:36
 msgid "Click"
-msgstr ""
+msgstr "क्लिक करें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\newaddress.html.php:35
 msgid "Enter label for receiving address"
-msgstr ""
+msgstr "पता प्राप्त करने के लिए लेबल दर्ज"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\newaddress.html.php:44
 msgid "New address created"
-msgstr ""
+msgstr "नया पता बनाया"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\newaddress.html.php:45
 msgid "Receive funds on the new address"
-msgstr ""
+msgstr "नए पते पर धन प्राप्त"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\paytaxes.html.php:17
 msgid "Select to send"
-msgstr ""
+msgstr "भेजने के लिए चुनिये"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\paytaxes.html.php:18
 msgid "Send to address, email or phone"
-msgstr ""
+msgstr "पता, ईमेल या फोन पर भेजें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\paytaxes.html.php:26
 msgid "Taxes"
-msgstr ""
+msgstr "करों"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\paytaxes.html.php:27
 msgid "If the government has rules for tax, it is deducted at source"
-msgstr ""
+msgstr "सरकार कर नियमों के लिए है, यह स्रोत पर कटौती की जाती है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\paytaxes.html.php:35
 msgid "Tax payment"
-msgstr ""
+msgstr "कर भुगतान"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\paytaxes.html.php:36
 msgid "Tax goes directly to the government email"
-msgstr ""
+msgstr "टैक्स सरकार ईमेल करने के लिए सीधे जाता है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:7
 msgid "Privacy Policy"
-msgstr ""
+msgstr "गोपनीयता नीति"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:10
 msgid ""
@@ -1832,10 +2040,21 @@ msgid ""
 "this page frequently to remain fully informed of our latest practices and "
 "policies."
 msgstr ""
+"GreenCoinX इंक ( \"कंपनी\", \"हम\" या \"हमें\") आपकी गोपनीयता का सम्मान करता है और "
+"इसे करने के लिए सौंपा गया कोई भी निजी जानकारी की रक्षा के लिए भी चलाती है। आम तौर "
+"पर, आप हमें अपने बारे में कोई भी जानकारी देने के बिना हमारी साइट पर जाएँ कर सकते हैं "
+"(लेकिन हम आप के बारे में जानकारी इकट्ठा करने के लिए कुकीज़ का उपयोग कर सकते हैं, भले ही आप "
+"एक उपयोगकर्ता के रूप में पंजीकृत नहीं है - कृपया पर नीचे कुकीज़ खंड देखें)। कई बार जब हम क्रम "
+"में कुछ सेवाओं के प्रदान करने के लिए एक पंजीकरण प्रक्रिया के माध्यम से आप से जानकारी प्राप्त "
+"करने के लिए आवश्यकता हो सकती हैं। नीचे हम वर्णन हम कैसे इकट्ठा और डेटा का उपयोग करें। आप "
+"प्रथाओं या नीतियों हमारी गोपनीयता नीति में वर्णित से किसी के साथ सहज नहीं हैं, हम चाहते "
+"हैं कि आप हमारी साइट का उपयोग बंद। हमारी गोपनीयता नीति समय समय पर बदल सकता है, "
+"तो अक्सर इस पेज को फिर से आना कृपया पूरी तरह से हमारे नवीनतम प्रथाओं और नीतियों के बारे "
+"में सूचित रहने के लिए।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:12
 msgid "How we use your personal information"
-msgstr ""
+msgstr "कैसे हम आपकी व्यक्तिगत जानकारी का उपयोग करेंगे "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:14
 msgid ""
@@ -1848,14 +2067,21 @@ msgid ""
 "opinions about our services or to introduce new services; and/or (iv) for "
 "quality control, regulatory, and monitoring purposes."
 msgstr ""
+"कंपनी एकत्र, रिकॉर्ड, बरकरार रखती है और केवल वैध व्यावसायिक प्रयोजनों के लिए आपकी "
+"व्यक्तिगत जानकारी का उपयोग करता है; (1), उपलब्ध कराने के लिए प्रशासन, समर्थन, सुधार "
+"और हमारी सेवाओं पर प्रतिक्रिया प्राप्त है और आपको जानकारी है कि आप का अनुरोध किया है "
+"भेजने के लिए सहित; (2) लागू कानूनों का पालन करने के लिए, उपयोग या अन्य समझौतों की शर्तों "
+"को लागू; और अधिकार या कंपनी, हमारे उपयोगकर्ताओं और दूसरों की संपत्ति की रक्षा करने के "
+"लिए; (3) हमारी सेवाओं के बारे में अपनी राय मांगना या नई सेवाएं शुरू करने के लिए; और / या "
+"(4) गुणवत्ता नियंत्रण, नियामक और निगरानी उद्देश्यों के लिए।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:16
 msgid "When we may disclose your personal information"
-msgstr ""
+msgstr "हम आपकी व्यक्तिगत जानकारी का खुलासा हो सकता है जब"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:18
 msgid "To Third Parties"
-msgstr ""
+msgstr "तीसरे पक्ष के लिए"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:19
 msgid ""
@@ -1865,10 +2091,14 @@ msgid ""
 "disclose information when required to do so by law or in response to a "
 "request from a law enforcement agency or authority."
 msgstr ""
+"हम बेचते हैं या तीसरे पक्ष को अपनी व्यक्तिगत जानकारी किराए पर नहीं होगा। हम \"ठेठ\" उन "
+"है, जो कुल डेटा लागू तीसरे पक्ष को खुलासा हो सकता है की प्रोफाइल बनाने के लिए अग्रीगेट "
+"निश्चित उपयोगकर्ता डेटा नहीं है। हम जानकारी का खुलासा जब कानून द्वारा या एक कानून "
+"प्रवर्तन एजेंसी या प्राधिकारी से एक अनुरोध के जवाब में ऐसा करने की आवश्यकता होगी।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:21
 msgid "To Others in Your Own Organization"
-msgstr ""
+msgstr "अपने संगठन में दूसरों के लिए"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:23
 msgid ""
@@ -1879,14 +2109,20 @@ msgid ""
 "contact person in your organization for a service, we may pass your contact "
 "details to those in your organization for this purpose."
 msgstr ""
+"आप अपने नियोक्ता के माध्यम से हमारी सेवाओं के किसी भी उपयोग करते हैं, तो हम इस तरह की "
+"सेवाओं जहां अपने नियोक्ता के रूप में अपने विवेकाधिकार में हमारे द्वारा निर्धारित किया जाता "
+"है, इस तरह की जानकारी प्राप्त करने के लिए एक वैध कारण है के आपके उपयोग के बारे में अपने "
+"नियोक्ता के लिए कुछ जानकारी पारित हो सकता है। इसी तरह, अगर आप एक सेवा के लिए अपने "
+"संगठन में सूत्री संपर्क व्यक्ति हैं, हम आपके संपर्क विवरण इस उद्देश्य के लिए अपने संगठन में उन "
+"लोगों के लिए पारित कर सकते हैं।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:25
 msgid "How we collect your personal information"
-msgstr ""
+msgstr "कैसे हम आपकी व्यक्तिगत जानकारी एकत्र करते है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:27
 msgid "Information Collected Through Our Services"
-msgstr ""
+msgstr "सूचना हमारी सेवाएं माध्यम से एकत्र"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:29
 msgid ""
@@ -1898,10 +2134,16 @@ msgid ""
 "and similar usage or system data. We do not gather any personally "
 "identifiable information about you."
 msgstr ""
+"हम इस तरह के पहुँचा डेटा के सामान्य प्रकार, बार और सेवाओं और यातायात डेटा का उपयोग की "
+"मात्रा के रूप में हमारी सेवाओं के आपके उपयोग के बारे में जानकारी इकट्ठा। ट्रैफिक डेटा लॉग, "
+"नेटवर्क, डेटा और प्रणालियों का ब्यौरा भेजने वाले का विवरण और या उपयोग पर हमारी सेवाओं, "
+"बार और प्रवेश के स्थान पर भेजा संदेश, सत्र, clickstream और इसी तरह के उपयोग या प्रणाली "
+"डेटा की अवधि के प्राप्तकर्ताओं पहुँचा भी शामिल है। हम आप के बारे में कोई व्यक्तिगत पहचान "
+"वाली जानकारी इकट्ठा नहीं है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:31
 msgid "Information Collected Through Cookies"
-msgstr ""
+msgstr "जानकारी कुकीज़ के माध्यम से एकत्र करते है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:33
 msgid ""
@@ -1920,10 +2162,22 @@ msgid ""
 "might materially distort the quality of service and data you receive. "
 "Therefore, you do so at your own risk."
 msgstr ""
+"आदेश निजीकृत और हमारी साइट पर अपने अनुभव को बढ़ाने के लिए, हम भी माध्यम से जानकारी "
+"एकत्र कर सकते हैं \"कुकीज़।\" आपके कंप्यूटर की हार्ड ड्राइव पर अपने ब्राउज़र के लिए हमारी "
+"साइट के द्वारा भेजा और फिर अपने ब्राउज़र द्वारा संग्रहित पाठ के छोटे तार कर रहे हैं। कुकीज़ "
+"कैसे हमारी सेवाओं का उपयोग किया जाता है के बारे में जानकारी इकट्ठा करने के लिए सक्षम करें। "
+"जब तक आप हमारे साथ रजिस्टर्ड हैं, कुकी केवल आपके कंप्यूटर के प्रकार के बारे में सामान्य उपयोग "
+"के पैटर्न और तकनीकी जानकारी को ट्रैक करेगा और आप व्यक्तिगत रूप से पहचान करने के लिए "
+"इस्तेमाल नहीं किया जाएगा। पंजीकरण के बाद, कुकीज एक समग्र आधार पर जानकारी इकट्ठा करने "
+"के लिए, कहानियों और हमारे उत्पादों के उपयोग के पाठकों को ट्रैक हमारे साइटों पर यातायात "
+"पैटर्न का विश्लेषण करने के लिए और उपयोग की अनाम रिपोर्टिंग प्रदान करने के लिए इस्तेमाल "
+"किया जाएगा। आप अपने कंप्यूटर में ब्राउज़र का समायोजन करके कुकीज़ को प्राप्त करने की क्षमता "
+"बंद कर सकते हैं। हालांकि, अगर आप ध्यान दें चाहिए कि अगर आप ऐसा करते हैं, यह हक़ीक़त में सेवा "
+"और डेटा प्राप्त की गुणवत्ता को विकृत हो सकता है। इसलिए, आप अपने जोखिम पर ऐसा करते हैं।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:35
 msgid "Information Collected Through Digital Signatures/Certificates"
-msgstr ""
+msgstr "सूचना डिजिटल हस्ताक्षर / प्रमाण पत्र के माध्यम से एकत्र"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:37
 msgid ""
@@ -1934,10 +2188,15 @@ msgid ""
 "signature. Your details may also need to be entered into a related status "
 "directory of certificates issued."
 msgstr ""
+"उत्पाद आप उपयोग कर रहे हैं डिजिटल प्रमाण पत्र / प्रमाण पत्र हस्ताक्षर, तो आपके नाम और "
+"संबंधित विवरण आप को जारी किसी भी प्रमाण पत्र के हिस्से के रूप में प्रदर्शित किया जा सकता "
+"है। यह जिसे अपने प्रमाण पत्र या हस्ताक्षर प्रस्तुत किया है या जो अपने प्रमाण पत्र या "
+"हस्ताक्षर पर भरोसा करने के लिए उन लोगों द्वारा देखा जाएगा। आपके विवरण भी जारी प्रमाण "
+"पत्र की एक संबंधित स्थिति निर्देशिका में प्रवेश करने की आवश्यकता हो सकती है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:39
 msgid "How we protect your information"
-msgstr ""
+msgstr "कैसे हम आपकी जानकारी की सुरक्षा करते है"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:41
 msgid ""
@@ -1949,10 +2208,17 @@ msgid ""
 "guarantee can be given to ensure that information you provide to us will not "
 "be accessed by unauthorized persons."
 msgstr ""
+"हम इस तरह हमारे सर्वर पर फ़ायरवॉल संरक्षण के लिए किसी भी जानकारी हम स्टोर कर सकते हैं "
+"करने के लिए अनधिकृत पहुँच को रोकने के रूप में, आपकी जानकारी की रक्षा के लिए सुरक्षा "
+"निगरानी प्रदान करने के लिए वाणिज्यिक दृष्टि से उचित प्रयासों का उपयोग करें। हालांकि इन "
+"उपायों को आम तौर पर प्रभावी रहे हैं, और संबंधित कंप्यूटर सिस्टम इंटरनेट के उपयोग के "
+"स्वाभाविक अनाधिकृत उपयोग या की चपेट में हैं \"हैकिंग।\" कोई गारंटी नहीं कि जानकारी आप "
+"अनधिकृत व्यक्तियों द्वारा पहुँचा जा नहीं होगा हमें प्रदान सुनिश्चित करने के लिए दिया जा "
+"सकता है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:43
 msgid "Links to third party websites"
-msgstr ""
+msgstr "तृतीय पक्ष की वेबसाइटों के लिंक"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:45
 msgid ""
@@ -1960,10 +2226,13 @@ msgid ""
 "policies and practices different from ours. We do not control and are not "
 "responsible for the privacy policies or practices of any third party sites."
 msgstr ""
+"हमारी साइट का अन्य वेबसाइटों, जो जानकारी नीतियों और प्रथाओं हमारा से अलग हो सकता है "
+"करने के लिए लिंक प्रदान कर सकता है। हम नियंत्रण और गोपनीयता नीतियों या किसी तीसरे पक्ष "
+"साइटों की प्रथाओं के लिए जिम्मेदार नहीं हैं।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:47
 msgid "Interception of mail"
-msgstr ""
+msgstr "मेल का अवरोधन"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:49
 msgid ""
@@ -1973,10 +2242,14 @@ msgid ""
 "unwanted or constitute spam. In certain circumstances, this may result in "
 "\"innocent\" emails being affected."
 msgstr ""
+"हम अस्वीकार कर सकते हैं, देरी या ईमेल जो एक प्रकृति, सामग्री या संलग्नक जो, अपने "
+"विवेकाधिकार में, (अ) हमारे सिस्टम को बाधित या इस तरह के वायरस, या (ब), आक्रामक "
+"अवांछित है या गठन के रूप में सुरक्षा के मुद्दों पर खड़ी हो सकती है से सामग्री हटाने स्पैम। कुछ "
+"परिस्थितियों में, इस \"निर्दोष\" ईमेल प्रभावित किया जा रहा हो सकता है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:51
 msgid "Consent"
-msgstr ""
+msgstr "सहमति"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:53
 msgid ""
@@ -1988,24 +2261,31 @@ msgid ""
 "at that time. It is up to you to recheck this Privacy Policy to update "
 "yourself of any changes"
 msgstr ""
+"इस साइट का उपयोग करके आप हमारे संग्रह करने के लिए सहमति और इस गोपनीयता नीति के "
+"अनुसार किसी भी व्यक्तिगत जानकारी का उपयोग करें। हम किसी भी समय, संशोधित करने या इस "
+"गोपनीयता नीति को अद्यतन करने के लिए कर सकता है। हर बार जब आप हमारी साइट का उपयोग "
+"साइट के आपके उपयोग जारी रखना इस गोपनीयता नीति के तत्कालीन वर्तमान संस्करण के लिए "
+"अपनी स्वीकृति और समझौते का गठन किया जाए या नहीं, आप उस समय इसे पढ़ा है। यह आप पर "
+"निर्भर है कि किसी भी परिवर्तन के लिए अपने आप को अद्यतन करने के लिए इस गोपनीयता नीति "
+"पुनः जाँच करने के लिए"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:55
 msgid "Privacy questions"
-msgstr ""
+msgstr "गोपनीयता सवाल"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:57
 msgid ""
 "If you have any questions regarding our privacy policy, please contact us "
 "through the"
-msgstr ""
+msgstr "आप हमारी गोपनीयता नीति के बारे में किसी भी सवाल है, तो हमसे माध्यम से संपर्क करें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:57
 msgid "Contact Us"
-msgstr ""
+msgstr "हमसे संपर्क करें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\privacy.html.php:57
 msgid "page on the Site"
-msgstr ""
+msgstr "साइट पर पेज"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\risk.html.php:4
 msgid ""
@@ -2029,54 +2309,70 @@ msgid ""
 "(previously known as GreenCoin). The Material Change Reports containing "
 "these risk disclosures are available on GreenBank's company profile at"
 msgstr ""
+"GreenCoinX इंक एक टोरंटो, कनाडा आधारित सॉफ्टवेयर विकास कंपनी है कि XGC एक अनूठा "
+"क्रिप्टो मुद्रा डिजिटल पहचान की विशेषता विकसित किया है। वहाँ कोई गारंटी नहीं है कि XGC "
+"उपयोग किया जाएगा और उपयोग करता है, तो सफल हो जाएगा। GreenCoinX इंक Greenbank "
+"राजधानी इंक, एक सार्वजनिक प्रतीक जीबीसी के तहत कनाडा प्रतिभूति एक्सचेंज में सूचीबद्ध कंपनी "
+"के एक 80% सहायक कंपनी है। प्रतिभूति कनाडा में नियामक अधिकारियों, ओंटारियो प्रतिभूति "
+"आयोग सहित, अभी तक एक निवेश उत्पाद है कि क्रिप्टो सहित जाए या नहीं क्रिप्टो मुद्राओं "
+"खुदरा निवेशकों के लिए एक उपयुक्त परिसंपत्ति वर्ग का गठन मुद्राओं, में निवेश के प्रभाव को "
+"निर्धारित करने के लिए किया है। बाजार पर GreenCoinX क्रिप्टो मुद्रा की शुरूआत या एक "
+"निवेश प्रबंधक पंजीकरण या एक व्यापारी पंजीकरण की आवश्यकता हो सकती है हो सकता है नहीं, "
+"और यदि जरूरी हुआ तो इसकी कोई गारंटी नहीं है कि इस तरह के पंजीकरण आवेदन पत्र प्रदान "
+"किया जाएगा है। Greenbank राजधानी इंक अभी तक निर्धारित करती है कि इस तरह के पंजीकरण "
+"आवश्यक है। Greenbank राजधानी इंक पहले से मार्च 27, 2014 एक सामग्री बदलें रिपोर्ट "
+"क्रिप्टो मुद्राओं में निवेश के जोखिम के संबंध में खुलासे से युक्त पर SEDAR पर दायर किया है, और "
+"11 जून, 2014 को एक और सामग्री बदलें रिपोर्ट GreenCoinX के लिए सम्मान के साथ इस तरह के "
+"जोखिम के खुलासे को जोड़ने (पहले GreenCoin के रूप में जाना जाता है)। सामग्री बदलें इन जोखिम "
+"खुलासे से युक्त रिपोर्ट पर Greenbank की कंपनी प्रोफ़ाइल पर उपलब्ध हैं."
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\sendtoemail.html.php:8
 msgid "Send to Email"
-msgstr ""
+msgstr "ईमेल को भेजे "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\sendtoemail.html.php:17
 msgid "Enter email and click search"
-msgstr ""
+msgstr "ईमेल डालके ख्नोजे "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\sendtoemail.html.php:26
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\sendtoemail.html.php:35
 msgid "amount"
-msgstr ""
+msgstr "रकम"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\sendtoemail.html.php:36
 msgid "details if successful"
-msgstr ""
+msgstr "जानकारी अगर सफल"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\sendtophone.html.php:8
 msgid "Send to Phone"
-msgstr ""
+msgstr "फ़ोन को भेजे"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\sendtophone.html.php:17
 msgid "Enter phone and click search"
-msgstr ""
+msgstr "फ़ोन नंबर डालके क्लिक करे"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\sendtophone.html.php:26
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\sendtophone.html.php:35
 msgid "phone amount"
-msgstr ""
+msgstr "फ़ोन राशी "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:13
 msgid "Use this"
-msgstr ""
+msgstr "इस्तेमाल कर्र"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:13
 #: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:16
 msgid "Login Email Password"
-msgstr ""
+msgstr "लॉग इन ईमेल पासवर्ड "
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:13
 msgid "to sign in to"
-msgstr ""
+msgstr "सिएनिन करने कए लिए"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:15
 msgid "Login"
-msgstr ""
+msgstr "लॉग इन करें"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:19
 msgid "Date and time"
-msgstr ""
+msgstr "दिनांक और समय"
