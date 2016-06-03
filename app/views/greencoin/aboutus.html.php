@@ -26,7 +26,7 @@ if(substr(Environment::get('locale'),0,2)=="en"){$locale = "en";}else{$locale = 
 	</blockquote>
 	
 	<blockquote>
-	<p><strong><?=$t('Paul Cullingham is a director of GreenCoinX.')?></strong> <?=$t('He is a director and Vice President of GreenBank Capital Inc, a Canadian merchant bank listed on the Canadian Securities Exchange. He is also Chief Compliance Officer if its investment banking subsidiary GreenBank Financial Inc. He is a director of five publicly listed mining exploration companies. He is CEO of Ubique Minerals Inc, a private mining exploration company, and of Inside Bay Street Corporation, an online portal for Canadian investors. He has been an investment banker for 29 years specializing in the resource and financial sectors.')?></p>
+	<p><strong><?=$t('Rares Pateanu is a director of GreenCoinX.')?></strong> <?=$t('He is a technology consultant and Course Director in Computer Sciences at York University in Toronto, Canada. He is an expert in cryptocurrency, blockchain and financial technology. Previously he was Executive Director of Morgan Stanley Enterprise Data Group, Senior Director Enterprise Architecture and Chief Architect at Rogers Communications, Vice President Architecture at CGI, and Head of Technology Cash Management Services at Bank of Montreal. He is President and a Director of the non-profit Metropolitan Toronto Condominium Corporation 690, and was a Director and Executive Vice President of the non-profit group Common, one of the largest computer user groups in the world with over 6,600 members. He obtained his Master of Science in Computer Science and Mathematics from the University of Cluj, Romania.')?></p>
 	</blockquote>
 	
 	<blockquote>

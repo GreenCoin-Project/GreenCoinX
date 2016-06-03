@@ -2059,3 +2059,24 @@ msgstr ""
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\sendtophone.html.php:35
 msgid "phone amount"
 msgstr ""
+
+#: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:13
+msgid "Use this"
+msgstr ""
+
+#: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:13
+#: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:16
+msgid "Login Email Password"
+msgstr ""
+
+#: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:13
+msgid "to sign in to"
+msgstr ""
+
+#: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:15
+msgid "Login"
+msgstr ""
+
+#: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:19
+msgid "Date and time"
+msgstr ""

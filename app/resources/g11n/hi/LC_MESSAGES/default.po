@@ -624,26 +624,25 @@ msgstr ""
 "एमबीए और गुजरात विश्वविद्यालय से इंजीनियरिंग के एक स्नातक के साथ स्नातक किया।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:29
-msgid "Paul Cullingham is a director of GreenCoinX."
-msgstr "पॉल कलिंग्हम GreenCoinX के एक निदेशक है।"
+#, fuzzy
+msgid "Rares Pateanu is a director of GreenCoinX."
+msgstr "डेविड एम लोंस्देल GreenCoinX के एक निदेशक है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:29
 msgid ""
-"He is a director and Vice President of GreenBank Capital Inc, a Canadian "
-"merchant bank listed on the Canadian Securities Exchange. He is also Chief "
-"Compliance Officer if its investment banking subsidiary GreenBank Financial "
-"Inc. He is a director of five publicly listed mining exploration companies. "
-"He is CEO of Ubique Minerals Inc, a private mining exploration company, and "
-"of Inside Bay Street Corporation, an online portal for Canadian investors. "
-"He has been an investment banker for 29 years specializing in the resource "
-"and financial sectors."
+"He is a technology consultant and Course Director in Computer Sciences at "
+"York University in Toronto, Canada. He is an expert in cryptocurrency, "
+"blockchain and financial technology. Previously he was Executive Director of "
+"Morgan Stanley Enterprise Data Group, Senior Director Enterprise "
+"Architecture and Chief Architect at Rogers Communications, Vice President "
+"Architecture at CGI, and Head of Technology Cash Management Services at Bank "
+"of Montreal. He is President and a Director of the non-profit Metropolitan "
+"Toronto Condominium Corporation 690, and was a Director and Executive Vice "
+"President of the non-profit group Common, one of the largest computer user "
+"groups in the world with over 6,600 members. He obtained his Master of "
+"Science in Computer Science and Mathematics from the University of Cluj, "
+"Romania."
 msgstr ""
-"उन्होंने कहा कि एक निर्देशक और Greenbank राजधानी इंक, एक कनाडाई व्यापारी कनाडा "
-"प्रतिभूति एक्सचेंज में सूचीबद्ध बैंक के उपाध्यक्ष है। उन्होंने यह भी मुख्य अनुपालन अधिकारी अगर "
-"अपनी निवेश बैंकिंग सहायक Greenbank फाइनेंशियल इंक वह पांच सार्वजनिक रूप से सूचीबद्ध खनन "
-"अन्वेषण कंपनियों के एक निदेशक है। उन्होंने Ubique खनिज इंक, एक निजी खनन अन्वेषण कंपनी के "
-"सीईओ है, और अंदर बे स्ट्रीट निगम, कनाडा के निवेशकों के लिए एक ऑनलाइन पोर्टल की। वह 29 "
-"संसाधन और वित्तीय क्षेत्रों में विशेषज्ञता साल के लिए एक निवेश बैंकर की गई है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\aboutus.html.php:33
 msgid "David M. Lonsdale is a director of GreenCoinX."
@@ -1124,10 +1123,12 @@ msgstr ""
 msgid ""
 "If you are not sure, it is advisable to download GreenCoinX Setup 32 bit."
 msgstr ""
+"आप यकीन नहीं कर रहे हैं, तो यह GreenCoinX सेटअप 32 बिट डाउनलोड करने के लिए सलाह दी "
+"जाती है।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\download.html.php:79
 msgid "Your OS is Linux based, download from above link."
-msgstr ""
+msgstr "आपका लिनक्स ओएस आधारित है, ऊपर के लिंक से डाउनलोड करें।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\download.html.php:89
 msgid "Your OS is MAC OSX 10.7 download from above line"
@@ -1175,8 +1176,9 @@ msgid "How many XGC exist?"
 msgstr "XGC कितने मौजूद हैं?"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\FAQ.html.php:30
+#, fuzzy
 msgid ""
-"As at May 2016, approximately 180 million XGC have been mined of which "
+"As at May 2016, approximately 150 million XGC have been mined of which "
 "GreenCoinX Inc owns 70 million, the non-profit Digital Foundation owns 42 "
 "million."
 msgstr ""
@@ -1288,7 +1290,7 @@ msgstr ""
 msgid ""
 "Different countries have their own transaction tax rates, so how does XGC "
 "deal with that?"
-msgstr ""
+msgstr "विभिन्न देशों की अपनी ट्रांजैक्शन टैक्स दर है, तो कैसे XGC उस के साथ सौदा करता है?"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\FAQ.html.php:74
 msgid ""
@@ -1559,8 +1561,10 @@ msgstr ""
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\how.html.php:181
 msgid ""
 "Please enter correct phone number with ISD code (only numbers) "
-"[998887776666], 99 is ISD code. Click "
+"[998887776666], 99 is ISD code. Click 'Get code' to receive SMS."
 msgstr ""
+"आईएसडी कोड (केवल संख्या) [998887776666], 99 आईएसडी कोड के साथ सही फोन नंबर दर्ज "
+"करें। SMS प्राप्त करने के लिए 'कोड प्राप्त करें' पर क्लिक करें।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\how.html.php:202
 msgid "Click 'Yes'. You will receive SMS on your mobile phone."
@@ -1913,14 +1917,6 @@ msgid ""
 msgstr ""
 "कोड प्राप्त करें पर क्लिक करें। आप सत्यापन कोड के साथ एक ईमेल प्राप्त करना चाहिए। भी अपने "
 "इनबॉक्स और स्पैम फ़ोल्डर की जाँच करें।"
-
-#: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\largetx.html.php:180
-msgid ""
-"Please enter correct phone number with ISD code (only numbers) "
-"[998887776666], 99 is ISD code. Click 'Get code' to receive SMS."
-msgstr ""
-"आईएसडी कोड (केवल संख्या) [998887776666], 99 आईएसडी कोड के साथ सही फोन नंबर दर्ज "
-"करें। SMS प्राप्त करने के लिए 'कोड प्राप्त करें' पर क्लिक करें।"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:4
 #: F:\Apache\www\TBG\GreenCoinX\app\views\greencoin\mine.html.php:8
@@ -2376,3 +2372,23 @@ msgstr "लॉग इन करें"
 #: F:\Apache\www\TBG\GreenCoinX\app\views\users\onecode.mail.php:19
 msgid "Date and time"
 msgstr "दिनांक और समय"
+
+#~ msgid "Paul Cullingham is a director of GreenCoinX."
+#~ msgstr "पॉल कलिंग्हम GreenCoinX के एक निदेशक है।"
+
+#~ msgid ""
+#~ "He is a director and Vice President of GreenBank Capital Inc, a Canadian "
+#~ "merchant bank listed on the Canadian Securities Exchange. He is also "
+#~ "Chief Compliance Officer if its investment banking subsidiary GreenBank "
+#~ "Financial Inc. He is a director of five publicly listed mining "
+#~ "exploration companies. He is CEO of Ubique Minerals Inc, a private mining "
+#~ "exploration company, and of Inside Bay Street Corporation, an online "
+#~ "portal for Canadian investors. He has been an investment banker for 29 "
+#~ "years specializing in the resource and financial sectors."
+#~ msgstr ""
+#~ "उन्होंने कहा कि एक निर्देशक और Greenbank राजधानी इंक, एक कनाडाई व्यापारी कनाडा "
+#~ "प्रतिभूति एक्सचेंज में सूचीबद्ध बैंक के उपाध्यक्ष है। उन्होंने यह भी मुख्य अनुपालन अधिकारी अगर "
+#~ "अपनी निवेश बैंकिंग सहायक Greenbank फाइनेंशियल इंक वह पांच सार्वजनिक रूप से सूचीबद्ध "
+#~ "खनन अन्वेषण कंपनियों के एक निदेशक है। उन्होंने Ubique खनिज इंक, एक निजी खनन अन्वेषण "
+#~ "कंपनी के सीईओ है, और अंदर बे स्ट्रीट निगम, कनाडा के निवेशकों के लिए एक ऑनलाइन पोर्टल "
+#~ "की। वह 29 संसाधन और वित्तीय क्षेत्रों में विशेषज्ञता साल के लिए एक निवेश बैंकर की गई है।"
