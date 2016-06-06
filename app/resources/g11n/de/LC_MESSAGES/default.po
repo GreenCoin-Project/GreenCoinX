@@ -357,12 +357,12 @@ msgstr ""
 "BENUTZERIDENTIFIZIERTEN KRYPTOWÄHRUNG"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:104
-msgid "A <u>FREE</u> ONLINE WALLET, AND "
-msgstr "EINEM <u>KOSTENFREIEN<u> ONLINE WALLET (KONTO) UND"
+msgid "A FREE ONLINE WALLET, AND "
+msgstr "EINEM KOSTENFREIEN ONLINE WALLET (KONTO) UND"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:105
-msgid "A <u>FREE</u> ONLINE CRYPTO CURRENCY EXCHANGE."
-msgstr "EINER <u>KOSTENFREIEN<u> KRYPTOWÄHRUNGSWECHSELSTUBE"
+msgid "A FREE ONLINE CRYPTO CURRENCY EXCHANGE."
+msgstr "EINER KOSTENFREIEN KRYPTOWÄHRUNGSWECHSELSTUBE"
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:107
 msgid "TO OPEN YOUR FREE ONLINE GREENCOINX WALLET GO TO"

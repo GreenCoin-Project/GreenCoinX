@@ -101,8 +101,8 @@ if(substr(Environment::get('locale'),0,2)=="en"){$locale = "en";}else{$locale = 
 													</blockquote>
 												</p>
 												<h3 style="color:white"><?=$t('THE GREENCOINX ECOSYSTEM COMPRISES THE WORLD\'S FIRST CRYPTO CURRENCY REQUIRING USER IDENTIFICATION,')?></h3>
-												<h3 style="color:white"><?=$t('A <u>FREE</u> ONLINE WALLET, AND ')?></h3>
-												<h3 style="color:white"><?=$t('A <u>FREE</u> ONLINE CRYPTO CURRENCY EXCHANGE.')?></h3>
+												<h3 style="color:white"><?=$t('A FREE ONLINE WALLET, AND ')?></h3>
+												<h3 style="color:white"><?=$t('A FREE ONLINE CRYPTO CURRENCY EXCHANGE.')?></h3>
 												</p>
 												<p style="text-align:center;font-size:16px;color:white;margin-top:-20px"><?=$t('TO OPEN YOUR FREE ONLINE GREENCOINX WALLET GO TO')?> <a  style="color:white" href="https://XGCWALLET.ORG">WWW.XGCWALLET.ORG</a></p>
 																<a href="#features" class="btn btn-circle page-scroll">

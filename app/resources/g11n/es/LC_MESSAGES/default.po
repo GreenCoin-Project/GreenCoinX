@@ -346,11 +346,11 @@ msgid ""
 msgstr ""
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:104
-msgid "A <u>FREE</u> ONLINE WALLET, AND "
+msgid "A FREE ONLINE WALLET, AND "
 msgstr ""
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:105
-msgid "A <u>FREE</u> ONLINE CRYPTO CURRENCY EXCHANGE."
+msgid "A FREE ONLINE CRYPTO CURRENCY EXCHANGE."
 msgstr ""
 
 #: F:\Apache\www\TBG\GreenCoinX\app\views\elements\carousel.html.php:107
