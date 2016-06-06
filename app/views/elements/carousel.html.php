@@ -16,9 +16,10 @@ if(substr(Environment::get('locale'),0,2)=="en"){$locale = "en";}else{$locale = 
 																<span style="padding:10px;" class="pull-right">
 																<a class=" page-scroll" href="#" onclick="ChangeLanguage('en','<?=$_SERVER['REQUEST_URI']?>');" style="border-bottom:double"><small>English</small></a>	
 																<a class=" page-scroll" href="#" onclick="ChangeLanguage('de','<?=$_SERVER['REQUEST_URI']?>');" style="border-bottom:double"><small>Deutsch</small></a>
+																<a class=" page-scroll" href="#" onclick="ChangeLanguage('hi','<?=$_SERVER['REQUEST_URI']?>');" style="border-bottom:double"><small>हिन्दी</small></a>
 																<!--
 <a href="#" onclick="ChangeLanguage('es','<?=$_SERVER['REQUEST_URI']?>');" style="border-bottom:double"><small>Español</small></a>
-<a href="#" onclick="ChangeLanguage('hi','<?=$_SERVER['REQUEST_URI']?>');" style="border-bottom:double"><small>हिन्दी</small></a>
+
 																-->
 																</span>
             </div>
