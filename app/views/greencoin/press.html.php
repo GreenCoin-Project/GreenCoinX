@@ -3,6 +3,23 @@
 <div style="background-color:white;padding:10px">
 
 <blockquote>
+<h3>GreenCoinX overcomes the flaws of Bitcoins, says chairman Danny Wettreich</h3>
+<h5><a href="http://techcircle.vccircle.com/2016/06/09/greencoinx-overcomes-the-flaws-of-bitcoins-says-chairman-danny-wettreich/" target="_blank">VC Circle Mumbai Conference</a></h5>
+<p>
+<iframe src="https://www.youtube.com/embed/IyIA1G9mNK4?rel=0&amp;controls=0" allowfullscreen="" frameborder="0" height="360" width="640"></iframe></p>
+<p>Canadian cryptocurrency startup GreenCoinX is trying to establish itself as an alternative digital currency to Bitcoin, which hasn’t been able to attract many retail users and which has been mired in controversies related to usage by criminals.</p>
+
+<p>GreenCoinX is operated by Toronto-based GreenCoinX Inc and was developed mainly by Ahmedabad-based Nilam Doctor in 2014. Doctor later collaborated with Danny Wettreich, chairman of GreenBank Capital Inc, to form GreenCoinX Inc. Wettreich is the chairman and CEO of GreenCoinX Inc while Doctor is president and chief technology officer.</p>
+
+<p>The firm claims it offers the most secure form of digital currency as all transactions are based on identification. In fact, it claims to be the first identifiable cryptocurrency that has overcome both the design flaws and the poor reputation of Bitcoin.</p>
+
+<p>“The negative connotations of Bitcoin have kept consumers from using it, and precluded the many benefits of a cryptocurrency from being exploited,” Wettreich said in an interview to VCCTV. “We have created a currency that is acceptable to governments, as the user base is fully identified.”</p>
+
+<p>Wettreich said that GreenCoinX can be used to transfer money anywhere in the world outside the banking system in a secure way. GreenCoinX offers umpteen opportunities to the unbanked population in India that do not have access to bank accounts, he added.</p>
+</blockquote>
+
+
+<blockquote>
 <h3>Business Rock Stars Interviews GreenCoinX CEO Danny Wettreich About the GreenCoinX Cryptocurrency</h3>
 <h5></h5>
 <p>
