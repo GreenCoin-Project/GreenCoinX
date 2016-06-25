@@ -2,3 +2,5 @@ User-agent: *
 Disallow: /cgi-bin/
 Disallow: /documents/
 Disallow: /qrcode/
+Disallow: /resources/
+Disallow: /files
