@@ -72,7 +72,8 @@ $parameters = Parameters::find('first');
 	&& $this->_request->controller!='Admin'
 	&& $this->_request->controller!='API'
 	){?> onLoad="UpdateDetails();" <?php }?>>
-		<?php if($this->_request->controller=="Pages"){?>
+<?php ob_start(); ?>
+ <?php if($this->_request->controller=="Pages"){?>
 					<?php echo $this->_render('element', 'carousel');?>	
 					<?php echo $this->_render('element', 'feature');?>						
 				<?php }else{?>	

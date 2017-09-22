@@ -69,7 +69,6 @@
         <!-- /.container -->
 
     </nav>
-
     <!-- Intro Header -->
     <header class="intro">
         <div class="intro-body">
