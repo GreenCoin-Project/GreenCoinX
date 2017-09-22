@@ -22,7 +22,9 @@ class GreencoinController extends \lithium\action\Controller {
 				$opts = array(
 			  'http'=> array(
 					'method'=> "GET",
-					'user_agent'=> "MozillaXYZ/1.0"));
+					'user_agent'=> "MozillaXYZ/1.0",
+     'header'=>'Connection: close\r\n'));
+     
 			$context = stream_context_create($opts);
 			$function = new Functions();
 			
@@ -56,7 +58,7 @@ class GreencoinController extends \lithium\action\Controller {
 	public function contact(){
 		$page = Pages::find('first',array(
 			'conditions'=>array('pagename'=>$this->request->controller.'/'.$this->request->action)
-		));
+ ));
 
 		$title = $page['title'];
 		$keywords = $page['keywords'];
@@ -286,7 +288,8 @@ class GreencoinController extends \lithium\action\Controller {
 					$opts = array(
 					'http'=> array(
 					'method'=> "GET",
-					'user_agent'=> "MozillaXYZ/1.0"));
+					'user_agent'=> "MozillaXYZ/1.0",
+     'header'=>'Connection: close\r\n'));
 					$context = stream_context_create($opts);
 					$function = new Functions();
 					switch ($search){
@@ -327,7 +330,8 @@ class GreencoinController extends \lithium\action\Controller {
 			$opts = array(
 			'http'=> array(
 			'method'=> "GET",
-			'user_agent'=> "MozillaXYZ/1.0"));
+			'user_agent'=> "MozillaXYZ/1.0",
+   'header'=>'Connection: close\r\n'));
 			$context = stream_context_create($opts);
 			$function = new Functions();
 
