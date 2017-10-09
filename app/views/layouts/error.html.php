@@ -69,6 +69,7 @@
         <!-- /.container -->
 
     </nav>
+<?php //  echo $this->content() ; ?>
     <!-- Intro Header -->
     <header class="intro">
         <div class="intro-body">
