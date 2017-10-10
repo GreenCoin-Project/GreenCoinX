@@ -5,7 +5,7 @@ if(substr(Environment::get('locale'),0,2)=="en"){$locale = "en";}else{$locale = 
 // print_r($locale);
 ?><div style="font-size:12px;background-color:#333333;color:white;padding:5px;border-bottom:3px solid green " class="footer">
 	<p><?=$t('GreenCoinX is a registered name of')?> <strong>GreenCoinX Inc., Canada</strong>
-	<small><span class="pull-right"><?php print_r($_SERVER["REMOTE_ADDR"]);?> - <?php 	echo number_format($pagetotaltime*1000,2);  ?> ms</span></small>
+	<small><span class="pull-right"><?php // print_r($_SERVER["REMOTE_ADDR"]);?> - <?php 	echo number_format($pagetotaltime*1000,2);  ?> ms</span></small>
 	</p>
 	<div style=";background-color:#efe;height:50px;margin-top:5px">
 	<ul class="nav navbar-nav" style="font-size:11px">
