@@ -77,11 +77,6 @@ if(substr(Environment::get('locale'),0,2)=="en"){$locale = "en";}else{$locale = 
 	</blockquote>
 
 	<blockquote>
-	<p><strong><?=$t('Trevor Koverko is the CEO of Polymath Computer Solutions Inc')?></strong>, <?=$t('a virtual reality real estate marketing business. Previously he was CEO of eProf Education Inc a technology startup connecting educators and students in a virtual classroom. He is an early adopter of crypto currency with a diversified angel investor portfolio. He is retired from the New York Rangers where he was a draft pick in 2005, and previously played professional hockey in the Ontario Hockey League. He is a graduate from the University of Western Ontario-Richard Ivey School of Business.')?>
-	</p>
-	</blockquote>
-
-	<blockquote>
 	<p><strong><?=$t('Jim Taylor is Senior Solution Architect for Liaison Technologies Inc')?></strong>, <?=$t('a data integration and data security company. He was Chief Technology Officer of bTrade Inc a venture-funded software company focused on providing a secure platform for internet-based business transactions, which was purchased by Click Commerce. He previously was head of systems programming teams at Pier 1 Imports and Levi Strauss.')?>
 	</p>
 	</blockquote>
@@ -91,12 +86,6 @@ if(substr(Environment::get('locale'),0,2)=="en"){$locale = "en";}else{$locale = 
 	</p>
 	</blockquote>
 
-	<blockquote>
-	<p><strong><?=$t('John G. Booth')?></strong>  <?=$t('is the Co-Founder and currently a Director and largest shareholder of Midpoint Holdings Ltd (TSXV:MPT) having stepped down as Chairman and CEO in late 2015.  Midpoint is the world’s first peer to peer Foreign Exchange matching platform which matches buyers and sellers at the midpoint of the relevant currency interbank cross rate via its US patented multi-party, multi-currency matching computerized business method.  John led the company from inception through to revenue and through various rounds of financing culminating with its listing on both the Toronto and Frankfurt exchanges. He is also Chairman of Laramide Resources (TSX:LAM), a director of Maya Gold & Silver (TSXV:MYA) and Tirex Resources (TSXV:TXX) where he was the nominee director for the European Bank for Reconstruction and Development for many years.  He has over 25 years’ experience in international finance as an investment banker, strategy consultant, lawyer and fund manager.  He has co-founded three financial services companies, and is a member in good standing of the bars of Ontario, New York and DC. He obtained his LLM in International Finance, Tax and Environmental Law from University of London, JD from University of Detroit, and LLB in Law from University of Windsor. ')?>
-	</p>
-	</blockquote>
-
-	
 </div>
 
 </div>
